@@ -1,0 +1,1051 @@
+[
+  {
+    "id": "P08-01",
+    "pillar": "Vibration, sound & Tesla",
+    "sub": "Tesla myths",
+    "style": "S4",
+    "status": "DEBATED",
+    "hook": "Tesla's 3-6-9 quote|has a *problem*",
+    "lines": [
+      {
+        "say": "If you only knew the magnificence of the three, six and nine, you would have the key to the universe. Nikola Tesla. Or so millions of posts say.",
+        "shots": [
+          [
+            "archive: Tesla portrait (public domain)",
+            "mono"
+          ],
+          [
+            "line art: 3 6 9 glowing with phi overlay",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Here's the problem. Nobody has found that sentence anywhere in Tesla's writings, his patents, his letters, or his interviews.",
+        "shots": [
+          [
+            "q: old patent documents stack",
+            "warm"
+          ],
+          [
+            "q: archive boxes library",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "It seems to have spread online in the 2010s, with no source attached.",
+        "shots": [
+          [
+            "q: phone scrolling social feed",
+            "cool"
+          ],
+          [
+            "line art: 'source?' stamp",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "But there is a real story about Tesla and the number three. His biographers describe habits that look a lot like obsessive-compulsive disorder.",
+        "shots": [
+          [
+            "q: New York 1930s hotel archive",
+            "mono"
+          ],
+          [
+            "q: hotel room door numbers",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Walking around a block three times before going into a building. Using eighteen napkins at dinner. Counting his steps. Preferring numbers divisible by three.",
+        "shots": [
+          [
+            "line art: path circling block 3 times",
+            "mono"
+          ],
+          [
+            "q: folded white napkins table",
+            "warm"
+          ],
+          [
+            "q: footsteps on sidewalk",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "He died in room 3327 of the Hotel New Yorker. Divisible by three.",
+        "shots": [
+          [
+            "q: Hotel New Yorker sign night",
+            "red"
+          ],
+          [
+            "line art: 3327 ÷ 3 = 1109",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "So: the cosmic key quote, no evidence. A brilliant man with a real fixation on three: well documented.",
+        "shots": [
+          [
+            "line art: two stamps NO SOURCE / DOCUMENTED",
+            "mono"
+          ],
+          [
+            "archive: Tesla in lab with sparks (public domain)",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "'3 6 9 key to the universe' quote: no verified primary source (KNOWN absence per researchers and Tesla Museum queries; DEBATED by fans). Habits: O'Neill 'Prodigal Genius' 1944 and Cheney 'Tesla: Man Out of Time' 1981 describe triple walks, 18 napkins, counting steps, divisibility by three (KNOWN as biographer accounts). Died room 3327 Hotel New Yorker, 7 Jan 1943 (KNOWN).",
+    "ig_caption": "I looked for the original 3 6 9 quote for an hour. it doesn't exist. but the real story about Tesla and the number 3 is honestly better",
+    "tt_caption": "did Tesla really say 3 6 9 is the key to the universe? #tesla #369"
+  },
+  {
+    "id": "P08-02",
+    "pillar": "Vibration, sound & Tesla",
+    "sub": "Tesla myths",
+    "style": "S7",
+    "status": "DEBATED",
+    "hook": "Tesla's *earthquake* machine",
+    "lines": [
+      {
+        "say": "In 1935, Nikola Tesla told a New York newspaper a story from almost forty years earlier.",
+        "shots": [
+          [
+            "archive: Tesla older portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: 1930s newspaper printing press",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "In his lab on Houston Street, he said, he'd attached a small steam-powered oscillator to an iron pillar. And turned it on.",
+        "shots": [
+          [
+            "q: Lower Manhattan 1890s archive",
+            "mono"
+          ],
+          [
+            "line art: oscillator on pillar",
+            "mono"
+          ],
+          [
+            "q: steam engine piston",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "He claimed the building began to shake, then the neighborhood. Windows broke. People ran into the street. Police came running.",
+        "shots": [
+          [
+            "q: glass window shaking",
+            "cool"
+          ],
+          [
+            "q: brick building old New York",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Before they got in, he grabbed a sledgehammer and smashed the machine.",
+        "shots": [
+          [
+            "q: sledgehammer swing slow motion",
+            "red"
+          ],
+          [
+            "q: metal parts falling",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Here's the issue. No newspaper or police report from the 1890s mentions an earthquake in that neighborhood. The only source is Tesla, decades later.",
+        "shots": [
+          [
+            "q: archive newspapers microfilm",
+            "mono"
+          ],
+          [
+            "line art: 1898 record empty",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "In 2006, the TV show MythBusters built a version and attached it to a bridge. It made vibrations you could feel, but nothing close to shaking a building.",
+        "shots": [
+          [
+            "q: steel bridge structure",
+            "cool"
+          ],
+          [
+            "q: vibration sensor reading",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Resonance is real and powerful. Tesla's earthquake, as far as we can tell, was a great story.",
+        "shots": [
+          [
+            "archive: Tesla lab sparks (public domain)",
+            "orange"
+          ],
+          [
+            "q: tuning fork vibrating macro",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Tesla's account in New York World-Telegram, 11 July 1935 (KNOWN). Mechanical oscillator patents 1890s (KNOWN). Lab at 46 E. Houston St (KNOWN). No contemporary record of quake (KNOWN absence per historians). MythBusters 2006 'Earthquake Machine' busted (KNOWN).",
+    "ig_caption": "Tesla said he nearly flattened a NYC neighborhood with a pocket-sized machine. the only witness was... Tesla",
+    "tt_caption": "Tesla's earthquake machine, myth or real? #tesla #nikolatesla"
+  },
+  {
+    "id": "P08-03",
+    "pillar": "Vibration, sound & Tesla",
+    "sub": "Cymatics",
+    "style": "S7",
+    "status": "KNOWN",
+    "hook": "The woman who|*solved* sound patterns",
+    "lines": [
+      {
+        "say": "In 1787, a German musician named Ernst Chladni sprinkled sand on a metal plate and drew a violin bow along its edge.",
+        "shots": [
+          [
+            "archive: Chladni portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: violin bow on metal plate",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "The sand jumped and settled into perfect geometric patterns. Change the note, and the pattern changes.",
+        "shots": [
+          [
+            "q: Chladni plate sand pattern forming",
+            "orange"
+          ],
+          [
+            "q: cymatics sand geometry close-up",
+            "warm"
+          ],
+          [
+            "archive: Chladni figures plate drawings (public domain)",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The sand gathers in the places where the plate isn't moving. You're seeing the shape of the vibration.",
+        "shots": [
+          [
+            "line art: nodal lines vs moving areas",
+            "mono"
+          ],
+          [
+            "q: sand grains bouncing macro",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Napoleon saw a demonstration and was so impressed he offered a prize, a kilogram gold medal, to whoever could explain it mathematically.",
+        "shots": [
+          [
+            "archive: Napoleon portrait (public domain)",
+            "warm"
+          ],
+          [
+            "q: gold medal coin",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "The winner was Sophie Germain. A woman with no university access, who had taught herself math and once wrote to famous mathematicians under a man's name.",
+        "shots": [
+          [
+            "archive: Sophie Germain portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: candlelit desk handwriting equations",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "She failed twice. On her third try, in 1816, she won. The first woman to win a prize from the Paris Academy of Sciences.",
+        "shots": [
+          [
+            "q: Paris Institut de France dome",
+            "cool"
+          ],
+          [
+            "line art: attempt 1 X, 2 X, 3 check",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Every viral sand-pattern video today started with a violin bow and a woman nobody let into the room.",
+        "shots": [
+          [
+            "q: cymatics plate complex pattern",
+            "magenta"
+          ],
+          [
+            "q: sand pattern forming final",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Chladni 1787, 'Entdeckungen ueber die Theorie des Klanges' (KNOWN). Sand collects at nodal lines (KNOWN). Napoleon's prize via Institut de France, 1 kg gold medal (KNOWN). Sophie Germain won 1816 on third attempt, first woman to win the Academy's prize (KNOWN). Pseudonym 'M. LeBlanc' with Lagrange/Gauss (KNOWN). Theory later refined by others (KNOWN).",
+    "ig_caption": "everyone shares the sand pattern videos, nobody knows Sophie Germain cracked the math in 1816 after being shut out of every university",
+    "tt_caption": "Chladni plates and Sophie Germain, the origin of cymatics #cymatics #science"
+  },
+  {
+    "id": "P08-04",
+    "pillar": "Vibration, sound & Tesla",
+    "sub": "Resonance myths",
+    "style": "S2",
+    "status": "KNOWN",
+    "hook": "This bridge didn't fall|from *resonance*",
+    "lines": [
+      {
+        "say": "This is the Tacoma Narrows Bridge in Washington State, November 7th, 1940. Four months after it opened.",
+        "shots": [
+          [
+            "archive: Tacoma Narrows 1940 film twisting (public domain, verify)",
+            "mono"
+          ],
+          [
+            "archive: same film wide",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Watch the deck. It's twisting like a ribbon in a wind of about forty miles an hour.",
+        "shots": [
+          [
+            "archive: Tacoma Narrows deck twisting close",
+            "cool"
+          ],
+          [
+            "line art: twist arrows on deck",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Minutes later, it tore apart and fell into the water.",
+        "shots": [
+          [
+            "archive: Tacoma Narrows collapse moment",
+            "mono"
+          ],
+          [
+            "q: water splash slow motion",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Textbooks for decades said: resonance. The wind matched the bridge's natural frequency, like a singer breaking a glass.",
+        "shots": [
+          [
+            "q: wine glass vibrating",
+            "warm"
+          ],
+          [
+            "line art: 'resonance?' stamp",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Engineers now say that's not quite right. Wind doesn't push steadily at one frequency. The bridge's own motion was changing the airflow, which pushed it harder, which twisted it more.",
+        "shots": [
+          [
+            "line art: airflow vortices feeding back into twist",
+            "mono"
+          ],
+          [
+            "q: flag flapping in wind",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "It's called aeroelastic flutter. A feedback loop, not a perfect note.",
+        "shots": [
+          [
+            "line art: loop arrow motion -> air -> motion",
+            "red"
+          ],
+          [
+            "q: airplane wing flutter test",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Nobody died. The only casualty was a cocker spaniel named Tubby, left in a car on the bridge.",
+        "shots": [
+          [
+            "archive: Tacoma Narrows car on deck (public domain)",
+            "mono"
+          ],
+          [
+            "q: Puget Sound calm water",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Collapse 7 Nov 1940, opened 1 Jul 1940, ~40 mph winds (KNOWN). Aeroelastic (torsional) flutter rather than simple forced resonance (KNOWN, Billah & Scanlan 1991). Only death: dog Tubby (KNOWN). Footage by Barney Elliott; LOC/National Film Registry; confirm PD status before use.",
+    "ig_caption": "I learned this was 'resonance' in school. it wasn't. also RIP Tubby",
+    "tt_caption": "why the Tacoma Narrows bridge really collapsed #engineering #physics"
+  },
+  {
+    "id": "P08-05",
+    "pillar": "Vibration, sound & Tesla",
+    "sub": "Tesla's dreams",
+    "style": "S10",
+    "status": "KNOWN",
+    "hook": "Tesla's tower is|in your *pocket*",
+    "lines": [
+      {
+        "say": "In 1901, on Long Island, Nikola Tesla started building a tower almost two hundred feet tall. Wardenclyffe.",
+        "shots": [
+          [
+            "archive: Wardenclyffe Tower photo (public domain)",
+            "mono"
+          ],
+          [
+            "q: Long Island coast",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "J.P. Morgan, the richest banker in America, put up a hundred and fifty thousand dollars.",
+        "shots": [
+          [
+            "archive: J.P. Morgan portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: old dollar bills",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Morgan thought he was paying for transatlantic radio. Tesla wanted much more: to send power itself through the air, without wires, to anyone.",
+        "shots": [
+          [
+            "archive: Tesla lamps lit wirelessly (public domain)",
+            "orange"
+          ],
+          [
+            "line art: power waves spreading from tower",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "That same December, Marconi sent a radio signal across the Atlantic, using far cheaper equipment.",
+        "shots": [
+          [
+            "archive: Marconi portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: Morse code telegraph key",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Morgan stopped paying. Tesla never finished. In 1917 the tower was blown up and sold for scrap.",
+        "shots": [
+          [
+            "q: demolition dust",
+            "mono"
+          ],
+          [
+            "q: rusted metal scrap",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "But look at your phone charging on a wireless pad. Energy jumping across a gap through a magnetic field. Tesla lit lamps without wires that way in the 1890s.",
+        "shots": [
+          [
+            "q: phone on wireless charger",
+            "cool"
+          ],
+          [
+            "line art: coil to coil field lines",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "He failed at sending power around the world. He succeeded at sending it a few millimeters. And that's in billions of pockets now.",
+        "shots": [
+          [
+            "q: wireless earbuds case charging",
+            "teal"
+          ],
+          [
+            "archive: Wardenclyffe tower final",
+            "mono"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Wardenclyffe 1901-1917, ~187 ft (KNOWN). Morgan $150,000 (KNOWN). Marconi transatlantic 12 Dec 1901 (KNOWN). Demolished 1917 (KNOWN). Tesla wireless lamp demos 1890s via resonant inductive coupling (KNOWN). Qi chargers use inductive coupling (KNOWN; related principle, not Tesla's global scheme).",
+    "ig_caption": "Morgan pulled the money, the tower got blown up, and now basically every phone does a tiny version of it",
+    "tt_caption": "Wardenclyffe Tower and Tesla's dream of wireless power #tesla #history"
+  },
+  {
+    "id": "P08-06",
+    "pillar": "Vibration, sound & Tesla",
+    "sub": "Ancient acoustics",
+    "style": "S6",
+    "status": "SPECULATION",
+    "hook": "A 5,000-year-old room|*tuned* to your voice",
+    "lines": [
+      {
+        "say": "Under a street in Malta is the Ħal Saflieni Hypogeum. Underground chambers carved out of solid rock, over five thousand years ago, and used to bury thousands of people.",
+        "shots": [
+          [
+            "q: Malta Hypogeum interior (verify licence)",
+            "warm"
+          ],
+          [
+            "q: carved rock chamber dark",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "One small chamber is called the Oracle Room. It has a niche in the wall.",
+        "shots": [
+          [
+            "q: stone niche carved wall",
+            "warm"
+          ],
+          [
+            "line art: chamber plan with niche",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Speak into it in a deep voice, and the sound fills the whole complex. Visitors describe feeling it in their bodies.",
+        "shots": [
+          [
+            "line art: sound waves filling chambers",
+            "mono"
+          ],
+          [
+            "q: echo ripples dark water",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Researchers measured strong resonance at around a hundred and ten hertz. That's within the range of a low male voice.",
+        "shots": [
+          [
+            "line art: frequency graph peak at 110 Hz",
+            "mono"
+          ],
+          [
+            "q: audio spectrum analyzer",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "One small study even suggested sounds near that frequency shift activity in the brain.",
+        "shots": [
+          [
+            "line art: brain with shifting activity",
+            "magenta"
+          ],
+          [
+            "q: EEG cap lab",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "So what if the builders chose this shape on purpose, for chanting, for ritual, for talking to the dead?",
+        "shots": [
+          [
+            "q: candles in stone cave",
+            "orange"
+          ],
+          [
+            "q: dark corridor carved rock",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "We don't know. It could be an accident of the rock. But if it's deliberate, it's one of the oldest sound designs on Earth.",
+        "shots": [
+          [
+            "line art: 'speculation' stamp",
+            "red"
+          ],
+          [
+            "q: Malta coast cliffs",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Hal Saflieni Hypogeum, c. 4000-2500 BC, UNESCO (KNOWN). ~7,000 individuals buried (KNOWN estimate; 'thousands'). Oracle Room acoustics (KNOWN). Resonance ~110-114 Hz (Cook et al. 2008; Debertolis et al.) (DEBATED). EEG effect, small study (Cook, Pajot & Leuchter 2008) (DEBATED). Intent (SPECULATION). Interior photography is restricted: use licensed/PD images only.",
+    "ig_caption": "a room built 5000 years ago that resonates at the pitch of a deep human voice. maybe coincidence. maybe not",
+    "tt_caption": "the Hypogeum of Malta and its mysterious acoustics #ancientmysteries #sound"
+  },
+  {
+    "id": "P08-07",
+    "pillar": "Vibration, sound & Tesla",
+    "sub": "Tesla's last years",
+    "style": "S5",
+    "status": "KNOWN",
+    "hook": "Tesla's *death ray*|and the FBI",
+    "lines": [
+      {
+        "say": "July 1934. Nikola Tesla turns seventy-eight, and announces his newest invention to reporters.",
+        "shots": [
+          [
+            "archive: Tesla elderly portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: 1930s reporters flash cameras",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "He calls it teleforce. Newspapers call it a death ray.",
+        "shots": [
+          [
+            "q: vintage newspaper headline",
+            "mono"
+          ],
+          [
+            "q: electric beam arc dark",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "He claimed it could bring down a fleet of ten thousand enemy airplanes at a distance of two hundred and fifty miles. And he called it a weapon for peace, because it could only defend.",
+        "shots": [
+          [
+            "archive: 1930s airplanes formation (public domain)",
+            "mono"
+          ],
+          [
+            "line art: beam over map, 250 miles",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "He never built it. He died in January 1943, alone in a New York hotel room, nearly broke.",
+        "shots": [
+          [
+            "q: hotel room window snow night",
+            "cool"
+          ],
+          [
+            "q: New York 1940s winter archive",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Days later, the US government seized his papers. It was wartime. Nobody wanted his death ray in the wrong hands.",
+        "shots": [
+          [
+            "q: archive boxes sealed",
+            "mono"
+          ],
+          [
+            "q: typed government document",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "An MIT engineer named John Trump was sent to go through them. His verdict: speculative, philosophical, and somewhat promotional. No workable new weapon.",
+        "shots": [
+          [
+            "line art: report stamp 'speculative'",
+            "red"
+          ],
+          [
+            "q: engineer notes desk lamp",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "The death ray may never have existed beyond his mind. But for a few days in 1943, the government wasn't willing to bet on it.",
+        "shots": [
+          [
+            "archive: Tesla lab sparks (public domain)",
+            "orange"
+          ],
+          [
+            "q: dark sky with distant lightning",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Teleforce announced around his 78th birthday, July 1934 (KNOWN; NYT 11 July 1934). '10,000 airplanes at 250 miles' (KNOWN as his claim). Died 7 Jan 1943 (KNOWN). Office of Alien Property seized belongings (KNOWN). John G. Trump report: 'primarily of a speculative, philosophical, and somewhat promotional character' (KNOWN). Do NOT add relationship to later politicians (unneeded).",
+    "ig_caption": "he said it could stop 10,000 planes. the guy sent to check his papers said 'somewhat promotional'. brutal",
+    "tt_caption": "Tesla's death ray and what the government found #tesla #history"
+  },
+  {
+    "id": "P08-08",
+    "pillar": "Vibration, sound & Tesla",
+    "sub": "Frequency myths",
+    "style": "S4",
+    "status": "KNOWN",
+    "hook": "The 'ancient' 528 Hz|is from the *1970s*",
+    "lines": [
+      {
+        "say": "You've seen the videos. 528 hertz, the love frequency. Repairs your DNA. An ancient sacred tone.",
+        "shots": [
+          [
+            "q: meditation singing bowl",
+            "warm"
+          ],
+          [
+            "line art: 528 Hz glowing",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "These are called the solfeggio frequencies. The story says medieval monks sang them in Gregorian chant.",
+        "shots": [
+          [
+            "q: medieval monastery cloister",
+            "warm"
+          ],
+          [
+            "archive: medieval chant manuscript neumes (public domain)",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Here's the problem. Medieval singers had no hertz. Nobody could measure pitch as a number until the 1800s. Even the word hertz dates from the twentieth century.",
+        "shots": [
+          [
+            "q: tuning fork antique",
+            "warm"
+          ],
+          [
+            "line art: timeline monks / hertz measured",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "There was a real medieval hymn, Ut queant laxis, that gave us do, re, mi. But it had syllables, not frequencies.",
+        "shots": [
+          [
+            "archive: Ut queant laxis manuscript (public domain)",
+            "warm"
+          ],
+          [
+            "line art: Ut Re Mi Fa Sol La",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The specific numbers, 396, 417, 528 and the rest, trace back to an American named Joseph Puleo in the 1970s, who said he found them by numerology in the Bible. They were popularized in a 1999 book.",
+        "shots": [
+          [
+            "q: old bible numbers page",
+            "warm"
+          ],
+          [
+            "line art: numbers 396 417 528",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "And there's no solid evidence that 528 hertz repairs DNA.",
+        "shots": [
+          [
+            "q: DNA helix animation",
+            "magenta"
+          ],
+          [
+            "line art: 'no evidence' stamp",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "If a tone relaxes you, enjoy it. Just know it's not an ancient secret. It's younger than disco.",
+        "shots": [
+          [
+            "q: headphones on in calm room",
+            "cool"
+          ],
+          [
+            "q: disco ball light",
+            "magenta"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Frequency measurement in Hz-equivalent from 19th c.; 'hertz' unit adopted 1930 (IEC) (KNOWN). Ut queant laxis, Guido of Arezzo, 11th c. (KNOWN). Joseph Puleo (1970s) and Leonard Horowitz's 1999 book (KNOWN). DNA repair claim: no credible evidence (KNOWN).",
+    "ig_caption": "not hating on 528hz playlists, I use them to sleep sometimes. but the 'ancient monks' part is made up",
+    "tt_caption": "the truth about solfeggio frequencies and 528 Hz #528hz #frequency"
+  },
+  {
+    "id": "P08-09",
+    "pillar": "Vibration, sound & Tesla",
+    "sub": "Power of sound",
+    "style": "S3",
+    "status": "KNOWN",
+    "hook": "3 things sound can do|that look like *magic*",
+    "lines": [
+      {
+        "say": "Three things sound can physically do that look like magic, and are completely real.",
+        "shots": [
+          [
+            "q: speaker cone vibrating macro",
+            "warm"
+          ],
+          [
+            "line art: numbers 1 2 3",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "One. Make things float. Set up two sound waves that bounce back and forth, and you get still points where small objects hang in midair. Labs use it to hold droplets without touching them.",
+        "shots": [
+          [
+            "q: acoustic levitation beads floating",
+            "teal"
+          ],
+          [
+            "line art: standing wave with nodes",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Two. Break glass with a voice. Every glass has a note it naturally rings at. Hit that note loud enough, and the vibration tears it apart. A singer did it on TV in 2005, with no microphone tricks beyond amplification.",
+        "shots": [
+          [
+            "q: wine glass shattering slow motion",
+            "red"
+          ],
+          [
+            "q: wine glass ringing finger rim",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Three. Turn sound into light. Blast water with strong sound, and tiny bubbles collapse so violently they give off flashes of light.",
+        "shots": [
+          [
+            "q: bubbles underwater macro",
+            "teal"
+          ],
+          [
+            "q: tiny light flash in water",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "It's called sonoluminescence. Nature does it too: the pistol shrimp snaps its claw so fast, the collapsing bubble flashes.",
+        "shots": [
+          [
+            "q: pistol shrimp",
+            "orange"
+          ],
+          [
+            "line art: claw snap, bubble, flash",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Exactly how that flash happens is still not fully understood.",
+        "shots": [
+          [
+            "line art: question mark in bubble",
+            "mono"
+          ],
+          [
+            "q: underwater light rays",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Acoustic levitation at pressure nodes of standing waves (KNOWN; e.g., Argonne 2012 drug droplets). Glass shattering by voice: MythBusters 2005 with Jaime Vendera, amplified (KNOWN). Sonoluminescence discovered 1934 (Frenzel & Schultes) (KNOWN); mechanism DEBATED. Pistol shrimp 'shrimpoluminescence' Lohse et al. Nature 2001 (KNOWN).",
+    "ig_caption": "a shrimp that makes light by snapping its claw. that's the tweet",
+    "tt_caption": "3 real things sound can do: levitate, shatter, glow #science #sound"
+  },
+  {
+    "id": "P08-10",
+    "pillar": "Vibration, sound & Tesla",
+    "sub": "Everything vibrates",
+    "style": "S9",
+    "status": "KNOWN",
+    "hook": "Color is just a|*faster* sound",
+    "lines": [
+      {
+        "say": "Everything you hear and see is something vibrating. The only difference is speed. Let's climb.",
+        "shots": [
+          [
+            "q: guitar string vibrating macro",
+            "warm"
+          ],
+          [
+            "line art: frequency ladder starting",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Around fifteen vibrations a second: elephants talk to each other below what we can hear.",
+        "shots": [
+          [
+            "q: elephants walking savanna",
+            "warm"
+          ],
+          [
+            "line art: '15 Hz'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Twenty to twenty thousand a second: everything you can hear. The A that orchestras tune to is four hundred and forty.",
+        "shots": [
+          [
+            "q: orchestra tuning violin close-up",
+            "orange"
+          ],
+          [
+            "line art: '20 Hz - 20,000 Hz'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Up to around two hundred thousand: bats, hunting in sound you'll never hear.",
+        "shots": [
+          [
+            "q: bat flying night",
+            "cool"
+          ],
+          [
+            "line art: '200,000 Hz'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Two and a half billion: your microwave oven, and your Wi-Fi.",
+        "shots": [
+          [
+            "q: microwave oven glow",
+            "orange"
+          ],
+          [
+            "q: wifi router lights",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Around five hundred trillion: red light. A bit higher: violet. Color is vibration too, electromagnetic instead of air.",
+        "shots": [
+          [
+            "q: prism rainbow light",
+            "magenta"
+          ],
+          [
+            "line art: '430-750 THz'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Red light vibrates tens of billions of times faster than the highest note you can hear. Same universe, different speeds.",
+        "shots": [
+          [
+            "line art: full ladder from 15 Hz to light",
+            "mono"
+          ],
+          [
+            "q: sunset red sky",
+            "red"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Elephant infrasound ~14-35 Hz (KNOWN). Human hearing 20 Hz-20 kHz (KNOWN). A440 standard (KNOWN). Bats up to ~200 kHz (KNOWN). Microwaves/Wi-Fi 2.4 GHz (KNOWN). Visible light ~430-750 THz (KNOWN). Ratio red 430 THz / 20 kHz = 2.15e10: 'tens of billions'. Sound is mechanical, light electromagnetic: stated.",
+    "ig_caption": "the highest note you can hear vs red light: tens of billions of times slower. same idea though, it's all vibrating",
+    "tt_caption": "everything is vibration: from elephant calls to colors #frequency #science"
+  }
+]

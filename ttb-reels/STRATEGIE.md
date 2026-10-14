@@ -48,9 +48,17 @@ Am folosit vidIQ: reel-uri și TikTok-uri din iul–oct 2026 care au făcut de 5
 | P07 | Other dimensions & the physics of reality | cuantic, relativitate, dimensiuni, simulare |
 | P08 | Vibration, sound & Tesla | Tesla (mit vs realitate), cimatică, rezonanță, frecvențe „sacre” |
 | P09 | Numbers, numerology & sacred geometry | φ, Fibonacci, Pitagora, gematria, numere sacre |
-| P10 | Mind, meditation, biology & deception | minciuna, meditația, conștiința, creierul, placebo |
+| P10 | Mind, meditation, consciousness & biology | meditația, conștiința, creierul, corpul, mintea animalelor |
 
-Fiecare pilon amestecă 5–7 stiluri, ca să vedem din analytics ce merge. Fiecare stil apare de ~10 ori în total.
+Fiecare pilon amestecă 5–8 stiluri, ca să vedem din analytics ce merge. **Fiecare stil apare exact de 10 ori.**
+
+**Ce am schimbat după răspunsul sesiunii TTB:**
+- Nu repetăm ce e deja făcut ca short-form: Ea‑nasir, Kushim, stardust, Inanna, medicina babiloniană a fantomelor, cele „5 afterlives”.
+- Reel-urile legate de episoadele lungi (Leininger, AWARE, Pam Reynolds, van Lommel, gamma surge) rămân, fiecare cu răspunsul complet.
+- „Psychology of deception” a devenit „Mind, meditation, consciousness & biology”.
+- Fără actori din stock: cadrele arată locuri, obiecte, arhive, line art.
+- 2–3 cadre pe frază, cu gradele TTB: warm, orange, red, magenta, teal, mono, cool.
+- Fără artă AI plătită în pilot.
 
 ## 4. Fișierele
 
@@ -58,12 +66,19 @@ Fiecare pilon amestecă 5–7 stiluri, ca să vedem din analytics ce merge. Fiec
   - Câmpurile scriptului: `hook`, `lines[].say`, `lines[].shots`, `outro`.
   - Câmpurile în plus: `id`, `pillar`, `sub`, `style`, `status`, `fact_note`, `ig_caption`, `tt_caption`.
   - Cadrele sunt **descrieri + termeni de căutare** (`q: …`). Sesiunea TTB le înlocuiește cu fișiere reale (Envato, arhive) înainte de randare.
-- `CATALOG.md`: toate cele 100, ușor de citit (se generează cu `python3 tools/build_catalog.py`).
+- `CATALOG.md`: toate cele 100, ușor de citit pe telefon (se generează cu `python3 tools/build_catalog.py`).
+- `pilot/NN-slug/`: `reel.json` (pentru `make-reel.mjs`) + `post.txt` (descrierile IG și TikTok + nota internă), generate cu `python3 tools/export_pilot.py [ID…]`.
 - `tools/check_reels.py`: verifică lungimea (cuvinte → secunde), câmpurile și regulile de copy (de exemplu, fără „Source:” sau „watch on YouTube”).
 
 ## 5. Ce urmează
 
-1. **Pilot:** sesiunea TTB randează 10 reel-uri, câte unul din fiecare stil, cu `make-reel.mjs`.
+1. **Pilot (`pilot/`):** 10 reel-uri, câte unul din fiecare stil, deja exportate în formatul `make-reel.mjs`.
+   - Sunt: Göbekli Tepe, The Nightmare (Fuseli), van Lommel, Einstein & God, fantoma lui Pliniu, Zhuangzi, Leininger, infrasunetul, „your heart stops”, „why 60 minutes”.
+   - Necesită ~7k caractere ElevenLabs. Sesiunea TTB mai are ~64k până pe 9 nov.
 2. **După 7–10 zile:** comparăm, în vidIQ și Instagram Insights, timpul de vizionare, trimiterile și salvările pe stil.
 3. **Restul:** ritmul de 2–4 pe zi, cu mai multe din stilurile câștigătoare.
-4. **Atenție la ElevenLabs:** 100 de reel-uri înseamnă ~75–85k de caractere, adică peste jumătate din cota lunară Creator (131k), pe care o folosesc și episoadele. Tu decizi ritmul.
+4. **Atenție la ElevenLabs:** toate cele 100 înseamnă **73.7k caractere**, adică ~56% din cota lunară Creator (131k), pe care o folosesc și episoadele. Sesiunea TTB propune: pilotul acum, restul după resetarea din 9 nov. Tu decizi ritmul.
+5. **Licențe semnalate în `fact_note`:**
+   - Brown Lady (1936): poate fi încă sub copyright, deci o redesenăm.
+   - Obiectele de la British Museum (Lycurgus Cup, Cyrus Cylinder, tăblițe): imagini non-BM sau redesenare.
+   - Filmul Tacoma și interiorul Hypogeum: licența trebuie verificată.

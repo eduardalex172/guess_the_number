@@ -1,0 +1,1047 @@
+[
+  {
+    "id": "P10-01",
+    "pillar": "Mind, meditation, consciousness & biology",
+    "sub": "Meditation science",
+    "style": "S8",
+    "status": "DEBATED",
+    "hook": "Does meditation really|*change your brain*?",
+    "lines": [
+      {
+        "say": "You've heard it: eight weeks of meditation changes your brain. Here's what the research actually found.",
+        "shots": [
+          [
+            "q: meditation cushion calm room light",
+            "warm"
+          ],
+          [
+            "line art: brain outline glowing",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "In 2005, a Harvard researcher, Sara Lazar, found that long-time meditators had thicker areas of cortex linked to attention.",
+        "shots": [
+          [
+            "q: MRI scanner room",
+            "cool"
+          ],
+          [
+            "line art: cortex areas highlighted",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "In 2011, a small study reported more grey matter after just eight weeks of a mindfulness course. That's the one everyone quotes.",
+        "shots": [
+          [
+            "line art: before / after 8 weeks",
+            "mono"
+          ],
+          [
+            "q: calendar weeks pages",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "But in 2022, a much bigger, randomized study tested over two hundred people. Mindfulness, exercise, or nothing.",
+        "shots": [
+          [
+            "line art: three groups of dots",
+            "mono"
+          ],
+          [
+            "q: brain scans grid",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Result: no detectable change in brain structure from eight weeks of meditation.",
+        "shots": [
+          [
+            "line art: before / after identical, 'no change' stamp",
+            "red"
+          ],
+          [
+            "q: still water surface",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "So does that mean it doesn't work? No. Reviews of clinical trials still find moderate benefits for anxiety, depression and pain.",
+        "shots": [
+          [
+            "line art: bars anxiety / depression / pain",
+            "mono"
+          ],
+          [
+            "q: sunrise calm landscape",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "It may change how you feel before it ever changes what a scanner can see.",
+        "shots": [
+          [
+            "q: candle flame steady dark",
+            "orange"
+          ],
+          [
+            "q: lake mist morning",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Lazar et al., NeuroReport 2005 (KNOWN). Hoelzel et al. 2011, 8-week MBSR grey matter density (KNOWN, n=16). Kral et al., Science Advances 2022, RCT n=218, no structural change (KNOWN). Goyal et al., JAMA Intern Med 2014: moderate evidence for anxiety, depression, pain (KNOWN). Lazar was at Massachusetts General Hospital / Harvard Medical School (KNOWN).",
+    "ig_caption": "I meditate and I still think it's important to say: the '8 weeks rewires your brain' study didn't hold up when they tested way more people. the mood stuff did",
+    "tt_caption": "does meditation actually change your brain? the latest research #meditation #neuroscience"
+  },
+  {
+    "id": "P10-02",
+    "pillar": "Mind, meditation, consciousness & biology",
+    "sub": "Body & brain",
+    "style": "S8",
+    "status": "KNOWN",
+    "hook": "You have a|*second brain*",
+    "lines": [
+      {
+        "say": "Your gut has its own nervous system. Around five hundred million neurons, wrapped around your digestive tract.",
+        "shots": [
+          [
+            "line art: gut outline with neuron network",
+            "mono"
+          ],
+          [
+            "q: neurons glowing network",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "That's about as many as in a dog's cerebral cortex. Scientists call it the enteric nervous system, or the second brain.",
+        "shots": [
+          [
+            "q: dog eyes close-up dark",
+            "warm"
+          ],
+          [
+            "line art: 500 million vs dog cortex",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "It can run digestion completely on its own. Even if the main nerve to the brain is cut, the gut keeps working.",
+        "shots": [
+          [
+            "q: intestinal tissue microscope",
+            "teal"
+          ],
+          [
+            "line art: nerve cut, gut still active",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "And most of the body's serotonin, the chemical linked to mood, about ninety percent, is made in the gut, not the brain.",
+        "shots": [
+          [
+            "line art: serotonin molecule",
+            "mono"
+          ],
+          [
+            "line art: 90% gut / 10% elsewhere",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "One catch: gut serotonin mostly can't cross into the brain. But the gut talks to the brain constantly, through the vagus nerve. Most of its fibers carry signals upward, from body to brain.",
+        "shots": [
+          [
+            "line art: vagus nerve arrows upward",
+            "mono"
+          ],
+          [
+            "q: nerve fibers microscope",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "So butterflies in your stomach, a gut feeling. Those might be more literal than we thought.",
+        "shots": [
+          [
+            "q: butterfly macro",
+            "orange"
+          ],
+          [
+            "q: calm breathing water ripple",
+            "teal"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "ENS ~200-600 million neurons (KNOWN; '~500 million' common). Dog cerebral cortex ~530 million neurons (Jardim-Messeder et al. 2017) (KNOWN); cat whole brain ~760M so do NOT compare with cats. ENS functions independently (KNOWN). ~90-95% of body serotonin in gut EC cells (KNOWN). Doesn't cross BBB (KNOWN). Vagus ~80% afferent (KNOWN).",
+    "ig_caption": "about 90% of your serotonin is made in your gut. I'm never ignoring a gut feeling again",
+    "tt_caption": "your gut is your second brain #gutbrain #science"
+  },
+  {
+    "id": "P10-03",
+    "pillar": "Mind, meditation, consciousness & biology",
+    "sub": "How the brain builds reality",
+    "style": "S3",
+    "status": "KNOWN",
+    "hook": "3 experiments where your brain|*makes things up*",
+    "lines": [
+      {
+        "say": "Three experiments showing your brain sometimes makes up a story, and you believe it.",
+        "shots": [
+          [
+            "line art: brain with speech bubble",
+            "mono"
+          ],
+          [
+            "line art: numbers 1 2 3",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "One. Split-brain patients, whose brain halves were surgically separated. The right half saw a snowy scene, the left a chicken claw. The patient picked a shovel and a chicken.",
+        "shots": [
+          [
+            "line art: brain split, two images",
+            "mono"
+          ],
+          [
+            "q: snow shovel winter",
+            "cool"
+          ],
+          [
+            "q: chicken foot close-up",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Asked why, the talking left half, which never saw the snow, said: you need a shovel to clean the chicken shed. Confident. Invented.",
+        "shots": [
+          [
+            "line art: speech bubble invented reason",
+            "red"
+          ],
+          [
+            "q: chicken coop barn",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Two. In 1983, Benjamin Libet measured brain activity building up a fraction of a second before people felt they'd decided to move their hand.",
+        "shots": [
+          [
+            "line art: EEG ramp before 'decision' marker",
+            "mono"
+          ],
+          [
+            "q: hand on table finger moving",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "What that means for free will is still debated. Later work suggests the buildup may be background noise.",
+        "shots": [
+          [
+            "line art: noise wave",
+            "mono"
+          ],
+          [
+            "q: crossroads aerial",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Three. In 2005, people picked the more attractive of two faces, then were secretly handed the other one. Most didn't notice, and explained why they'd chosen it.",
+        "shots": [
+          [
+            "line art: two face outlines swapped",
+            "mono"
+          ],
+          [
+            "q: playing cards sleight of hand",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Your reasons often come after your choices. The brain is a brilliant storyteller.",
+        "shots": [
+          [
+            "q: old book open candle",
+            "warm"
+          ],
+          [
+            "line art: brain writing a story",
+            "magenta"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Gazzaniga split-brain chicken/snow case (patient P.S.) (KNOWN). Libet et al. 1983 readiness potential ~350 ms before reported intention (KNOWN); Schurger et al. 2012 accumulator reinterpretation (DEBATED implications). Choice blindness, Johansson & Hall, Science 2005: majority failed to detect swap (KNOWN). No real faces shown: line art only.",
+    "ig_caption": "the split brain chicken shed story is the most unsettling thing I know about my own brain",
+    "tt_caption": "3 experiments that show your brain invents reasons #psychology #neuroscience"
+  },
+  {
+    "id": "P10-04",
+    "pillar": "Mind, meditation, consciousness & biology",
+    "sub": "Mind over body",
+    "style": "S3",
+    "status": "KNOWN",
+    "hook": "3 times the body did|the *impossible*",
+    "lines": [
+      {
+        "say": "Three times scientists measured the body doing things textbooks said it couldn't.",
+        "shots": [
+          [
+            "q: lab instruments dark",
+            "cool"
+          ],
+          [
+            "line art: numbers 1 2 3",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "One. In the early 1980s, Harvard's Herbert Benson studied Tibetan monks practicing tummo meditation. Using breath and visualization, they warmed their fingers and toes by up to eight degrees Celsius.",
+        "shots": [
+          [
+            "q: Himalayan monastery snow",
+            "cool"
+          ],
+          [
+            "line art: thermometer rising +8°C",
+            "red"
+          ],
+          [
+            "q: thermal camera hands",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Two. In 2014, Dutch researchers injected volunteers with a bacterial toxin that causes fever and chills. Those trained in a breathing and cold method had fewer symptoms.",
+        "shots": [
+          [
+            "q: ice bath cold water",
+            "cool"
+          ],
+          [
+            "line art: two groups, symptom bars",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Their bodies released more adrenaline. They had changed a response we thought was automatic.",
+        "shots": [
+          [
+            "line art: adrenaline spike",
+            "mono"
+          ],
+          [
+            "q: breathing steam cold air",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Three. The Bajau, a sea-nomad people in Southeast Asia, dive for fish all day on a single breath. In 2018, scientists found their spleens are about fifty percent larger than their neighbors'.",
+        "shots": [
+          [
+            "q: underwater free diving tropical sea",
+            "teal"
+          ],
+          [
+            "q: stilt houses sea Indonesia",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "A bigger spleen stores more oxygen-rich blood. Generations of diving changed their genes.",
+        "shots": [
+          [
+            "line art: spleen outline larger",
+            "mono"
+          ],
+          [
+            "q: DNA helix",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Training changed the first two. Evolution changed the third.",
+        "shots": [
+          [
+            "q: sunlight underwater rays",
+            "teal"
+          ],
+          [
+            "q: mountain sunrise",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Benson et al., Nature 1982, tummo, finger/toe temperature increases up to 8.3 C (KNOWN). Kox et al., PNAS 2014: endotoxin, trained group fewer symptoms, higher epinephrine, lower pro-inflammatory cytokines (KNOWN). Ilardo et al., Cell 2018: Bajau spleens ~50% larger, PDE10A variant (KNOWN). Avoid naming a commercial method brand in copy.",
+    "ig_caption": "monks warming their fingers 8 degrees with their mind is wild but the bajau spleen thing is my favorite",
+    "tt_caption": "3 times science measured the body doing the impossible #science #humanbody"
+  },
+  {
+    "id": "P10-05",
+    "pillar": "Mind, meditation, consciousness & biology",
+    "sub": "Consciousness",
+    "style": "S3",
+    "status": "KNOWN",
+    "hook": "3 signs we still don't|understand *consciousness*",
+    "lines": [
+      {
+        "say": "Three reasons consciousness is still the biggest mystery in science.",
+        "shots": [
+          [
+            "line art: brain with question mark",
+            "mono"
+          ],
+          [
+            "q: night sky stars",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "One. Blindsight. Some people with damage to the brain's vision area say they're blind in part of their view. Yet when asked to guess where an object is, they point to it far better than chance.",
+        "shots": [
+          [
+            "line art: visual field with blind half",
+            "mono"
+          ],
+          [
+            "q: object on table in light",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Part of their brain sees. They just don't experience seeing.",
+        "shots": [
+          [
+            "line art: eye -> brain path bypassing 'awareness'",
+            "mono"
+          ],
+          [
+            "q: dark room single light",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Two. Anesthesia. Millions of people go under every year. Yet exactly how general anesthesia switches consciousness off is still not fully understood.",
+        "shots": [
+          [
+            "q: operating room lights dim",
+            "cool"
+          ],
+          [
+            "q: IV drip close-up",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Three. In 1998, neuroscientist Christof Koch bet philosopher David Chalmers a case of wine that within twenty-five years we'd find how the brain produces consciousness.",
+        "shots": [
+          [
+            "q: wine bottles cellar",
+            "red"
+          ],
+          [
+            "line art: 1998 -> 2023",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "In 2023, twenty-five years later, Koch admitted he lost, and paid up.",
+        "shots": [
+          [
+            "q: wine glass pouring",
+            "red"
+          ],
+          [
+            "line art: 'bet lost' stamp",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "We can map billions of neurons. We still can't say why any of it feels like something.",
+        "shots": [
+          [
+            "q: neurons glowing network",
+            "magenta"
+          ],
+          [
+            "q: human eye macro iris",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Blindsight, Weiskrantz (patient DB, 1970s) (KNOWN). Mechanisms of general anesthesia on consciousness incompletely understood (KNOWN). Koch-Chalmers 1998 bet, conceded June 2023 at ASSC (KNOWN). Hard problem (Chalmers 1995) (KNOWN).",
+    "ig_caption": "a neuroscientist literally lost a 25-year bet that we'd figure out consciousness. we didn't. he paid in wine",
+    "tt_caption": "why consciousness is still science's biggest mystery #consciousness #neuroscience"
+  },
+  {
+    "id": "P10-06",
+    "pillar": "Mind, meditation, consciousness & biology",
+    "sub": "Ancient meditation",
+    "style": "S5",
+    "status": "KNOWN",
+    "hook": "An emperor's|*secret diary*",
+    "lines": [
+      {
+        "say": "Around the year 170, the most powerful man on Earth was writing in a private notebook at night, in army camps on the Danube.",
+        "shots": [
+          [
+            "archive: Marcus Aurelius statue (public domain photo)",
+            "warm"
+          ],
+          [
+            "q: Danube river mist",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "He was Marcus Aurelius, Roman emperor. He wrote in Greek, to himself. It was never meant to be published. We call it Meditations.",
+        "shots": [
+          [
+            "q: oil lamp writing tent night",
+            "orange"
+          ],
+          [
+            "q: Greek handwriting manuscript",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "In it he reminds himself, over and over, how to stay calm. Lines like:",
+        "shots": [
+          [
+            "q: Roman army camp ruins",
+            "mono"
+          ],
+          [
+            "q: night sky over fields",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Very little is needed to make a happy life. It is all within yourself, in your way of thinking.",
+        "shots": [
+          [
+            "line art: quote text appearing",
+            "mono"
+          ],
+          [
+            "q: simple bread and water table",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "And: the soul becomes dyed with the color of its thoughts.",
+        "shots": [
+          [
+            "q: dye spreading in water slow motion",
+            "magenta"
+          ],
+          [
+            "line art: quote text",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "One famous quote you'll see online, you have power over your mind, not outside events, is a modern paraphrase. The idea is his. The words aren't.",
+        "shots": [
+          [
+            "line art: 'paraphrase' stamp",
+            "mono"
+          ],
+          [
+            "q: phone quote image scrolling",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "An emperor at war, writing notes to his own mind. It's basically a two-thousand-year-old meditation journal.",
+        "shots": [
+          [
+            "q: journal pen candle",
+            "warm"
+          ],
+          [
+            "archive: Marcus Aurelius equestrian statue (public domain photo)",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Meditations, written c. 170-180 AD, partly on Danube campaigns, in Greek, untitled/'To Himself' (KNOWN). VII.67 'very little is needed to make a happy life' and V.16 'the soul becomes dyed with the colour of its thoughts' (KNOWN, standard translations). 'You have power over your mind...' is a modern paraphrase (KNOWN).",
+    "ig_caption": "he was running an empire in the middle of a war and still wrote himself notes about staying calm. I can't even do that on a Monday",
+    "tt_caption": "Marcus Aurelius' Meditations, an emperor's private diary #stoicism #marcusaurelius"
+  },
+  {
+    "id": "P10-07",
+    "pillar": "Mind, meditation, consciousness & biology",
+    "sub": "Animal minds",
+    "style": "S6",
+    "status": "DEBATED",
+    "hook": "What if *bees* feel|something?",
+    "lines": [
+      {
+        "say": "What is it like to be a bee? For most of history, scientists said: nothing. Insects are little machines.",
+        "shots": [
+          [
+            "q: bee on flower macro",
+            "orange"
+          ],
+          [
+            "line art: gears inside bee outline",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Then the experiments got stranger. In 2022, researchers at Queen Mary University of London gave bumblebees small wooden balls. With no reward, the bees rolled them. Again and again. It looked like play.",
+        "shots": [
+          [
+            "q: bumblebee macro",
+            "warm"
+          ],
+          [
+            "line art: bee rolling ball",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Octopuses solve puzzles, recognize individual people, and tend injured arms.",
+        "shots": [
+          [
+            "q: octopus underwater",
+            "teal"
+          ],
+          [
+            "q: octopus opening jar",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "In 2012, scientists signed the Cambridge Declaration on Consciousness: mammals, birds and octopuses have the brain machinery for conscious experience.",
+        "shots": [
+          [
+            "q: Cambridge university buildings",
+            "warm"
+          ],
+          [
+            "q: crow close-up",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "In 2024, the New York Declaration went further. It said there's at least a realistic possibility of consciousness in all vertebrates, and in many invertebrates, including insects.",
+        "shots": [
+          [
+            "q: New York skyline",
+            "cool"
+          ],
+          [
+            "q: insects macro montage",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "So what if the world is full of small minds we never noticed? Billions of them, in every garden.",
+        "shots": [
+          [
+            "q: garden full of insects macro",
+            "warm"
+          ],
+          [
+            "q: meadow at sunrise",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Nobody can prove a bee feels anything. But serious scientists are no longer sure it doesn't.",
+        "shots": [
+          [
+            "q: bee flying slow motion",
+            "warm"
+          ],
+          [
+            "line art: question mark over bee",
+            "mono"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Dona et al. (Chittka lab, QMUL), Animal Behaviour 2022: bumblebee ball rolling as play-like behavior (KNOWN). Octopus abilities (KNOWN, varied studies). Cambridge Declaration on Consciousness, 7 July 2012 (KNOWN). New York Declaration on Animal Consciousness, April 2024 (KNOWN). Whether insects are conscious (DEBATED).",
+    "ig_caption": "bees rolling little balls for no reason except, apparently, fun. I think about this more than I should",
+    "tt_caption": "are bees conscious? what science says now #animals #consciousness"
+  },
+  {
+    "id": "P10-08",
+    "pillar": "Mind, meditation, consciousness & biology",
+    "sub": "Biology of the self",
+    "style": "S9",
+    "status": "KNOWN",
+    "hook": "Your body isn't|*7 years* old",
+    "lines": [
+      {
+        "say": "You may have heard that every cell in your body is replaced every seven years. That's a myth. The truth is weirder.",
+        "shots": [
+          [
+            "line art: '7 years?' stamp crossed",
+            "red"
+          ],
+          [
+            "q: skin macro",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Your gut lining: replaced every few days.",
+        "shots": [
+          [
+            "q: intestine microscope",
+            "teal"
+          ],
+          [
+            "line art: '3 to 5 days'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Your outer skin: about a month.",
+        "shots": [
+          [
+            "q: skin cells microscope",
+            "warm"
+          ],
+          [
+            "line art: '~1 month'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Red blood cells: about four months.",
+        "shots": [
+          [
+            "q: red blood cells flowing",
+            "red"
+          ],
+          [
+            "line art: '~120 days'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Your skeleton is rebuilt roughly every ten years.",
+        "shots": [
+          [
+            "q: bone x-ray",
+            "cool"
+          ],
+          [
+            "line art: '~10 years'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "But in 2005, Swedish scientists used carbon from Cold War nuclear tests to date human cells. Most neurons in your cerebral cortex were born around when you were. They never get replaced.",
+        "shots": [
+          [
+            "archive: nuclear test 1950s (public domain)",
+            "orange"
+          ],
+          [
+            "q: neurons glowing",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Same with the center of the lens in your eye. Parts of you are new this week. Parts of you are exactly as old as you are.",
+        "shots": [
+          [
+            "q: eye macro iris lens",
+            "warm"
+          ],
+          [
+            "q: old photograph and mirror",
+            "mono"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Spalding/Frisen et al., Cell 2005, bomb-pulse 14C dating (KNOWN). Cortical neurons largely not replaced (KNOWN). Intestinal epithelium ~3-5 days; epidermis ~2-4 weeks; RBC ~120 days; skeleton remodeled ~10 years; lens nucleus cells lifelong (KNOWN, approximate). '7 years' myth likely from average cell age estimates (KNOWN).",
+    "ig_caption": "the '7 years' thing is a myth, and the real answer involves Cold War nuclear tests. some of your brain is exactly your age",
+    "tt_caption": "how often your body really replaces its cells #biology #science"
+  },
+  {
+    "id": "P10-09",
+    "pillar": "Mind, meditation, consciousness & biology",
+    "sub": "The brain in numbers",
+    "style": "S9",
+    "status": "KNOWN",
+    "hook": "Your brain runs on|a *20-watt* bulb",
+    "lines": [
+      {
+        "say": "Your brain, in numbers.",
+        "shots": [
+          [
+            "line art: brain outline counting up",
+            "mono"
+          ],
+          [
+            "q: neurons glowing network",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "About eighty-six billion neurons. Roughly ten times more than there are people on Earth.",
+        "shots": [
+          [
+            "line art: 86,000,000,000",
+            "mono"
+          ],
+          [
+            "q: crowded city aerial time-lapse",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Each one connects to thousands of others. Something like a hundred trillion connections in total.",
+        "shots": [
+          [
+            "q: neuron synapse animation",
+            "magenta"
+          ],
+          [
+            "q: fiber optic lights",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Signals in the fastest nerve fibers travel over a hundred meters per second. Faster than a race car.",
+        "shots": [
+          [
+            "line art: signal racing along fiber",
+            "mono"
+          ],
+          [
+            "q: race car speed blur",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "It's about two percent of your body weight, but it burns around twenty percent of your energy at rest.",
+        "shots": [
+          [
+            "line art: 2% vs 20%",
+            "mono"
+          ],
+          [
+            "q: fire burning steady",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "And the power it runs on? Roughly twenty watts. A dim light bulb.",
+        "shots": [
+          [
+            "q: dim incandescent bulb glowing",
+            "warm"
+          ],
+          [
+            "line art: '20 W'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Everything you've ever thought, felt, or remembered ran on the power of a dim light bulb.",
+        "shots": [
+          [
+            "q: bulb filament macro",
+            "orange"
+          ],
+          [
+            "q: night city lights",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "86 billion neurons (Azevedo/Herculano-Houzel 2009) (KNOWN). World population ~8.2 billion -> ~10x (KNOWN). Synapses ~100 trillion (estimates 100-1000 T) (KNOWN approx). Fast myelinated fibers ~120 m/s (KNOWN). ~2% body mass, ~20% resting energy, ~20 W (KNOWN).",
+    "ig_caption": "86 billion neurons running on about 20 watts. our brains are the most efficient thing we know of",
+    "tt_caption": "your brain in numbers #brain #science"
+  },
+  {
+    "id": "P10-10",
+    "pillar": "Mind, meditation, consciousness & biology",
+    "sub": "Brain & self",
+    "style": "S10",
+    "status": "KNOWN",
+    "hook": "An iron rod through his skull|*changed who he was*",
+    "lines": [
+      {
+        "say": "September 1848, Vermont. Railroad foreman Phineas Gage is packing explosives into rock with an iron rod.",
+        "shots": [
+          [
+            "archive: Phineas Gage daguerreotype holding rod (public domain)",
+            "mono"
+          ],
+          [
+            "q: Vermont hills railroad",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "A spark. The blast drives the rod, more than a meter long, up through his left cheek and out the top of his head.",
+        "shots": [
+          [
+            "line art: skull with rod path",
+            "red"
+          ],
+          [
+            "q: explosion dust rock",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "He survives. Minutes later he's talking. Weeks later he's walking around.",
+        "shots": [
+          [
+            "q: 1800s country doctor tools",
+            "warm"
+          ],
+          [
+            "q: dirt road walking path",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "But his doctor wrote that his friends said: Gage is no longer Gage. Once careful and well liked, now impatient, profane, unable to stick to plans.",
+        "shots": [
+          [
+            "line art: quote 'no longer Gage'",
+            "mono"
+          ],
+          [
+            "q: old handwritten medical notes",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Historians later found he partly recovered. He spent years driving stagecoaches in Chile, a demanding job.",
+        "shots": [
+          [
+            "q: stagecoach antique",
+            "orange"
+          ],
+          [
+            "q: Chile Andes road",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Still, his case became an early clue that personality, the self, what many traditions call the soul, depends on a physical place in the brain.",
+        "shots": [
+          [
+            "line art: frontal lobe highlighted",
+            "magenta"
+          ],
+          [
+            "archive: Gage skull at Harvard (public domain photo, verify)",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Damage the frontal lobe, and the person changes. So if you change the brain, what happens to the soul?",
+        "shots": [
+          [
+            "line art: thread from brain to question mark",
+            "mono"
+          ],
+          [
+            "q: candle in dark room",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Accident 13 Sept 1848, Cavendish, Vermont; tamping iron ~1.1 m (3 ft 7 in) (KNOWN). Survived, conversed shortly after (KNOWN). Harlow 1868: 'no longer Gage' (KNOWN quote, reported from friends). Macmillan's research: stagecoach driver in Chile, substantial recovery (KNOWN). Skull and rod at Warren Anatomical Museum (KNOWN). Daguerreotype identified 2009, public domain (KNOWN).",
+    "ig_caption": "'Gage is no longer Gage'. this case is why we know personality lives somewhere physical. which raises a much bigger question",
+    "tt_caption": "Phineas Gage and what happens to the self when the brain changes #neuroscience #history"
+  }
+]
