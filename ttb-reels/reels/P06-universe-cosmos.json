@@ -1,15 +1,103 @@
 [
   {
-    "id": "P06-01", "pillar": "Universe & cosmos", "sub": "Origin of elements", "style": "S1", "status": "DEBATED",
+    "id": "P06-01",
+    "pillar": "Universe & cosmos",
+    "sub": "Origin of elements",
+    "style": "S1",
+    "status": "DEBATED",
     "hook": "The gold in your ring|came from a *collision*",
     "lines": [
-      {"say": "August 17th, 2017. Detectors in the US and Italy feel a tiny ripple in space itself. A gravitational wave.", "shots": [["q: LIGO detector arms aerial (public domain)", "cool"], ["line art: ripple spreading through grid", "mono"]]},
-      {"say": "It came from two dead stars, neutron stars, spiraling into each other about a hundred and thirty million light-years away.", "shots": [["q: neutron stars merging animation (NASA public domain)", "magenta"], ["q: deep space galaxy field", "cool"]]},
-      {"say": "Less than two seconds after the wave, telescopes caught a flash of gamma rays. Then astronomers around the world turned to look.", "shots": [["q: observatory dome opening night", "teal"], ["q: gamma ray burst flash animation", "orange"]]},
-      {"say": "In the glowing debris, their instruments found signs of heavy elements being made on the spot.", "shots": [["line art: spectrum with lines highlighted", "mono"], ["q: kilonova glowing debris animation (NASA)", "orange"]]},
-      {"say": "Estimates suggested this one collision forged several Earth masses' worth of gold and platinum.", "shots": [["q: molten gold pouring", "orange"], ["line art: Earth icons stacked in gold", "mono"]]},
-      {"say": "Normal stars can't make much gold. It takes something this violent. Scientists still debate how much of the universe's gold comes from collisions like this, and how much from other explosions.", "shots": [["q: supernova remnant colorful", "magenta"], ["q: sun surface plasma", "red"]]},
-      {"say": "But some of the gold on your finger may have been made when two dead stars crashed, long before the Sun existed.", "shots": [["q: gold ring macro rotating", "warm"], ["q: stars twinkling dark", "cool"]]}
+      {
+        "say": "August 17th, 2017. Detectors in the US and Italy feel a tiny ripple in space itself. A gravitational wave.",
+        "shots": [
+          [
+            "q: LIGO detector arms aerial (public domain) || alt: large physics laboratory detector arms aerial (public domain)",
+            "cool"
+          ],
+          [
+            "line art: ripple spreading through grid",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "It came from two dead stars, neutron stars, spiraling into each other about a hundred and thirty million light-years away.",
+        "shots": [
+          [
+            "q: neutron stars merging animation (NASA public domain)",
+            "magenta"
+          ],
+          [
+            "q: deep space galaxy field",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Less than two seconds after the wave, telescopes caught a flash of gamma rays. Then astronomers around the world turned to look.",
+        "shots": [
+          [
+            "q: observatory dome opening night",
+            "teal"
+          ],
+          [
+            "q: gamma ray burst flash animation",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "In the glowing debris, their instruments found signs of heavy elements being made on the spot.",
+        "shots": [
+          [
+            "line art: spectrum with lines highlighted",
+            "mono"
+          ],
+          [
+            "q: kilonova glowing debris animation (NASA)",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Estimates suggested this one collision forged several Earth masses' worth of gold and platinum.",
+        "shots": [
+          [
+            "q: molten gold pouring",
+            "orange"
+          ],
+          [
+            "line art: Earth icons stacked in gold",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Normal stars can't make much gold. It takes something this violent. Scientists still debate how much of the universe's gold comes from collisions like this, and how much from other explosions.",
+        "shots": [
+          [
+            "q: supernova remnant colorful",
+            "magenta"
+          ],
+          [
+            "q: sun surface plasma",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "But some of the gold on your finger may have been made when two dead stars crashed, long before the Sun existed.",
+        "shots": [
+          [
+            "q: gold ring macro rotating",
+            "warm"
+          ],
+          [
+            "q: stars twinkling dark",
+            "cool"
+          ]
+        ]
+      }
     ],
     "outro": "*The Thread Beneath*",
     "fact_note": "GW170817, LIGO/Virgo, 17 Aug 2017 (KNOWN). ~130-140 Mly, NGC 4993 (KNOWN). GRB 1.7 s later, kilonova, r-process signatures (KNOWN). Gold yield estimates of several Earth masses (KNOWN as estimates, wide range). Share of r-process from mergers vs collapsars (DEBATED). Distinct from TTB's 'stardust/iron' reel: this is gold + neutron stars.",
@@ -17,16 +105,108 @@
     "tt_caption": "where gold comes from: colliding neutron stars #space #astronomy"
   },
   {
-    "id": "P06-02", "pillar": "Universe & cosmos", "sub": "Messages to space", "style": "S5", "status": "KNOWN",
+    "id": "P06-02",
+    "pillar": "Universe & cosmos",
+    "sub": "Messages to space",
+    "style": "S5",
+    "status": "KNOWN",
     "hook": "The message we sent|to *aliens*",
     "lines": [
-      {"say": "In 1977, NASA launched two Voyager probes. Each carried a gold-plated record, meant for anyone who might find it.", "shots": [["archive: Voyager Golden Record cover (NASA public domain)", "orange"], ["archive: Voyager launch 1977 (NASA)", "mono"]]},
-      {"say": "On it: greetings in fifty-five languages. Whales singing. Thunder. A heartbeat. A kiss.", "shots": [["q: humpback whale underwater", "teal"], ["q: lightning storm night", "cool"], ["line art: sound waveform", "mono"]]},
-      {"say": "Music from Bach to Chuck Berry. And the brainwaves of a woman named Ann Druyan, recorded while she thought about love.", "shots": [["q: vinyl record spinning macro", "warm"], ["line art: EEG trace", "mono"]]},
-      {"say": "It also carries a written message from the US president at the time, Jimmy Carter. Part of it says:", "shots": [["archive: Voyager record message plaque (NASA)", "mono"], ["q: typed letter paper", "warm"]]},
-      {"say": "This is a present from a small, distant world, a token of our sounds, our science, our images, our music, our thoughts and our feelings.", "shots": [["archive: Pale Blue Dot image (NASA)", "cool"], ["q: Earth from space slow rotation (NASA)", "teal"]]},
-      {"say": "We are attempting to survive our time so we may live into yours.", "shots": [["q: city lights from orbit night (NASA)", "orange"], ["q: stars wide field", "cool"]]},
-      {"say": "Voyager 1 left the solar system in 2012. The record should outlast every city on Earth.", "shots": [["archive: Voyager in space illustration (NASA)", "mono"], ["q: deep space starfield slow drift", "magenta"]]}
+      {
+        "say": "In 1977, NASA launched two Voyager probes. Each carried a gold-plated record, meant for anyone who might find it.",
+        "shots": [
+          [
+            "archive: Voyager Golden Record cover (NASA public domain)",
+            "orange"
+          ],
+          [
+            "archive: Voyager launch 1977 (NASA)",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "On it: greetings in fifty-five languages. Whales singing. Thunder. A heartbeat. A kiss.",
+        "shots": [
+          [
+            "q: humpback whale underwater",
+            "teal"
+          ],
+          [
+            "q: lightning storm night",
+            "cool"
+          ],
+          [
+            "line art: sound waveform",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Music from Bach to Chuck Berry. And the brainwaves of a woman named Ann Druyan, recorded while she thought about love.",
+        "shots": [
+          [
+            "q: vinyl record spinning macro",
+            "warm"
+          ],
+          [
+            "line art: EEG trace",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "It also carries a written message from the US president at the time, Jimmy Carter. Part of it says:",
+        "shots": [
+          [
+            "archive: Voyager record message plaque (NASA)",
+            "mono"
+          ],
+          [
+            "q: typed letter paper",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "This is a present from a small, distant world, a token of our sounds, our science, our images, our music, our thoughts and our feelings.",
+        "shots": [
+          [
+            "archive: Pale Blue Dot image (NASA)",
+            "cool"
+          ],
+          [
+            "q: Earth from space slow rotation (NASA)",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "We are attempting to survive our time so we may live into yours.",
+        "shots": [
+          [
+            "q: city lights from orbit night (NASA)",
+            "orange"
+          ],
+          [
+            "q: stars wide field",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Voyager 1 left the solar system in 2012. The record should outlast every city on Earth.",
+        "shots": [
+          [
+            "archive: Voyager in space illustration (NASA)",
+            "mono"
+          ],
+          [
+            "q: deep space starfield slow drift",
+            "magenta"
+          ]
+        ]
+      }
     ],
     "outro": "*The Thread Beneath*",
     "fact_note": "Voyager 1 & 2, 1977, Golden Record (KNOWN). 55 languages, whales, thunder, heartbeat, kiss, Bach, Chuck Berry, Ann Druyan EEG (KNOWN). Carter statement quoted verbatim (KNOWN). Voyager 1 heliopause crossing Aug 2012 (KNOWN). Durability claims (estimate). NASA images are public domain.",
@@ -34,16 +214,104 @@
     "tt_caption": "what's on the Voyager Golden Record #voyager #space"
   },
   {
-    "id": "P06-03", "pillar": "Universe & cosmos", "sub": "Alien life", "style": "S6", "status": "SPECULATION",
+    "id": "P06-03",
+    "pillar": "Universe & cosmos",
+    "sub": "Alien life",
+    "style": "S6",
+    "status": "SPECULATION",
     "hook": "Where is|*everybody*?",
     "lines": [
-      {"say": "In 1950, at lunch in Los Alamos, the physicist Enrico Fermi was chatting with colleagues about flying saucers. Suddenly he asked: but where is everybody?", "shots": [["archive: Enrico Fermi portrait (public domain)", "mono"], ["q: 1950s New Mexico desert", "warm"]]},
-      {"say": "His point: our galaxy has hundreds of billions of stars, many older than the Sun. Even slow travelers could have spread across it by now.", "shots": [["q: Milky Way core time-lapse", "magenta"], ["line art: dots spreading across galaxy", "mono"]]},
-      {"say": "So why don't we see anyone? Here are three of the most discussed answers.", "shots": [["q: radio telescope array night", "cool"], ["line art: numbers 1 2 3", "mono"]]},
-      {"say": "One. Life is common, but intelligence is incredibly rare. We might be among the first.", "shots": [["q: bacteria microscope", "teal"], ["q: lone tree on plain", "warm"]]},
-      {"say": "Two. There's a great filter, some step almost no civilization survives. The scary question is whether it's behind us, or ahead.", "shots": [["line art: funnel with few dots passing", "mono"], ["q: nuclear test archive (public domain)", "red"]]},
-      {"say": "Three. They're out there, but too far apart in space or time. Two candles lit in a huge dark house, centuries apart.", "shots": [["q: two candles in dark room far apart", "orange"], ["q: deep field galaxies", "cool"]]},
-      {"say": "Nobody knows which one is true. But every answer says something huge about us.", "shots": [["archive: Earthrise Apollo 8 (NASA)", "teal"], ["q: night sky observer silhouette telescope", "cool"]]}
+      {
+        "say": "In 1950, at lunch in Los Alamos, the physicist Enrico Fermi was chatting with colleagues about flying saucers. Suddenly he asked: but where is everybody?",
+        "shots": [
+          [
+            "archive: Enrico Fermi portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: 1950s New Mexico desert || alt: 1950s American desert",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "His point: our galaxy has hundreds of billions of stars, many older than the Sun. Even slow travelers could have spread across it by now.",
+        "shots": [
+          [
+            "q: Milky Way core time-lapse",
+            "magenta"
+          ],
+          [
+            "line art: dots spreading across galaxy",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "So why don't we see anyone? Here are three of the most discussed answers.",
+        "shots": [
+          [
+            "q: radio telescope array night",
+            "cool"
+          ],
+          [
+            "line art: numbers 1 2 3",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "One. Life is common, but intelligence is incredibly rare. We might be among the first.",
+        "shots": [
+          [
+            "q: bacteria microscope",
+            "teal"
+          ],
+          [
+            "q: lone tree on plain",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Two. There's a great filter, some step almost no civilization survives. The scary question is whether it's behind us, or ahead.",
+        "shots": [
+          [
+            "line art: funnel with few dots passing",
+            "mono"
+          ],
+          [
+            "q: nuclear test archive (public domain)",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "Three. They're out there, but too far apart in space or time. Two candles lit in a huge dark house, centuries apart.",
+        "shots": [
+          [
+            "q: two candles in dark room far apart",
+            "orange"
+          ],
+          [
+            "q: deep field galaxies",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Nobody knows which one is true. But every answer says something huge about us.",
+        "shots": [
+          [
+            "archive: Earthrise Apollo 8 (NASA)",
+            "teal"
+          ],
+          [
+            "q: night sky observer silhouette telescope",
+            "cool"
+          ]
+        ]
+      }
     ],
     "outro": "*The Thread Beneath*",
     "fact_note": "Fermi's 1950 Los Alamos lunch, 'Where is everybody?' (KNOWN, accounts by Teller, York, Konopinski). 100-400 billion stars (KNOWN range). Rare intelligence, Great Filter (Hanson 1996), spatial/temporal separation are hypotheses (SPECULATION).",
@@ -51,16 +319,104 @@
     "tt_caption": "the Fermi paradox: where are all the aliens? #fermiparadox #aliens"
   },
   {
-    "id": "P06-04", "pillar": "Universe & cosmos", "sub": "Signals from space", "style": "S2", "status": "DEBATED",
+    "id": "P06-04",
+    "pillar": "Universe & cosmos",
+    "sub": "Signals from space",
+    "style": "S2",
+    "status": "DEBATED",
     "hook": "72 seconds|from *space*",
     "lines": [
-      {"say": "This is a computer printout from August 1977. Rows of numbers and letters from a radio telescope in Ohio called Big Ear.", "shots": [["line art: redraw of printout columns", "mono"], ["q: dot matrix printer paper", "warm"]]},
-      {"say": "A volunteer astronomer named Jerry Ehman was going through it days later. He saw six characters: 6EQUJ5. And he circled them in red pen, and wrote: Wow!", "shots": [["line art: 6EQUJ5 circled in red, 'Wow!'", "red"], ["q: red pen circling on paper", "red"]]},
-      {"say": "Those characters meant a signal that rose and fell exactly like something from a fixed point in space passing through the telescope's view. Seventy-two seconds.", "shots": [["line art: signal curve rising and falling", "mono"], ["q: radio telescope field", "cool"]]},
-      {"say": "It was close to the frequency of hydrogen, a frequency many scientists thought aliens might use to get noticed.", "shots": [["line art: 1420 MHz label", "mono"], ["q: hydrogen gas nebula", "magenta"]]},
-      {"say": "Astronomers pointed telescopes at that spot again and again for decades. It never came back.", "shots": [["q: telescope moving at night", "teal"], ["q: empty starfield", "cool"]]},
-      {"say": "In 2024, a team proposed a natural explanation: a cold hydrogen cloud suddenly brightened by a burst from a passing star.", "shots": [["q: nebula glow animation", "magenta"], ["line art: cloud lit by flash", "mono"]]},
-      {"say": "It's the best explanation so far. It isn't proven. And the printout still says Wow.", "shots": [["line art: printout close-up 'Wow!'", "red"], ["q: night sky Ohio fields", "cool"]]}
+      {
+        "say": "This is a computer printout from August 1977. Rows of numbers and letters from a radio telescope in Ohio called Big Ear.",
+        "shots": [
+          [
+            "line art: redraw of printout columns",
+            "mono"
+          ],
+          [
+            "q: dot matrix printer paper",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "A volunteer astronomer named Jerry Ehman was going through it days later. He saw six characters: 6EQUJ5. And he circled them in red pen, and wrote: Wow!",
+        "shots": [
+          [
+            "line art: 6EQUJ5 circled in red, 'Wow!'",
+            "red"
+          ],
+          [
+            "q: red pen circling on paper",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "Those characters meant a signal that rose and fell exactly like something from a fixed point in space passing through the telescope's view. Seventy-two seconds.",
+        "shots": [
+          [
+            "line art: signal curve rising and falling",
+            "mono"
+          ],
+          [
+            "q: radio telescope field",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "It was close to the frequency of hydrogen, a frequency many scientists thought aliens might use to get noticed.",
+        "shots": [
+          [
+            "line art: 1420 MHz label",
+            "mono"
+          ],
+          [
+            "q: hydrogen gas nebula",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Astronomers pointed telescopes at that spot again and again for decades. It never came back.",
+        "shots": [
+          [
+            "q: telescope moving at night",
+            "teal"
+          ],
+          [
+            "q: empty starfield",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "In 2024, a team proposed a natural explanation: a cold hydrogen cloud suddenly brightened by a burst from a passing star.",
+        "shots": [
+          [
+            "q: nebula glow animation",
+            "magenta"
+          ],
+          [
+            "line art: cloud lit by flash",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "It's the best explanation so far. It isn't proven. And the printout still says Wow.",
+        "shots": [
+          [
+            "line art: printout close-up 'Wow!'",
+            "red"
+          ],
+          [
+            "q: night sky Ohio fields",
+            "cool"
+          ]
+        ]
+      }
     ],
     "outro": "*The Thread Beneath*",
     "fact_note": "Wow! signal 15 Aug 1977, Big Ear (Ohio State), Jerry Ehman (KNOWN). 72 s transit, near 1420 MHz hydrogen line (KNOWN). Never repeated despite searches (KNOWN). Mendez et al. 2024 hydrogen-cloud maser-like brightening hypothesis (DEBATED). Printout image licence unclear: redraw.",
@@ -68,16 +424,104 @@
     "tt_caption": "the Wow! signal and the 2024 explanation #wowsignal #aliens"
   },
   {
-    "id": "P06-05", "pillar": "Universe & cosmos", "sub": "Scale of time", "style": "S9", "status": "KNOWN",
+    "id": "P06-05",
+    "pillar": "Universe & cosmos",
+    "sub": "Scale of time",
+    "style": "S9",
+    "status": "KNOWN",
     "hook": "The universe in|*one year*",
     "lines": [
-      {"say": "Squeeze the whole history of the universe, thirteen point eight billion years, into one calendar year.", "shots": [["line art: calendar year grid", "mono"], ["q: Big Bang animation light burst", "orange"]]},
-      {"say": "January 1st, midnight: the Big Bang.", "shots": [["line art: Jan 1 highlighted", "mono"], ["q: bright flash expanding", "warm"]]},
-      {"say": "Our galaxy, the Milky Way, forms in the spring. Our Sun and Earth don't show up until early September.", "shots": [["q: galaxy spiral forming animation", "magenta"], ["line art: September highlighted", "mono"]]},
-      {"say": "Life on Earth begins in late September. The dinosaurs arrive on Christmas Day and die out on December 30th.", "shots": [["q: ocean primordial", "teal"], ["archive: dinosaur skeleton museum (public domain)", "mono"]]},
-      {"say": "Humans like us appear on December 31st, about eleven minutes before midnight.", "shots": [["line art: clock 23:49 Dec 31", "mono"], ["q: cave paintings close-up", "warm"]]},
-      {"say": "All of written history, every empire, every war, every prophet, fits in the last eleven seconds.", "shots": [["line art: last 11 seconds countdown", "red"], ["q: ancient ruins time-lapse", "orange"]]},
-      {"say": "Everything we argue about happened in eleven seconds, in a year that's mostly silence.", "shots": [["q: Earth from space slow (NASA)", "cool"], ["q: starfield fading", "mono"]]}
+      {
+        "say": "Squeeze the whole history of the universe, thirteen point eight billion years, into one calendar year.",
+        "shots": [
+          [
+            "line art: calendar year grid",
+            "mono"
+          ],
+          [
+            "q: Big Bang animation light burst",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "January 1st, midnight: the Big Bang.",
+        "shots": [
+          [
+            "line art: Jan 1 highlighted",
+            "mono"
+          ],
+          [
+            "q: bright flash expanding",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Our galaxy, the Milky Way, forms in the spring. Our Sun and Earth don't show up until early September.",
+        "shots": [
+          [
+            "q: galaxy spiral forming animation",
+            "magenta"
+          ],
+          [
+            "line art: September highlighted",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Life on Earth begins in late September. The dinosaurs arrive on Christmas Day and die out on December 30th.",
+        "shots": [
+          [
+            "q: ocean primordial",
+            "teal"
+          ],
+          [
+            "archive: dinosaur skeleton museum (public domain)",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Humans like us appear on December 31st, about eleven minutes before midnight.",
+        "shots": [
+          [
+            "line art: clock 23:49 Dec 31",
+            "mono"
+          ],
+          [
+            "q: cave paintings close-up",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "All of written history, every empire, every war, every prophet, fits in the last eleven seconds.",
+        "shots": [
+          [
+            "line art: last 11 seconds countdown",
+            "red"
+          ],
+          [
+            "q: ancient ruins time-lapse",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Everything we argue about happened in eleven seconds, in a year that's mostly silence.",
+        "shots": [
+          [
+            "q: Earth from space slow (NASA)",
+            "cool"
+          ],
+          [
+            "q: starfield fading",
+            "mono"
+          ]
+        ]
+      }
     ],
     "outro": "*The Thread Beneath*",
     "fact_note": "Carl Sagan's Cosmic Calendar (1977) (KNOWN). Computed: 13.8 Gyr = 1 yr. Sun/Earth 4.6 Gyr -> ~Sep 1-2. Life ~3.8-4 Gyr -> late Sep. Dinosaurs 230-66 Myr -> Dec 25 / Dec 30. Humans 300k yr -> 11.4 min. Writing 5,000 yr -> 11.4 s. Milky Way formation 'spring' approx (thick disk/halo ages vary) (KNOWN approx).",
@@ -85,16 +529,104 @@
     "tt_caption": "the history of the universe compressed into one year #space #cosmiccalendar"
   },
   {
-    "id": "P06-06", "pillar": "Universe & cosmos", "sub": "Light & time", "style": "S9", "status": "KNOWN",
+    "id": "P06-06",
+    "pillar": "Universe & cosmos",
+    "sub": "Light & time",
+    "style": "S9",
+    "status": "KNOWN",
     "hook": "Everything you see|is *in the past*",
     "lines": [
-      {"say": "Light is fast, but not instant. So everything you see, you see as it was, not as it is.", "shots": [["q: light beam through dark room", "warm"], ["line art: light traveling arrow", "mono"]]},
-      {"say": "The person across the table: a few billionths of a second ago.", "shots": [["q: coffee cup on table across", "warm"], ["line art: '0.000000003 s'", "mono"]]},
-      {"say": "The Moon: one and a third seconds ago.", "shots": [["q: full moon rising", "cool"], ["line art: '1.3 s'", "mono"]]},
-      {"say": "The Sun: about eight minutes ago. If it vanished, you'd have eight more minutes of daylight before you knew.", "shots": [["q: sun close-up solar flares (NASA)", "orange"], ["line art: '8 min 20 s'", "mono"]]},
-      {"say": "The bright red star in Orion's shoulder, Betelgeuse: the light left it centuries ago, around the time of the Renaissance.", "shots": [["q: Orion constellation night sky", "cool"], ["archive: Renaissance painting (public domain)", "warm"]]},
-      {"say": "And on a dark night you can see a faint smudge in Andromeda. That light left two and a half million years ago, before our species existed.", "shots": [["q: Andromeda galaxy telescope", "magenta"], ["q: savanna Africa dusk", "warm"]]},
-      {"say": "When you look up at night, you're not looking out. You're looking back.", "shots": [["q: Milky Way over mountains time-lapse", "cool"], ["q: stars wide field", "magenta"]]}
+      {
+        "say": "Light is fast, but not instant. So everything you see, you see as it was, not as it is.",
+        "shots": [
+          [
+            "q: light beam through dark room",
+            "warm"
+          ],
+          [
+            "line art: light traveling arrow",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The person across the table: a few billionths of a second ago.",
+        "shots": [
+          [
+            "q: coffee cup on table across",
+            "warm"
+          ],
+          [
+            "line art: '0.000000003 s'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The Moon: one and a third seconds ago.",
+        "shots": [
+          [
+            "q: full moon rising",
+            "cool"
+          ],
+          [
+            "line art: '1.3 s'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The Sun: about eight minutes ago. If it vanished, you'd have eight more minutes of daylight before you knew.",
+        "shots": [
+          [
+            "q: sun close-up solar flares (NASA)",
+            "orange"
+          ],
+          [
+            "line art: '8 min 20 s'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The bright red star in Orion's shoulder, Betelgeuse: the light left it centuries ago, around the time of the Renaissance.",
+        "shots": [
+          [
+            "q: Orion constellation night sky || alt: constellation night sky",
+            "cool"
+          ],
+          [
+            "archive: Renaissance painting (public domain)",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "And on a dark night you can see a faint smudge in Andromeda. That light left two and a half million years ago, before our species existed.",
+        "shots": [
+          [
+            "q: Andromeda galaxy telescope || alt: spiral galaxy telescope",
+            "magenta"
+          ],
+          [
+            "q: savanna Africa dusk",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "When you look up at night, you're not looking out. You're looking back.",
+        "shots": [
+          [
+            "q: Milky Way over mountains time-lapse",
+            "cool"
+          ],
+          [
+            "q: stars wide field",
+            "magenta"
+          ]
+        ]
+      }
     ],
     "outro": "*The Thread Beneath*",
     "fact_note": "Moon ~1.28 light-seconds, Sun ~8 min 20 s (KNOWN). Betelgeuse distance ~550-700 ly (DEBATED; 'centuries ago, around the Renaissance' fits 500-700 ly). Andromeda ~2.5 Mly, naked-eye visible in dark skies (KNOWN). Homo sapiens ~300k yr (KNOWN).",
@@ -102,15 +634,95 @@
     "tt_caption": "when you look at the stars you're looking into the past #space #light"
   },
   {
-    "id": "P06-07", "pillar": "Universe & cosmos", "sub": "Cosmology mysteries", "style": "S8", "status": "KNOWN",
+    "id": "P06-07",
+    "pillar": "Universe & cosmos",
+    "sub": "Cosmology mysteries",
+    "style": "S8",
+    "status": "KNOWN",
     "hook": "95% of the universe|is *missing*",
     "lines": [
-      {"say": "Everything you've ever seen: stars, planets, people, gas between galaxies. Add it all up, and it's about five percent of the universe.", "shots": [["q: galaxy cluster deep space", "cool"], ["line art: pie chart 5% highlighted", "mono"]]},
-      {"say": "The rest is stuff we've never directly detected.", "shots": [["q: dark empty space", "mono"], ["line art: pie chart 95% dark", "mono"]]},
-      {"say": "About twenty-seven percent is dark matter. In the 1970s, Vera Rubin measured how fast stars orbit in galaxies. The outer ones move too fast. There isn't enough visible mass to hold them in.", "shots": [["archive: Vera Rubin photo (public domain, verify)", "mono"], ["line art: rotation curve flat vs expected", "mono"], ["q: spiral galaxy rotating animation", "magenta"]]},
-      {"say": "Something invisible is adding gravity. We can see its effects, but not what it is.", "shots": [["q: gravitational lensing arcs Hubble (NASA)", "cool"], ["line art: invisible halo around galaxy", "mono"]]},
-      {"say": "And about sixty-eight percent is dark energy. In 1998, astronomers found the universe isn't just expanding, it's speeding up. Something is pushing it apart.", "shots": [["line art: galaxies moving apart faster", "mono"], ["q: supernova distant galaxy (NASA)", "orange"]]},
-      {"say": "Dark matter and dark energy are names for what we don't understand. Ninety-five percent of reality is still a question mark.", "shots": [["line art: big question mark over pie chart", "mono"], ["q: deep field galaxies (NASA)", "magenta"]]}
+      {
+        "say": "Everything you've ever seen: stars, planets, people, gas between galaxies. Add it all up, and it's about five percent of the universe.",
+        "shots": [
+          [
+            "q: galaxy cluster deep space",
+            "cool"
+          ],
+          [
+            "line art: pie chart 5% highlighted",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The rest is stuff we've never directly detected.",
+        "shots": [
+          [
+            "q: dark empty space",
+            "mono"
+          ],
+          [
+            "line art: pie chart 95% dark",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "About twenty-seven percent is dark matter. In the 1970s, Vera Rubin measured how fast stars orbit in galaxies. The outer ones move too fast. There isn't enough visible mass to hold them in.",
+        "shots": [
+          [
+            "archive: Vera Rubin photo (public domain, verify)",
+            "mono"
+          ],
+          [
+            "line art: rotation curve flat vs expected",
+            "mono"
+          ],
+          [
+            "q: spiral galaxy rotating animation",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Something invisible is adding gravity. We can see its effects, but not what it is.",
+        "shots": [
+          [
+            "q: gravitational lensing arcs Hubble (NASA) || alt: gravitational lensing arcs space telescope (NASA)",
+            "cool"
+          ],
+          [
+            "line art: invisible halo around galaxy",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "And about sixty-eight percent is dark energy. In 1998, astronomers found the universe isn't just expanding, it's speeding up. Something is pushing it apart.",
+        "shots": [
+          [
+            "line art: galaxies moving apart faster",
+            "mono"
+          ],
+          [
+            "q: supernova distant galaxy (NASA)",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Dark matter and dark energy are names for what we don't understand. Ninety-five percent of reality is still a question mark.",
+        "shots": [
+          [
+            "line art: big question mark over pie chart",
+            "mono"
+          ],
+          [
+            "q: deep field galaxies (NASA)",
+            "magenta"
+          ]
+        ]
+      }
     ],
     "outro": "*The Thread Beneath*",
     "fact_note": "Planck 2018: ~5% ordinary matter, ~27% dark matter, ~68% dark energy (KNOWN). Rubin & Ford rotation curves 1970s (KNOWN; Zwicky 1933 earlier). Accelerating expansion 1998 (Riess, Perlmutter, Schmidt; Nobel 2011) (KNOWN). Nature of DM/DE unknown (KNOWN).",
@@ -118,15 +730,91 @@
     "tt_caption": "dark matter and dark energy explained simply #darkmatter #space"
   },
   {
-    "id": "P06-08", "pillar": "Universe & cosmos", "sub": "Cosmic structures", "style": "S1", "status": "KNOWN",
+    "id": "P06-08",
+    "pillar": "Universe & cosmos",
+    "sub": "Cosmic structures",
+    "style": "S1",
+    "status": "KNOWN",
     "hook": "The Great|*Nothing*",
     "lines": [
-      {"say": "In 1981, astronomers mapping galaxies toward the constellation Boötes found something unsettling. A hole.", "shots": [["q: Bootes constellation star map", "cool"], ["line art: galaxy map with empty circle", "mono"]]},
-      {"say": "A region of space roughly three hundred million light-years across, with almost nothing in it.", "shots": [["q: empty dark space slow push", "mono"], ["line art: scale bar 300 million ly", "mono"]]},
-      {"say": "To compare: our own galaxy is about a hundred thousand light-years wide. You could line up thousands of Milky Ways across it.", "shots": [["q: Milky Way galaxy illustration", "magenta"], ["line art: tiny galaxy icons in a row", "mono"]]},
-      {"say": "In a normal patch of space that size, you'd expect thousands of galaxies. In the Boötes Void, astronomers have found only around sixty.", "shots": [["q: galaxy cluster dense field", "cool"], ["line art: sparse dots inside void", "mono"]]},
-      {"say": "It's called the Great Nothing. And it's not a mistake. The universe is built like foam: long threads of galaxies, and huge empty bubbles between them.", "shots": [["q: cosmic web simulation", "magenta"], ["q: soap foam bubbles macro", "teal"]]},
-      {"say": "If we lived in the middle of it, the night sky would be nearly black, and we might not have known other galaxies existed for a very long time.", "shots": [["q: completely dark sky", "mono"], ["q: lone star in darkness", "cool"]]}
+      {
+        "say": "In 1981, astronomers mapping galaxies toward the constellation Boötes found something unsettling. A hole.",
+        "shots": [
+          [
+            "q: Bootes constellation star map || alt: star field constellation star map",
+            "cool"
+          ],
+          [
+            "line art: galaxy map with empty circle",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "A region of space roughly three hundred million light-years across, with almost nothing in it.",
+        "shots": [
+          [
+            "q: empty dark space slow push",
+            "mono"
+          ],
+          [
+            "line art: scale bar 300 million ly",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "To compare: our own galaxy is about a hundred thousand light-years wide. You could line up thousands of Milky Ways across it.",
+        "shots": [
+          [
+            "q: Milky Way galaxy illustration",
+            "magenta"
+          ],
+          [
+            "line art: tiny galaxy icons in a row",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "In a normal patch of space that size, you'd expect thousands of galaxies. In the Boötes Void, astronomers have found only around sixty.",
+        "shots": [
+          [
+            "q: galaxy cluster dense field",
+            "cool"
+          ],
+          [
+            "line art: sparse dots inside void",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "It's called the Great Nothing. And it's not a mistake. The universe is built like foam: long threads of galaxies, and huge empty bubbles between them.",
+        "shots": [
+          [
+            "q: cosmic web simulation",
+            "magenta"
+          ],
+          [
+            "q: soap foam bubbles macro",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "If we lived in the middle of it, the night sky would be nearly black, and we might not have known other galaxies existed for a very long time.",
+        "shots": [
+          [
+            "q: completely dark sky",
+            "mono"
+          ],
+          [
+            "q: lone star in darkness",
+            "cool"
+          ]
+        ]
+      }
     ],
     "outro": "*The Thread Beneath*",
     "fact_note": "Discovered by Kirshner, Oemler, Schechter, Shectman 1981 (KNOWN). Diameter ~250-330 Mly (KNOWN range; 'roughly 300'). ~60 galaxies found inside (KNOWN as reported). Cosmic web structure (KNOWN). Last line is a counterfactual (framed with 'might').",
@@ -134,16 +822,104 @@
     "tt_caption": "the Bootes Void, the Great Nothing #space #universe"
   },
   {
-    "id": "P06-09", "pillar": "Universe & cosmos", "sub": "Famous images", "style": "S2", "status": "KNOWN",
+    "id": "P06-09",
+    "pillar": "Universe & cosmos",
+    "sub": "Famous images",
+    "style": "S2",
+    "status": "KNOWN",
     "hook": "NASA pointed Hubble at|*nothing*",
     "lines": [
-      {"say": "In December 1995, astronomers did something that sounded like a waste of telescope time.", "shots": [["archive: Hubble Space Telescope (NASA)", "cool"], ["q: control room monitors 1990s", "teal"]]},
-      {"say": "They pointed the Hubble Space Telescope at a tiny, empty-looking patch of sky in the Big Dipper. About the size of a grain of sand held at arm's length.", "shots": [["q: Big Dipper night sky", "cool"], ["line art: grain of sand at arm's length", "mono"]]},
-      {"say": "And they kept it there for ten days, collecting every bit of faint light.", "shots": [["line art: 10-day counter", "mono"], ["q: long exposure star trails", "magenta"]]},
-      {"say": "This is what came back.", "shots": [["archive: Hubble Deep Field (NASA public domain), full", "warm"], ["archive: Hubble Deep Field slow push", "orange"]]},
-      {"say": "Almost every dot here is not a star. It's a galaxy. About three thousand of them, in that one speck of darkness.", "shots": [["archive: Hubble Deep Field crop, galaxies", "warm"], ["line art: circles around galaxies", "mono"]]},
-      {"say": "Some of that light left its galaxy more than twelve billion years ago.", "shots": [["archive: Hubble Ultra Deep Field crop (NASA)", "magenta"], ["line art: '12 billion years'", "mono"]]},
-      {"say": "Point anywhere at the dark sky and look long enough, and it's full.", "shots": [["archive: Hubble Deep Field pull back", "warm"], ["q: night sky wide", "cool"]]}
+      {
+        "say": "In December 1995, astronomers did something that sounded like a waste of telescope time.",
+        "shots": [
+          [
+            "archive: Hubble Space Telescope (NASA)",
+            "cool"
+          ],
+          [
+            "q: control room monitors 1990s",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "They pointed the Hubble Space Telescope at a tiny, empty-looking patch of sky in the Big Dipper. About the size of a grain of sand held at arm's length.",
+        "shots": [
+          [
+            "q: Big Dipper night sky || alt: constellation night sky",
+            "cool"
+          ],
+          [
+            "line art: grain of sand at arm's length",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "And they kept it there for ten days, collecting every bit of faint light.",
+        "shots": [
+          [
+            "line art: 10-day counter",
+            "mono"
+          ],
+          [
+            "q: long exposure star trails",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "This is what came back.",
+        "shots": [
+          [
+            "archive: Hubble Deep Field (NASA public domain), full",
+            "warm"
+          ],
+          [
+            "archive: Hubble Deep Field slow push",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Almost every dot here is not a star. It's a galaxy. About three thousand of them, in that one speck of darkness.",
+        "shots": [
+          [
+            "archive: Hubble Deep Field crop, galaxies",
+            "warm"
+          ],
+          [
+            "line art: circles around galaxies",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Some of that light left its galaxy more than twelve billion years ago.",
+        "shots": [
+          [
+            "archive: Hubble Ultra Deep Field crop (NASA)",
+            "magenta"
+          ],
+          [
+            "line art: '12 billion years'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Point anywhere at the dark sky and look long enough, and it's full.",
+        "shots": [
+          [
+            "archive: Hubble Deep Field pull back",
+            "warm"
+          ],
+          [
+            "q: night sky wide",
+            "cool"
+          ]
+        ]
+      }
     ],
     "outro": "*The Thread Beneath*",
     "fact_note": "Hubble Deep Field, 18-28 Dec 1995, Ursa Major (KNOWN). Area ~1/24-millionth of sky (KNOWN; grain-of-sand analogy is NASA's). ~3,000 galaxies (KNOWN). Light >12 Gyr old in deep fields (KNOWN, Ultra Deep Field). NASA images public domain.",
@@ -151,16 +927,104 @@
     "tt_caption": "the Hubble Deep Field, the most humbling photo ever taken #hubble #space"
   },
   {
-    "id": "P06-10", "pillar": "Universe & cosmos", "sub": "Cosmology history", "style": "S10", "status": "KNOWN",
+    "id": "P06-10",
+    "pillar": "Universe & cosmos",
+    "sub": "Cosmology history",
+    "style": "S10",
+    "status": "KNOWN",
     "hook": "Edgar Allan Poe|solved a *cosmic* puzzle",
     "lines": [
-      {"say": "Here's a question that bothered astronomers for centuries. Why is the night sky dark?", "shots": [["q: dark night sky few stars", "mono"], ["q: city at night looking up", "cool"]]},
-      {"say": "If the universe is endless and full of stars, then in every direction you look, your eye should eventually hit one. The whole sky should blaze like the Sun.", "shots": [["line art: lines from eye hitting stars in every direction", "mono"], ["q: bright white sky overexposed", "warm"]]},
-      {"say": "It's called Olbers' paradox, and for a long time nobody had a good answer.", "shots": [["archive: Heinrich Olbers portrait (public domain)", "mono"], ["q: antique telescope", "warm"]]},
-      {"say": "Then, in 1848, a prose poem about the universe called Eureka came out. The author was Edgar Allan Poe.", "shots": [["archive: Edgar Allan Poe daguerreotype (public domain)", "mono"], ["q: old book 1840s pages", "warm"]]},
-      {"say": "Poe suggested that the light from the most distant stars simply hasn't had time to reach us yet.", "shots": [["line art: light still traveling toward Earth", "mono"], ["q: raven silhouette night", "teal"]]},
-      {"say": "That's essentially part of the modern answer. The universe has an age, so we only see light that has had time to arrive, and expansion stretches the rest into darkness.", "shots": [["line art: observable universe bubble", "mono"], ["q: deep field galaxies (NASA)", "magenta"]]},
-      {"say": "The man who wrote The Raven got a piece of cosmology right a century early.", "shots": [["q: candle quill writing desk", "orange"], ["q: night sky Milky Way", "cool"]]}
+      {
+        "say": "Here's a question that bothered astronomers for centuries. Why is the night sky dark?",
+        "shots": [
+          [
+            "q: dark night sky few stars",
+            "mono"
+          ],
+          [
+            "q: city at night looking up",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "If the universe is endless and full of stars, then in every direction you look, your eye should eventually hit one. The whole sky should blaze like the Sun.",
+        "shots": [
+          [
+            "line art: lines from eye hitting stars in every direction",
+            "mono"
+          ],
+          [
+            "q: bright white sky overexposed",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "It's called Olbers' paradox, and for a long time nobody had a good answer.",
+        "shots": [
+          [
+            "archive: Heinrich Olbers portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: antique telescope",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Then, in 1848, a prose poem about the universe called Eureka came out. The author was Edgar Allan Poe.",
+        "shots": [
+          [
+            "archive: Edgar Allan Poe daguerreotype (public domain)",
+            "mono"
+          ],
+          [
+            "q: old book 1840s pages",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Poe suggested that the light from the most distant stars simply hasn't had time to reach us yet.",
+        "shots": [
+          [
+            "line art: light still traveling toward Earth",
+            "mono"
+          ],
+          [
+            "q: raven silhouette night",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "That's essentially part of the modern answer. The universe has an age, so we only see light that has had time to arrive, and expansion stretches the rest into darkness.",
+        "shots": [
+          [
+            "line art: observable universe bubble",
+            "mono"
+          ],
+          [
+            "q: deep field galaxies (NASA)",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "The man who wrote The Raven got a piece of cosmology right a century early.",
+        "shots": [
+          [
+            "q: candle quill writing desk",
+            "orange"
+          ],
+          [
+            "q: night sky Milky Way",
+            "cool"
+          ]
+        ]
+      }
     ],
     "outro": "*The Thread Beneath*",
     "fact_note": "Olbers' paradox (1823; earlier Kepler, de Cheseaux) (KNOWN). Poe, 'Eureka: A Prose Poem', 1848, finite-light-travel explanation (KNOWN). Modern resolution: finite age + expansion/redshift (KNOWN). Poe's idea was speculative, not derived (note in copy tone).",

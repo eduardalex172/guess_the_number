@@ -80,7 +80,7 @@
         "say": "He died in room 3327 of the Hotel New Yorker. Divisible by three.",
         "shots": [
           [
-            "q: Hotel New Yorker sign night",
+            "q: Hotel New Yorker sign night || alt: vintage hotel sign night",
             "red"
           ],
           [
@@ -133,7 +133,7 @@
         "say": "In his lab on Houston Street, he said, he'd attached a small steam-powered oscillator to an iron pillar. And turned it on.",
         "shots": [
           [
-            "q: Lower Manhattan 1890s archive",
+            "q: Lower Manhattan 1890s archive || alt: old city 1890s archive",
             "mono"
           ],
           [
@@ -242,7 +242,7 @@
         "say": "The sand jumped and settled into perfect geometric patterns. Change the note, and the pattern changes.",
         "shots": [
           [
-            "q: Chladni plate sand pattern forming",
+            "q: Chladni plate sand pattern forming || alt: vibrating plate sand pattern forming",
             "orange"
           ],
           [
@@ -298,7 +298,7 @@
         "say": "She failed twice. On her third try, in 1816, she won. The first woman to win a prize from the Paris Academy of Sciences.",
         "shots": [
           [
-            "q: Paris Institut de France dome",
+            "q: Paris Institut de France dome || alt: historic domed de France dome",
             "cool"
           ],
           [
@@ -420,7 +420,7 @@
             "mono"
           ],
           [
-            "q: Puget Sound calm water",
+            "q: Puget Sound calm water || alt: coastal bay calm water",
             "cool"
           ]
         ]
@@ -447,7 +447,7 @@
             "mono"
           ],
           [
-            "q: Long Island coast",
+            "q: Long Island coast || alt: coastline coast",
             "cool"
           ]
         ]
@@ -548,7 +548,7 @@
         "say": "Under a street in Malta is the Ħal Saflieni Hypogeum. Underground chambers carved out of solid rock, over five thousand years ago, and used to bury thousands of people.",
         "shots": [
           [
-            "q: Malta Hypogeum interior (verify licence)",
+            "q: Malta Hypogeum interior (verify licence) || alt: underground carved rock chamber interior (verify licence)",
             "warm"
           ],
           [
@@ -630,7 +630,7 @@
             "red"
           ],
           [
-            "q: Malta coast cliffs",
+            "q: Malta coast cliffs || alt: Mediterranean coast cliffs",
             "cool"
           ]
         ]

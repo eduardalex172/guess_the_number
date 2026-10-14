@@ -13,6 +13,11 @@ STYLE_NAMES = {
 }
 
 
+def render_cell(r):
+    rd = r.get("render")
+    return f"✓ {rd['seconds']:.0f} s" if rd and rd.get("status") == "done" else ""
+
+
 def plain(hook):
     return hook.replace("|", " ").replace("*", "")
 
@@ -23,11 +28,11 @@ def main():
     out = ["# The Thread Beneath: 100 Reels", "",
            "Generat din `reels/*.json` cu `python3 tools/build_catalog.py`. Narațiunea și descrierile sunt în engleză (public SUA).", "",
            "Stiluri: " + " · ".join(f"**{k}** {v}" for k, v in STYLE_NAMES.items()), "",
-           "| ID | Hook | Stil | Status | ~s |", "|---|---|---|---|---|"]
+           "| ID | Hook | Stil | Status | ~s | Randat |", "|---|---|---|---|---|---|"]
     for _, reels in pillars:
         for r in reels:
             secs, _ = est_seconds(r)
-            out.append(f"| [{r['id']}](#{r['id'].lower()}) | {plain(r['hook'])} | {r['style']} {STYLE_NAMES[r['style']]} | {r['status']} | {secs:.0f} |")
+            out.append(f"| [{r['id']}](#{r['id'].lower()}) | {plain(r['hook'])} | {r['style']} {STYLE_NAMES[r['style']]} | {r['status']} | {secs:.0f} | {render_cell(r)} |")
     for _, reels in pillars:
         out += ["", f"## {reels[0]['pillar']}", ""]
         for r in reels:
@@ -36,7 +41,11 @@ def main():
                     f"**{plain(r['hook'])}** · {r['style']} {STYLE_NAMES[r['style']]} · {r['sub']} · {r['status']} · ~{secs:.0f} s ({words} words)", ""]
             out += [f"{i}. {l['say']}" for i, l in enumerate(r["lines"], 1)]
             out += ["", f"- **Instagram:** {r['ig_caption']}", f"- **TikTok:** {r['tt_caption']}",
-                    f"- **Fact note (internal):** {r['fact_note']}", ""]
+                    f"- **Fact note (internal):** {r['fact_note']}"]
+            if r.get("render"):
+                rd = r["render"]
+                out.append(f"- **Randat:** {rd['status']}, {rd['seconds']} s, Drive: {rd['drive']}. {rd['notes']}")
+            out.append("")
     (ROOT / "CATALOG.md").write_text("\n".join(out), encoding="utf-8")
     print(f"CATALOG.md: {sum(len(r) for _, r in pillars)} reels")
 

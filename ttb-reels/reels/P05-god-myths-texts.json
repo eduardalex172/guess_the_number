@@ -15,7 +15,7 @@
             "warm"
           ],
           [
-            "q: Ur ziggurat sunrise",
+            "q: Ur ziggurat sunrise || alt: Mesopotamian ziggurat sunrise",
             "orange"
           ]
         ]
@@ -116,7 +116,7 @@
         "say": "Winter, 1946 to 47. Near the Dead Sea, a young Bedouin shepherd is looking for a lost goat.",
         "shots": [
           [
-            "q: Dead Sea cliffs desert",
+            "q: Dead Sea cliffs desert || alt: desert salt lake cliffs desert",
             "warm"
           ],
           [
@@ -129,7 +129,7 @@
         "say": "He throws a stone into a cave in the cliffs, and hears something break. Pottery.",
         "shots": [
           [
-            "q: cave opening in cliff Qumran",
+            "q: cave opening in cliff Qumran || alt: cave opening in cliff desert cliff",
             "mono"
           ],
           [
@@ -159,7 +159,7 @@
             "mono"
           ],
           [
-            "q: Qumran ruins aerial",
+            "q: Qumran ruins aerial || alt: desert cliff ruins aerial",
             "warm"
           ]
         ]
@@ -221,7 +221,7 @@
         "say": "December 1945, Upper Egypt. A farmer named Muhammad Ali al-Samman is digging for soft soil to use as fertilizer near the town of Nag Hammadi.",
         "shots": [
           [
-            "q: Upper Egypt cliffs Nile fields",
+            "q: Upper Egypt cliffs Nile fields || alt: desert river valley cliffs Nile fields",
             "warm"
           ],
           [
@@ -395,7 +395,7 @@
             "mono"
           ],
           [
-            "q: Babylon gate ruins",
+            "q: Babylon gate ruins || alt: ancient Mesopotamian gate ruins",
             "teal"
           ]
         ]
@@ -435,7 +435,7 @@
             "mono"
           ],
           [
-            "q: Karnak temple columns",
+            "q: Karnak temple columns || alt: Egyptian temple columns",
             "warm"
           ]
         ]
@@ -457,7 +457,7 @@
         "say": "He built a new capital in the desert, Amarna, and shut down the old temples. Even the art changed: stretched faces, and sun rays ending in little hands.",
         "shots": [
           [
-            "q: Amarna archaeological site",
+            "q: Amarna archaeological site || alt: desert archaeological site",
             "warm"
           ],
           [
@@ -483,7 +483,7 @@
         "say": "When he died, the old priests returned. His son, a boy king we know as Tutankhamun, brought back the old gods.",
         "shots": [
           [
-            "q: Tutankhamun mask replica",
+            "q: Tutankhamun mask replica || alt: gold Egyptian mask replica",
             "orange"
           ],
           [
@@ -562,7 +562,7 @@
         "say": "In the book of Isaiah, the prophet mocks a fallen king of Babylon: how you have fallen from heaven, shining one, son of the dawn.",
         "shots": [
           [
-            "q: Babylon ruins dawn",
+            "q: Babylon ruins dawn || alt: ancient Mesopotamian ruins dawn",
             "orange"
           ],
           [
@@ -811,7 +811,7 @@
         "say": "So: an interesting mystery cult. But most of the meme isn't in any ancient source.",
         "shots": [
           [
-            "q: mithraeum ruins Ostia",
+            "q: mithraeum ruins Ostia || alt: mithraeum ruins Roman",
             "warm"
           ],
           [
@@ -851,7 +851,7 @@
         "say": "One. Bible. From the Greek for books, which came from the word for papyrus. And papyrus got its name from Byblos, a port in Lebanon where Greeks bought it.",
         "shots": [
           [
-            "q: Byblos Lebanon harbor ancient",
+            "q: Byblos Lebanon harbor ancient || alt: Mediterranean ancient harbor ancient",
             "warm"
           ],
           [
@@ -977,7 +977,7 @@
             "mono"
           ],
           [
-            "q: Gobekli Tepe pillar",
+            "q: Gobekli Tepe pillar || alt: ancient megalithic stone ruins pillar",
             "warm"
           ]
         ]

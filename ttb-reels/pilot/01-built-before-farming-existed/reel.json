@@ -9,12 +9,12 @@
       "say": "This temple in southern Turkey is around eleven and a half thousand years old.",
       "shots": [
         [
-          "q: Gobekli Tepe aerial drone",
+          "q: Gobekli Tepe aerial drone || alt: ancient megalithic stone ruins aerial drone",
           "warm",
           {}
         ],
         [
-          "q: Gobekli Tepe enclosure circle stones",
+          "q: Gobekli Tepe enclosure circle stones || alt: ancient megalithic stone ruins enclosure circle stones",
           "orange",
           {}
         ]
@@ -24,12 +24,12 @@
       "say": "That's older than Stonehenge by six thousand years. Older than the pyramids by seven.",
       "shots": [
         [
-          "q: Stonehenge wide dusk",
+          "q: Stonehenge wide dusk || alt: stone circle wide dusk",
           "cool",
           {}
         ],
         [
-          "q: Giza pyramids wide",
+          "q: Giza pyramids wide || alt: Egyptian desert pyramids wide",
           "warm",
           {}
         ],
@@ -44,7 +44,7 @@
       "say": "But the strange part isn't the age. It's who built it.",
       "shots": [
         [
-          "q: Gobekli Tepe T-shaped pillar close-up",
+          "q: Gobekli Tepe T-shaped pillar close-up || alt: megalithic T-shaped pillar close-up",
           "warm",
           {}
         ],
@@ -104,7 +104,7 @@
           {}
         ],
         [
-          "q: Karacadag mountains Turkey",
+          "q: Karacadag mountains Turkey || alt: barren hills mountains Turkey",
           "cool",
           {}
         ]

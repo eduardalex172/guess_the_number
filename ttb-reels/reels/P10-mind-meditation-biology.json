@@ -377,7 +377,7 @@
             "teal"
           ],
           [
-            "q: stilt houses sea Indonesia",
+            "q: stilt houses sea Indonesia || alt: stilt houses sea tropical",
             "warm"
           ]
         ]
@@ -535,7 +535,7 @@
             "warm"
           ],
           [
-            "q: Danube river mist",
+            "q: Danube river mist || alt: wide European river mist",
             "cool"
           ]
         ]
@@ -675,7 +675,7 @@
         "say": "In 2012, scientists signed the Cambridge Declaration on Consciousness: mammals, birds and octopuses have the brain machinery for conscious experience.",
         "shots": [
           [
-            "q: Cambridge university buildings",
+            "q: Cambridge university buildings || alt: old university buildings",
             "warm"
           ],
           [
@@ -955,7 +955,7 @@
             "mono"
           ],
           [
-            "q: Vermont hills railroad",
+            "q: Vermont hills railroad || alt: rural hills railroad",
             "warm"
           ]
         ]
@@ -1007,7 +1007,7 @@
             "orange"
           ],
           [
-            "q: Chile Andes road",
+            "q: Chile Andes road || alt: mountain road",
             "warm"
           ]
         ]

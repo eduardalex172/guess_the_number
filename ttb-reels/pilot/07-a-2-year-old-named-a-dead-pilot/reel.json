@@ -9,7 +9,7 @@
       "say": "Louisiana, around 2000. A two-year-old boy named James Leininger starts having nightmares. Screaming: airplane crash, on fire, can't get out.",
       "shots": [
         [
-          "q: Louisiana bayou night",
+          "q: Louisiana bayou night || alt: swamp bayou night",
           "cool",
           {}
         ],
@@ -109,7 +109,7 @@
       "say": "Researchers at the University of Virginia call it one of their strongest American cases. Both readings are still on the table.",
       "shots": [
         [
-          "q: University of Virginia rotunda",
+          "q: University of Virginia rotunda || alt: old American university rotunda",
           "warm",
           {}
         ],

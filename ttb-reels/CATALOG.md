@@ -4,108 +4,108 @@ Generat din `reels/*.json` cu `python3 tools/build_catalog.py`. Narațiunea și 
 
 Stiluri: **S1** Cold Case · **S2** One Image · **S3** Countdown · **S4** Myth vs Record · **S5** Voice from the Past · **S6** What If · **S7** Case File · **S8** Made Simple · **S9** Scale · **S10** The Thread
 
-| ID | Hook | Stil | Status | ~s |
-|---|---|---|---|---|
-| [P01-01](#p01-01) | Built before farming existed | S1 Cold Case | KNOWN | 42 |
-| [P01-02](#p01-02) | A 2,000-year-old computer | S1 Cold Case | KNOWN | 47 |
-| [P01-03](#p01-03) | Roman glass that changes color | S2 One Image | KNOWN | 45 |
-| [P01-04](#p01-04) | The ancient battery that isn't | S4 Myth vs Record | DEBATED | 49 |
-| [P01-05](#p01-05) | The fire that saved a library | S7 Case File | KNOWN | 49 |
-| [P01-06](#p01-06) | Why an hour has 60 minutes | S10 The Thread | KNOWN | 46 |
-| [P01-07](#p01-07) | The diary of a man who built the Great Pyramid | S5 Voice from the Past | KNOWN | 43 |
-| [P01-08](#p01-08) | Pythagoras was 1,000 years late | S2 One Image | DEBATED | 46 |
-| [P01-09](#p01-09) | Roman concrete heals itself | S8 Made Simple | KNOWN | 47 |
-| [P01-10](#p01-10) | 3 Sumerian inventions you used today | S3 Countdown | KNOWN | 45 |
-| [P02-01](#p02-01) | Her brain was drained and she still saw this | S7 Case File | DEBATED | 59 |
-| [P02-02](#p02-02) | Scientists hid images for the dying to find | S4 Myth vs Record | KNOWN | 49 |
-| [P02-03](#p02-03) | What Egyptians had to say to get into the afterlife | S5 Voice from the Past | KNOWN | 52 |
-| [P02-04](#p02-04) | The dying brain lights up | S8 Made Simple | DEBATED | 50 |
-| [P02-05](#p02-05) | 3 things people see when their heart stops | S3 Countdown | KNOWN | 44 |
-| [P02-06](#p02-06) | The first near-death story is 2,400 years old | S10 The Thread | KNOWN | 51 |
-| [P02-07](#p02-07) | In India, near-death stories include a clerical error | S1 Cold Case | DEBATED | 49 |
-| [P02-08](#p02-08) | When people with dementia suddenly come back | S1 Cold Case | DEBATED | 42 |
-| [P02-09](#p02-09) | What if this is the dream? | S6 What If | SPECULATION | 49 |
-| [P02-10](#p02-10) | Your heart stops. Here's the next hour | S9 Scale | DEBATED | 50 |
-| [P03-01](#p03-01) | A 2-year-old named a dead pilot | S7 Case File | DEBATED | 57 |
-| [P03-02](#p03-02) | Birthmarks that match someone else's wounds | S1 Cold Case | DEBATED | 56 |
-| [P03-03](#p03-03) | Pythagoras heard his dead friend in a puppy | S5 Voice from the Past | KNOWN | 54 |
-| [P03-04](#p03-04) | The past life that came from across the street | S4 Myth vs Record | DEBATED | 52 |
-| [P03-05](#p03-05) | Where reincarnation is instant | S1 Cold Case | KNOWN | 47 |
-| [P03-06](#p03-06) | Rebirth with no soul | S5 Voice from the Past | KNOWN | 50 |
-| [P03-07](#p03-07) | How they found the Dalai Lama | S7 Case File | KNOWN | 60 |
-| [P03-08](#p03-08) | 3 patterns in kids who remember past lives | S3 Countdown | DEBATED | 57 |
-| [P03-09](#p03-09) | If we're reborn, where do new souls come from? | S6 What If | SPECULATION | 51 |
-| [P03-10](#p03-10) | Was reincarnation removed from the Bible? | S4 Myth vs Record | DEBATED | 50 |
-| [P04-01](#p04-01) | The sound that makes you see ghosts | S8 Made Simple | DEBATED | 57 |
-| [P04-02](#p04-02) | The haunted house that was poisoning them | S7 Case File | KNOWN | 49 |
-| [P04-03](#p04-03) | The two girls who started talking to the dead | S4 Myth vs Record | KNOWN | 56 |
-| [P04-04](#p04-04) | Mary Lincoln paid for this photo | S2 One Image | KNOWN | 53 |
-| [P04-05](#p04-05) | The most famous ghost photo ever | S2 One Image | DEBATED | 53 |
-| [P04-06](#p04-06) | This painting shows what millions experience | S2 One Image | KNOWN | 52 |
-| [P04-07](#p04-07) | A Roman ghost story that ends with bones | S5 Voice from the Past | KNOWN | 57 |
-| [P04-08](#p04-08) | Houdini's secret code from beyond the grave | S7 Case File | KNOWN | 53 |
-| [P04-09](#p04-09) | How ghosts changed over 2,000 years | S9 Scale | KNOWN | 47 |
-| [P04-10](#p04-10) | What if ghosts are recordings? | S6 What If | SPECULATION | 59 |
-| [P05-01](#p05-01) | The first author in history was a woman | S5 Voice from the Past | KNOWN | 56 |
-| [P05-02](#p05-02) | A shepherd threw a stone and found the oldest Bible | S7 Case File | KNOWN | 52 |
-| [P05-03](#p05-03) | The lost gospels his mother burned | S1 Cold Case | KNOWN | 54 |
-| [P05-04](#p05-04) | The religion behind heaven, hell and the devil | S10 The Thread | DEBATED | 61 |
-| [P05-05](#p05-05) | The pharaoh history tried to erase | S1 Cold Case | KNOWN | 58 |
-| [P05-06](#p05-06) | Lucifer is a planet | S10 The Thread | KNOWN | 55 |
-| [P05-07](#p05-07) | Did Einstein believe in God? | S4 Myth vs Record | KNOWN | 59 |
-| [P05-08](#p05-08) | Was Jesus copied from Mithras? | S4 Myth vs Record | DEBATED | 60 |
-| [P05-09](#p05-09) | 3 holy words with surprising origins | S3 Countdown | KNOWN | 49 |
-| [P05-10](#p05-10) | Every major religion fits in the last 17 minutes | S9 Scale | DEBATED | 57 |
-| [P06-01](#p06-01) | The gold in your ring came from a collision | S1 Cold Case | DEBATED | 60 |
-| [P06-02](#p06-02) | The message we sent to aliens | S5 Voice from the Past | KNOWN | 53 |
-| [P06-03](#p06-03) | Where is everybody? | S6 What If | SPECULATION | 57 |
-| [P06-04](#p06-04) | 72 seconds from space | S2 One Image | DEBATED | 60 |
-| [P06-05](#p06-05) | The universe in one year | S9 Scale | KNOWN | 43 |
-| [P06-06](#p06-06) | Everything you see is in the past | S9 Scale | KNOWN | 50 |
-| [P06-07](#p06-07) | 95% of the universe is missing | S8 Made Simple | KNOWN | 51 |
-| [P06-08](#p06-08) | The Great Nothing | S1 Cold Case | KNOWN | 54 |
-| [P06-09](#p06-09) | NASA pointed Hubble at nothing | S2 One Image | KNOWN | 47 |
-| [P06-10](#p06-10) | Edgar Allan Poe solved a cosmic puzzle | S10 The Thread | KNOWN | 58 |
-| [P07-01](#p07-01) | Does looking at reality change it? | S8 Made Simple | DEBATED | 62 |
-| [P07-02](#p07-02) | How you'd see a 4th dimension | S6 What If | SPECULATION | 57 |
-| [P07-03](#p07-03) | The argument that we're in a simulation | S6 What If | SPECULATION | 48 |
-| [P07-04](#p07-04) | Your phone uses time travel math | S8 Made Simple | KNOWN | 52 |
-| [P07-05](#p07-05) | They flew atomic clocks around the world | S7 Case File | KNOWN | 52 |
-| [P07-06](#p07-06) | Einstein called it spooky. It's real. | S4 Myth vs Record | KNOWN | 60 |
-| [P07-07](#p07-07) | What Einstein wrote when his friend died | S5 Voice from the Past | KNOWN | 51 |
-| [P07-08](#p07-08) | The physicist of parallel worlds and the rock star son | S10 The Thread | SPECULATION | 58 |
-| [P07-09](#p07-09) | Zoom in until space breaks | S9 Scale | SPECULATION | 62 |
-| [P07-10](#p07-10) | 3 proofs time isn't what you think | S3 Countdown | KNOWN | 52 |
-| [P08-01](#p08-01) | Tesla's 3-6-9 quote has a problem | S4 Myth vs Record | DEBATED | 57 |
-| [P08-02](#p08-02) | Tesla's earthquake machine | S7 Case File | DEBATED | 58 |
-| [P08-03](#p08-03) | The woman who solved sound patterns | S7 Case File | KNOWN | 60 |
-| [P08-04](#p08-04) | This bridge didn't fall from resonance | S2 One Image | KNOWN | 51 |
-| [P08-05](#p08-05) | Tesla's tower is in your pocket | S10 The Thread | KNOWN | 58 |
-| [P08-06](#p08-06) | A 5,000-year-old room tuned to your voice | S6 What If | SPECULATION | 59 |
-| [P08-07](#p08-07) | Tesla's death ray and the FBI | S5 Voice from the Past | KNOWN | 60 |
-| [P08-08](#p08-08) | The 'ancient' 528 Hz is from the 1970s | S4 Myth vs Record | KNOWN | 60 |
-| [P08-09](#p08-09) | 3 things sound can do that look like magic | S3 Countdown | KNOWN | 57 |
-| [P08-10](#p08-10) | Color is just a faster sound | S9 Scale | KNOWN | 48 |
-| [P09-01](#p09-01) | Where the golden ratio really shows up | S8 Made Simple | KNOWN | 56 |
-| [P09-02](#p09-02) | Fibonacci's real gift wasn't the sequence | S10 The Thread | KNOWN | 58 |
-| [P09-03](#p09-03) | The 2,000-year journey of zero | S9 Scale | DEBATED | 57 |
-| [P09-04](#p09-04) | The oldest copy says it's not 666 | S2 One Image | DEBATED | 60 |
-| [P09-05](#p09-05) | Your life path number is 100 years old | S8 Made Simple | KNOWN | 56 |
-| [P09-06](#p09-06) | The Flower of Life in an Egyptian temple | S2 One Image | DEBATED | 61 |
-| [P09-07](#p09-07) | The beautiful wrong idea that took us to Mars | S10 The Thread | KNOWN | 58 |
-| [P09-08](#p09-08) | 3 living things that do math | S3 Countdown | DEBATED | 48 |
-| [P09-09](#p09-09) | Why 108 is sacred might be in the sky | S6 What If | SPECULATION | 59 |
-| [P09-10](#p09-10) | The number that broke a religion | S6 What If | DEBATED | 61 |
-| [P10-01](#p10-01) | Does meditation really change your brain? | S8 Made Simple | DEBATED | 51 |
-| [P10-02](#p10-02) | You have a second brain | S8 Made Simple | KNOWN | 54 |
-| [P10-03](#p10-03) | 3 experiments where your brain makes things up | S3 Countdown | KNOWN | 61 |
-| [P10-04](#p10-04) | 3 times the body did the impossible | S3 Countdown | KNOWN | 57 |
-| [P10-05](#p10-05) | 3 signs we still don't understand consciousness | S3 Countdown | KNOWN | 55 |
-| [P10-06](#p10-06) | An emperor's secret diary | S5 Voice from the Past | KNOWN | 55 |
-| [P10-07](#p10-07) | What if bees feel something? | S6 What If | DEBATED | 60 |
-| [P10-08](#p10-08) | Your body isn't 7 years old | S9 Scale | KNOWN | 46 |
-| [P10-09](#p10-09) | Your brain runs on a 20-watt bulb | S9 Scale | KNOWN | 42 |
-| [P10-10](#p10-10) | An iron rod through his skull changed who he was | S10 The Thread | KNOWN | 57 |
+| ID | Hook | Stil | Status | ~s | Randat |
+|---|---|---|---|---|---|
+| [P01-01](#p01-01) | Built before farming existed | S1 Cold Case | KNOWN | 42 |  |
+| [P01-02](#p01-02) | A 2,000-year-old computer | S1 Cold Case | KNOWN | 47 |  |
+| [P01-03](#p01-03) | Roman glass that changes color | S2 One Image | KNOWN | 45 |  |
+| [P01-04](#p01-04) | The ancient battery that isn't | S4 Myth vs Record | DEBATED | 49 |  |
+| [P01-05](#p01-05) | The fire that saved a library | S7 Case File | KNOWN | 49 |  |
+| [P01-06](#p01-06) | Why an hour has 60 minutes | S10 The Thread | KNOWN | 46 | ✓ 50 s |
+| [P01-07](#p01-07) | The diary of a man who built the Great Pyramid | S5 Voice from the Past | KNOWN | 43 |  |
+| [P01-08](#p01-08) | Pythagoras was 1,000 years late | S2 One Image | DEBATED | 46 |  |
+| [P01-09](#p01-09) | Roman concrete heals itself | S8 Made Simple | KNOWN | 47 |  |
+| [P01-10](#p01-10) | 3 Sumerian inventions you used today | S3 Countdown | KNOWN | 45 |  |
+| [P02-01](#p02-01) | Her brain was drained and she still saw this | S7 Case File | DEBATED | 59 |  |
+| [P02-02](#p02-02) | Scientists hid images for the dying to find | S4 Myth vs Record | KNOWN | 49 |  |
+| [P02-03](#p02-03) | What Egyptians had to say to get into the afterlife | S5 Voice from the Past | KNOWN | 52 |  |
+| [P02-04](#p02-04) | The dying brain lights up | S8 Made Simple | DEBATED | 50 |  |
+| [P02-05](#p02-05) | 3 things people see when their heart stops | S3 Countdown | KNOWN | 44 |  |
+| [P02-06](#p02-06) | The first near-death story is 2,400 years old | S10 The Thread | KNOWN | 51 |  |
+| [P02-07](#p02-07) | In India, near-death stories include a clerical error | S1 Cold Case | DEBATED | 49 |  |
+| [P02-08](#p02-08) | When people with dementia suddenly come back | S1 Cold Case | DEBATED | 42 |  |
+| [P02-09](#p02-09) | What if this is the dream? | S6 What If | SPECULATION | 49 |  |
+| [P02-10](#p02-10) | Your heart stops. Here's the next hour | S9 Scale | DEBATED | 50 |  |
+| [P03-01](#p03-01) | A 2-year-old named a dead pilot | S7 Case File | DEBATED | 57 | ✓ 57 s |
+| [P03-02](#p03-02) | Birthmarks that match someone else's wounds | S1 Cold Case | DEBATED | 56 |  |
+| [P03-03](#p03-03) | Pythagoras heard his dead friend in a puppy | S5 Voice from the Past | KNOWN | 54 |  |
+| [P03-04](#p03-04) | The past life that came from across the street | S4 Myth vs Record | DEBATED | 52 |  |
+| [P03-05](#p03-05) | Where reincarnation is instant | S1 Cold Case | KNOWN | 47 |  |
+| [P03-06](#p03-06) | Rebirth with no soul | S5 Voice from the Past | KNOWN | 50 |  |
+| [P03-07](#p03-07) | How they found the Dalai Lama | S7 Case File | KNOWN | 60 |  |
+| [P03-08](#p03-08) | 3 patterns in kids who remember past lives | S3 Countdown | DEBATED | 57 |  |
+| [P03-09](#p03-09) | If we're reborn, where do new souls come from? | S6 What If | SPECULATION | 51 |  |
+| [P03-10](#p03-10) | Was reincarnation removed from the Bible? | S4 Myth vs Record | DEBATED | 50 |  |
+| [P04-01](#p04-01) | The sound that makes you see ghosts | S8 Made Simple | DEBATED | 57 |  |
+| [P04-02](#p04-02) | The haunted house that was poisoning them | S7 Case File | KNOWN | 49 |  |
+| [P04-03](#p04-03) | The two girls who started talking to the dead | S4 Myth vs Record | KNOWN | 56 |  |
+| [P04-04](#p04-04) | Mary Lincoln paid for this photo | S2 One Image | KNOWN | 53 |  |
+| [P04-05](#p04-05) | The most famous ghost photo ever | S2 One Image | DEBATED | 53 |  |
+| [P04-06](#p04-06) | This painting shows what millions experience | S2 One Image | KNOWN | 52 |  |
+| [P04-07](#p04-07) | A Roman ghost story that ends with bones | S5 Voice from the Past | KNOWN | 57 |  |
+| [P04-08](#p04-08) | Houdini's secret code from beyond the grave | S7 Case File | KNOWN | 53 |  |
+| [P04-09](#p04-09) | How ghosts changed over 2,000 years | S9 Scale | KNOWN | 47 |  |
+| [P04-10](#p04-10) | What if ghosts are recordings? | S6 What If | SPECULATION | 59 |  |
+| [P05-01](#p05-01) | The first author in history was a woman | S5 Voice from the Past | KNOWN | 56 |  |
+| [P05-02](#p05-02) | A shepherd threw a stone and found the oldest Bible | S7 Case File | KNOWN | 52 |  |
+| [P05-03](#p05-03) | The lost gospels his mother burned | S1 Cold Case | KNOWN | 54 |  |
+| [P05-04](#p05-04) | The religion behind heaven, hell and the devil | S10 The Thread | DEBATED | 61 |  |
+| [P05-05](#p05-05) | The pharaoh history tried to erase | S1 Cold Case | KNOWN | 58 |  |
+| [P05-06](#p05-06) | Lucifer is a planet | S10 The Thread | KNOWN | 55 |  |
+| [P05-07](#p05-07) | Did Einstein believe in God? | S4 Myth vs Record | KNOWN | 59 |  |
+| [P05-08](#p05-08) | Was Jesus copied from Mithras? | S4 Myth vs Record | DEBATED | 60 |  |
+| [P05-09](#p05-09) | 3 holy words with surprising origins | S3 Countdown | KNOWN | 49 |  |
+| [P05-10](#p05-10) | Every major religion fits in the last 17 minutes | S9 Scale | DEBATED | 57 |  |
+| [P06-01](#p06-01) | The gold in your ring came from a collision | S1 Cold Case | DEBATED | 60 |  |
+| [P06-02](#p06-02) | The message we sent to aliens | S5 Voice from the Past | KNOWN | 53 |  |
+| [P06-03](#p06-03) | Where is everybody? | S6 What If | SPECULATION | 57 |  |
+| [P06-04](#p06-04) | 72 seconds from space | S2 One Image | DEBATED | 60 |  |
+| [P06-05](#p06-05) | The universe in one year | S9 Scale | KNOWN | 43 |  |
+| [P06-06](#p06-06) | Everything you see is in the past | S9 Scale | KNOWN | 50 |  |
+| [P06-07](#p06-07) | 95% of the universe is missing | S8 Made Simple | KNOWN | 51 |  |
+| [P06-08](#p06-08) | The Great Nothing | S1 Cold Case | KNOWN | 54 |  |
+| [P06-09](#p06-09) | NASA pointed Hubble at nothing | S2 One Image | KNOWN | 47 |  |
+| [P06-10](#p06-10) | Edgar Allan Poe solved a cosmic puzzle | S10 The Thread | KNOWN | 58 |  |
+| [P07-01](#p07-01) | Does looking at reality change it? | S8 Made Simple | DEBATED | 62 |  |
+| [P07-02](#p07-02) | How you'd see a 4th dimension | S6 What If | SPECULATION | 57 |  |
+| [P07-03](#p07-03) | The argument that we're in a simulation | S6 What If | SPECULATION | 48 |  |
+| [P07-04](#p07-04) | Your phone uses time travel math | S8 Made Simple | KNOWN | 52 |  |
+| [P07-05](#p07-05) | They flew atomic clocks around the world | S7 Case File | KNOWN | 52 |  |
+| [P07-06](#p07-06) | Einstein called it spooky. It's real. | S4 Myth vs Record | KNOWN | 60 |  |
+| [P07-07](#p07-07) | What Einstein wrote when his friend died | S5 Voice from the Past | KNOWN | 51 |  |
+| [P07-08](#p07-08) | The physicist of parallel worlds and the rock star son | S10 The Thread | SPECULATION | 58 |  |
+| [P07-09](#p07-09) | Zoom in until space breaks | S9 Scale | SPECULATION | 62 |  |
+| [P07-10](#p07-10) | 3 proofs time isn't what you think | S3 Countdown | KNOWN | 52 |  |
+| [P08-01](#p08-01) | Tesla's 3-6-9 quote has a problem | S4 Myth vs Record | DEBATED | 57 |  |
+| [P08-02](#p08-02) | Tesla's earthquake machine | S7 Case File | DEBATED | 58 |  |
+| [P08-03](#p08-03) | The woman who solved sound patterns | S7 Case File | KNOWN | 60 |  |
+| [P08-04](#p08-04) | This bridge didn't fall from resonance | S2 One Image | KNOWN | 51 |  |
+| [P08-05](#p08-05) | Tesla's tower is in your pocket | S10 The Thread | KNOWN | 58 |  |
+| [P08-06](#p08-06) | A 5,000-year-old room tuned to your voice | S6 What If | SPECULATION | 59 |  |
+| [P08-07](#p08-07) | Tesla's death ray and the FBI | S5 Voice from the Past | KNOWN | 60 |  |
+| [P08-08](#p08-08) | The 'ancient' 528 Hz is from the 1970s | S4 Myth vs Record | KNOWN | 60 |  |
+| [P08-09](#p08-09) | 3 things sound can do that look like magic | S3 Countdown | KNOWN | 57 |  |
+| [P08-10](#p08-10) | Color is just a faster sound | S9 Scale | KNOWN | 48 |  |
+| [P09-01](#p09-01) | Where the golden ratio really shows up | S8 Made Simple | KNOWN | 56 |  |
+| [P09-02](#p09-02) | Fibonacci's real gift wasn't the sequence | S10 The Thread | KNOWN | 58 |  |
+| [P09-03](#p09-03) | The 2,000-year journey of zero | S9 Scale | DEBATED | 57 |  |
+| [P09-04](#p09-04) | The oldest copy says it's not 666 | S2 One Image | DEBATED | 60 |  |
+| [P09-05](#p09-05) | Your life path number is 100 years old | S8 Made Simple | KNOWN | 56 |  |
+| [P09-06](#p09-06) | The Flower of Life in an Egyptian temple | S2 One Image | DEBATED | 61 |  |
+| [P09-07](#p09-07) | The beautiful wrong idea that took us to Mars | S10 The Thread | KNOWN | 58 |  |
+| [P09-08](#p09-08) | 3 living things that do math | S3 Countdown | DEBATED | 48 |  |
+| [P09-09](#p09-09) | Why 108 is sacred might be in the sky | S6 What If | SPECULATION | 59 |  |
+| [P09-10](#p09-10) | The number that broke a religion | S6 What If | DEBATED | 61 |  |
+| [P10-01](#p10-01) | Does meditation really change your brain? | S8 Made Simple | DEBATED | 51 |  |
+| [P10-02](#p10-02) | You have a second brain | S8 Made Simple | KNOWN | 54 |  |
+| [P10-03](#p10-03) | 3 experiments where your brain makes things up | S3 Countdown | KNOWN | 61 |  |
+| [P10-04](#p10-04) | 3 times the body did the impossible | S3 Countdown | KNOWN | 57 |  |
+| [P10-05](#p10-05) | 3 signs we still don't understand consciousness | S3 Countdown | KNOWN | 55 |  |
+| [P10-06](#p10-06) | An emperor's secret diary | S5 Voice from the Past | KNOWN | 55 |  |
+| [P10-07](#p10-07) | What if bees feel something? | S6 What If | DEBATED | 60 |  |
+| [P10-08](#p10-08) | Your body isn't 7 years old | S9 Scale | KNOWN | 46 |  |
+| [P10-09](#p10-09) | Your brain runs on a 20-watt bulb | S9 Scale | KNOWN | 42 |  |
+| [P10-10](#p10-10) | An iron rod through his skull changed who he was | S10 The Thread | KNOWN | 57 |  |
 
 ## Ancient history & lost civilizations
 
@@ -204,6 +204,7 @@ Stiluri: **S1** Cold Case · **S2** One Image · **S3** Countdown · **S4** Myth
 - **Instagram:** never thought about why an hour is 60 minutes until today. it's Babylonian math. we're still counting like it's 2000 BC
 - **TikTok:** why time is counted in 60s #history #sumer
 - **Fact note (internal):** Sexagesimal from Sumer, developed by Babylonians (KNOWN). Greek astronomers used sexagesimal fractions (KNOWN). Hour subdivision into 60 came later through astronomy (KNOWN). 360 degrees tied to Babylonian astronomy (KNOWN; exact origin DEBATED).
+- **Randat:** done, 50.3 s, Drive: TTB Postari/Reels pilot/10 - Why 60 minutes. Script unchanged. Shots: Met account tablet, Chibaish marshes (CC0), Shuruppak economic text, Assyrian planisphere K8538 for 'astrolabe', Milky Way time-lapse, clocks, clay press. Line art: circle in 6 slices '60 = 2·30 = 3·20 · 4·15 = 5·12 = 6·10', 60-tick and 72-tick circles.
 
 ### P01-07
 
@@ -449,6 +450,7 @@ Stiluri: **S1** Cold Case · **S2** One Image · **S3** Countdown · **S4** Myth
 - **Instagram:** the dad was trying to disprove it. this is the case that made a lot of skeptics at least pause
 - **TikTok:** James Leininger, the boy who remembered being a WWII pilot #reincarnation #pastlife
 - **Fact note (internal):** James Leininger case, Lafayette, Louisiana (KNOWN as reported: Leininger 'Soul Survivor' 2009; Tucker 'Return to Life' 2013). Corsair, Natoma Bay, Jack Larsen, James M. Huston Jr. killed 3 Mar 1945 near Iwo Jima/Chichi Jima (KNOWN). Huston was flying an FM-2 Wildcat when killed (note: James said Corsair; Huston had flown Corsairs earlier) (DEBATED detail). Critiques (KNOWN). Tie-in to 'Have You Lived Before?' Mon 26 Oct.
+- **Randat:** done, 57.3 s, Drive: TTB Postari/Reels pilot/07 - Leininger. Script unchanged. Shots hand-mapped to ep. 2 assets: PD US Navy Corsair VF-17 1944, Natoma Bay underway / Tulagi 1944, Iwo Jima strike 1945, TBM takeoff from Natoma 1945, plus bedroom, typewriter, projector, library clips. Labels: 'Natoma / Jack Larsen / James', 'James M. Huston Jr. · killed 3 March 1945', 'aviation museum visit · before the nightmares'.
 
 ### P03-02
 

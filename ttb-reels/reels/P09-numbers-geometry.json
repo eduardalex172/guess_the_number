@@ -15,7 +15,7 @@
             "mono"
           ],
           [
-            "q: Parthenon Athens",
+            "q: Parthenon Athens || alt: Greek temple",
             "warm"
           ]
         ]
@@ -28,7 +28,7 @@
             "mono"
           ],
           [
-            "q: Parthenon columns close",
+            "q: Parthenon columns close || alt: Greek temple columns close",
             "orange"
           ]
         ]
@@ -146,7 +146,7 @@
             "warm"
           ],
           [
-            "q: Pisa tower old town",
+            "q: Pisa tower old town || alt: old Italian tower old town",
             "orange"
           ]
         ]
@@ -155,7 +155,7 @@
         "say": "Leonardo of Pisa grew up in North Africa, where his father worked as a customs officer. There he learned to count with Hindu-Arabic numerals: zero to nine.",
         "shots": [
           [
-            "q: Bejaia Algeria harbor",
+            "q: Bejaia Algeria harbor || alt: North African harbor",
             "warm"
           ],
           [
@@ -181,7 +181,7 @@
         "say": "Merchants loved the new system. Authorities didn't trust it. In 1299, Florence banned it in bank books, because a zero was too easy to turn into a six or a nine.",
         "shots": [
           [
-            "q: Florence old city",
+            "q: Florence old city || alt: old Italian city old city",
             "orange"
           ],
           [
@@ -251,7 +251,7 @@
             "orange"
           ],
           [
-            "q: Maya pyramid Tikal",
+            "q: Maya pyramid Tikal || alt: Maya pyramid jungle pyramid",
             "warm"
           ]
         ]
@@ -260,7 +260,7 @@
         "say": "India, 628 AD: the astronomer Brahmagupta writes rules for zero as a number. Something plus zero stays the same. Something times zero is zero.",
         "shots": [
           [
-            "q: Indian temple astronomy observatory Jantar Mantar",
+            "q: Indian temple astronomy observatory Jantar Mantar || alt: Indian temple astronomy observatory historic stone observatory",
             "orange"
           ],
           [
@@ -474,7 +474,7 @@
             "warm"
           ],
           [
-            "q: Atlantic City old postcard",
+            "q: Atlantic City old postcard || alt: seaside old postcard",
             "orange"
           ]
         ]
@@ -540,7 +540,7 @@
             "warm"
           ],
           [
-            "q: Osireion granite pillars water",
+            "q: Osireion granite pillars water || alt: ancient flooded temple granite pillars water",
             "teal"
           ]
         ]
@@ -605,7 +605,7 @@
             "magenta"
           ],
           [
-            "q: Abydos temple sunset",
+            "q: Abydos temple sunset || alt: Egyptian temple sunset",
             "orange"
           ]
         ]
@@ -671,7 +671,7 @@
             "red"
           ],
           [
-            "q: Uranus Neptune (NASA)",
+            "q: Uranus Neptune (NASA) || alt: outer planets (NASA)",
             "teal"
           ]
         ]
@@ -894,7 +894,7 @@
         "say": "Ancient Indian astronomers were very good at measuring angles.",
         "shots": [
           [
-            "q: Jantar Mantar observatory Jaipur",
+            "q: Jantar Mantar observatory Jaipur || alt: historic stone observatory Indian",
             "orange"
           ],
           [

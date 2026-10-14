@@ -221,7 +221,7 @@
         "say": "In 2003, an Oxford philosopher named Nick Bostrom published a short argument that still bothers people.",
         "shots": [
           [
-            "q: Oxford University spires",
+            "q: Oxford University spires || alt: old university spires",
             "warm"
           ],
           [
@@ -500,7 +500,7 @@
             "mono"
           ],
           [
-            "q: Washington DC observatory",
+            "q: Washington DC observatory || alt: capital observatory",
             "warm"
           ]
         ]
@@ -645,7 +645,7 @@
             "mono"
           ],
           [
-            "q: Zurich old town",
+            "q: Zurich old town || alt: old European city old town",
             "warm"
           ]
         ]
@@ -671,7 +671,7 @@
             "warm"
           ],
           [
-            "q: Princeton winter trees",
+            "q: Princeton winter trees || alt: old university winter trees",
             "cool"
           ]
         ]
@@ -746,7 +746,7 @@
         "say": "In 1957, a Princeton grad student named Hugh Everett proposed a wild solution to quantum physics.",
         "shots": [
           [
-            "q: Princeton University gothic campus",
+            "q: Princeton University gothic campus || alt: old university gothic campus",
             "warm"
           ],
           [
@@ -924,7 +924,7 @@
             "mono"
           ],
           [
-            "q: Calabi-Yau shape animation",
+            "q: Calabi-Yau shape animation || alt: abstract folded geometry shape animation",
             "magenta"
           ]
         ]
@@ -977,7 +977,7 @@
             "mono"
           ],
           [
-            "q: atomic clock lab NIST style",
+            "q: atomic clock lab NIST style || alt: atomic clock lab physics lab style",
             "teal"
           ],
           [
