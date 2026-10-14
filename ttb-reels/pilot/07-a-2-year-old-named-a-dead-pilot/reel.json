@@ -1,0 +1,124 @@
+{
+  "id": "P03-01",
+  "hook": "A 2-year-old named|a *dead pilot*",
+  "speed": 1.05,
+  "musicVol": 0.3,
+  "outro": "*The Thread Beneath*",
+  "lines": [
+    {
+      "say": "Louisiana, around 2000. A two-year-old boy named James Leininger starts having nightmares. Screaming: airplane crash, on fire, can't get out.",
+      "shots": [
+        [
+          "q: Louisiana bayou night || alt: swamp bayou night",
+          "cool",
+          {}
+        ],
+        [
+          "q: vintage toy airplane on floor",
+          "warm",
+          {}
+        ],
+        [
+          "q: fire flames dark",
+          "red",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "He talks about flying a Corsair, a World War Two fighter, from a ship called the Natoma.",
+      "shots": [
+        [
+          "archive: F4U Corsair WWII photo (US Navy, public domain)",
+          "mono",
+          {}
+        ],
+        [
+          "archive: USS Natoma Bay escort carrier (public domain)",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "He says he had a friend there named Jack Larsen. And he says the pilot was named James, like him.",
+      "shots": [
+        [
+          "line art: names 'Natoma' 'Jack Larsen' 'James'",
+          "mono",
+          {}
+        ],
+        [
+          "q: old navy logbook pages",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "His father, a skeptic, starts researching to prove him wrong.",
+      "shots": [
+        [
+          "q: microfilm archive reader",
+          "cool",
+          {}
+        ],
+        [
+          "q: stack of WWII books",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "He finds the USS Natoma Bay. A pilot named Jack Larsen served on it. And one pilot from it was killed near Iwo Jima in 1945: James Huston Junior.",
+      "shots": [
+        [
+          "archive: Iwo Jima 1945 aerial (public domain)",
+          "mono",
+          {}
+        ],
+        [
+          "archive: Natoma Bay squadron photo (public domain)",
+          "mono",
+          {}
+        ],
+        [
+          "line art: name James M. Huston Jr. typed",
+          "red",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Skeptics point out the family visited an aviation museum before the nightmares, and that details sharpened as the parents researched.",
+      "shots": [
+        [
+          "q: aviation museum hangar",
+          "cool",
+          {}
+        ],
+        [
+          "line art: timeline showing museum visit",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Researchers at the University of Virginia call it one of their strongest American cases. Both readings are still on the table.",
+      "shots": [
+        [
+          "q: University of Virginia rotunda || alt: old American university rotunda",
+          "warm",
+          {}
+        ],
+        [
+          "q: vintage airplane silhouette sunset",
+          "orange",
+          {}
+        ]
+      ]
+    }
+  ]
+}

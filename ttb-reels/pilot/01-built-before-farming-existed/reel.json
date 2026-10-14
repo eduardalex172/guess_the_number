@@ -1,0 +1,129 @@
+{
+  "id": "P01-01",
+  "hook": "Built before|*farming* existed",
+  "speed": 1.05,
+  "musicVol": 0.3,
+  "outro": "*The Thread Beneath*",
+  "lines": [
+    {
+      "say": "This temple in southern Turkey is around eleven and a half thousand years old.",
+      "shots": [
+        [
+          "q: Gobekli Tepe aerial drone || alt: ancient megalithic stone ruins aerial drone",
+          "warm",
+          {}
+        ],
+        [
+          "q: Gobekli Tepe enclosure circle stones || alt: ancient megalithic stone ruins enclosure circle stones",
+          "orange",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "That's older than Stonehenge by six thousand years. Older than the pyramids by seven.",
+      "shots": [
+        [
+          "q: Stonehenge wide dusk || alt: stone circle wide dusk",
+          "cool",
+          {}
+        ],
+        [
+          "q: Giza pyramids wide || alt: Egyptian desert pyramids wide",
+          "warm",
+          {}
+        ],
+        [
+          "line art: timeline 9500 BC / 3000 BC / 2560 BC",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "But the strange part isn't the age. It's who built it.",
+      "shots": [
+        [
+          "q: Gobekli Tepe T-shaped pillar close-up || alt: megalithic T-shaped pillar close-up",
+          "warm",
+          {}
+        ],
+        [
+          "q: carved fox relief stone",
+          "orange",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "No pottery. No farms. No metal tools. The people who carved these five-meter pillars were hunter-gatherers.",
+      "shots": [
+        [
+          "q: flint tools macro",
+          "mono",
+          {}
+        ],
+        [
+          "q: wild steppe grassland wind",
+          "warm",
+          {}
+        ],
+        [
+          "q: pillar carved boar and birds relief",
+          "orange",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Archaeologists used to think you needed farming first, then cities, then temples.",
+      "shots": [
+        [
+          "line art: arrow farming -> city -> temple",
+          "mono",
+          {}
+        ],
+        [
+          "q: ancient wheat field",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Göbekli Tepe flipped that. The temple came first. Some researchers think feeding the builders helped push people toward farming.",
+      "shots": [
+        [
+          "line art: arrows reverse, temple -> farming",
+          "mono",
+          {}
+        ],
+        [
+          "q: wild einkorn wheat close-up",
+          "warm",
+          {}
+        ],
+        [
+          "q: Karacadag mountains Turkey || alt: barren hills mountains Turkey",
+          "cool",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Religion may not have followed civilization. It may have started it.",
+      "shots": [
+        [
+          "q: stone pillar silhouette night stars",
+          "teal",
+          {}
+        ],
+        [
+          "q: torch fire light on stone texture",
+          "orange",
+          {}
+        ]
+      ]
+    }
+  ]
+}

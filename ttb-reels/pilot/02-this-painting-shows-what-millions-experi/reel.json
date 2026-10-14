@@ -1,0 +1,114 @@
+{
+  "id": "P04-06",
+  "hook": "This painting shows|what *millions* experience",
+  "speed": 1.05,
+  "musicVol": 0.3,
+  "outro": "*The Thread Beneath*",
+  "lines": [
+    {
+      "say": "This painting is called The Nightmare. Henry Fuseli, 1781.",
+      "shots": [
+        [
+          "archive: Fuseli The Nightmare 1781 (public domain), full",
+          "mono",
+          {}
+        ],
+        [
+          "archive: same, slow push",
+          "red",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "A woman lies asleep, twisted across the bed. On her chest sits a demon, staring straight at us.",
+      "shots": [
+        [
+          "archive: Nightmare crop on figure",
+          "mono",
+          {}
+        ],
+        [
+          "archive: Nightmare crop on demon",
+          "red",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "For centuries people described exactly this. Waking up, unable to move, with something heavy sitting on your chest, and a presence in the room.",
+      "shots": [
+        [
+          "q: bedroom dark ceiling",
+          "teal",
+          {}
+        ],
+        [
+          "line art: weight pressing down",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "In Newfoundland they called it the Old Hag. In other places, a witch, a jinn, a spirit.",
+      "shots": [
+        [
+          "q: Newfoundland coast night || alt: rugged north Atlantic coast night",
+          "cool",
+          {}
+        ],
+        [
+          "q: dark forest moonlight",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Science calls it sleep paralysis. Your brain wakes up while your body is still locked in dream sleep, and the dream bleeds into the room.",
+      "shots": [
+        [
+          "line art: brain awake, body asleep",
+          "mono",
+          {}
+        ],
+        [
+          "q: dream blur abstract",
+          "magenta",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Studies suggest something like one person in twelve has it at least once.",
+      "shots": [
+        [
+          "line art: 12 figures, 1 highlighted",
+          "mono",
+          {}
+        ],
+        [
+          "q: city windows at night",
+          "cool",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "So that demon on her chest? People really saw it. It just came from inside their own heads.",
+      "shots": [
+        [
+          "archive: Nightmare crop on demon eyes",
+          "red",
+          {}
+        ],
+        [
+          "q: dawn light through curtains",
+          "warm",
+          {}
+        ]
+      ]
+    }
+  ]
+}

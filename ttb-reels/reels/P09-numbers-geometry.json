@@ -1,0 +1,1030 @@
+[
+  {
+    "id": "P09-01",
+    "pillar": "Numbers, numerology & sacred geometry",
+    "sub": "Golden ratio",
+    "style": "S8",
+    "status": "KNOWN",
+    "hook": "Where the golden ratio|*really* shows up",
+    "lines": [
+      {
+        "say": "The golden ratio. One point six one eight. Supposedly hidden in the Parthenon, the Mona Lisa, the perfect face.",
+        "shots": [
+          [
+            "line art: phi spiral over Parthenon",
+            "mono"
+          ],
+          [
+            "q: Parthenon Athens || alt: Greek temple",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Most of that doesn't hold up. The Parthenon was built before anyone wrote the ratio down, and there's no record its builders used it.",
+        "shots": [
+          [
+            "line art: timeline Parthenon 447 BC / Euclid c. 300 BC",
+            "mono"
+          ],
+          [
+            "q: Parthenon columns close || alt: Greek temple columns close",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Draw enough rectangles on a painting and one of them will fit. That's not design. That's choosing.",
+        "shots": [
+          [
+            "line art: many rectangles over painting, one highlighted",
+            "red"
+          ],
+          [
+            "archive: Renaissance portrait (public domain)",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Even the name divine proportion only appears in 1509, in a book illustrated by Leonardo da Vinci.",
+        "shots": [
+          [
+            "archive: De divina proportione Leonardo polyhedra (public domain)",
+            "mono"
+          ],
+          [
+            "q: old book pages Renaissance",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "But here's where it's real. Look at the center of a sunflower. The seeds form two sets of spirals, often thirty-four one way and fifty-five the other. Fibonacci numbers.",
+        "shots": [
+          [
+            "q: sunflower center macro",
+            "orange"
+          ],
+          [
+            "line art: spirals counted 34 / 55",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Each new seed grows about a hundred and thirty-seven and a half degrees from the last. The golden angle. No gaps.",
+        "shots": [
+          [
+            "line art: golden angle 137.5 animation",
+            "magenta"
+          ],
+          [
+            "q: pine cone spiral macro",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Not hidden in art. Grown into plants.",
+        "shots": [
+          [
+            "q: succulent spiral top view",
+            "teal"
+          ],
+          [
+            "q: sunflower field sunset",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Phi = (1+sqrt5)/2 (KNOWN). Euclid's 'extreme and mean ratio' c. 300 BC; Parthenon 447-432 BC; no evidence of intentional phi (KNOWN per Markowsky 1992 and others). Pacioli 'De divina proportione' 1509, Leonardo illustrations (KNOWN). Sunflower spirals consecutive Fibonacci (34/55, 55/89) and golden angle ~137.5 (KNOWN, Vogel 1979 model).",
+    "ig_caption": "the golden ratio in the Mona Lisa is mostly people drawing rectangles until one fits. in sunflowers though? completely real",
+    "tt_caption": "golden ratio myths vs where it really appears #goldenratio #fibonacci"
+  },
+  {
+    "id": "P09-02",
+    "pillar": "Numbers, numerology & sacred geometry",
+    "sub": "History of numbers",
+    "style": "S10",
+    "status": "KNOWN",
+    "hook": "Fibonacci's real gift|wasn't the *sequence*",
+    "lines": [
+      {
+        "say": "Everyone knows the Fibonacci sequence. One, one, two, three, five, eight. Each number is the sum of the two before.",
+        "shots": [
+          [
+            "line art: 1 1 2 3 5 8 13 building",
+            "mono"
+          ],
+          [
+            "q: nautilus shell cross-section",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "It comes from a puzzle about breeding rabbits in a book from 1202. And Indian poets had worked out the same numbers centuries earlier.",
+        "shots": [
+          [
+            "q: rabbits in grass",
+            "warm"
+          ],
+          [
+            "q: Sanskrit manuscript page",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "But that book, Liber Abaci, carried something much bigger into Europe.",
+        "shots": [
+          [
+            "archive: Liber Abaci manuscript page (public domain)",
+            "warm"
+          ],
+          [
+            "q: Pisa tower old town || alt: old Italian tower old town",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Leonardo of Pisa grew up in North Africa, where his father worked as a customs officer. There he learned to count with Hindu-Arabic numerals: zero to nine.",
+        "shots": [
+          [
+            "q: Bejaia Algeria harbor || alt: North African harbor",
+            "warm"
+          ],
+          [
+            "line art: 0 1 2 3 4 5 6 7 8 9",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Europe was still using Roman numerals. Try multiplying MCMXCIV by XLVII.",
+        "shots": [
+          [
+            "line art: MCMXCIV x XLVII",
+            "mono"
+          ],
+          [
+            "q: abacus beads",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Merchants loved the new system. Authorities didn't trust it. In 1299, Florence banned it in bank books, because a zero was too easy to turn into a six or a nine.",
+        "shots": [
+          [
+            "q: Florence old city || alt: old Italian city old city",
+            "orange"
+          ],
+          [
+            "line art: 0 changed into 6 and 9",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "The numbers on your screen right now came to Europe in a book better known for rabbits.",
+        "shots": [
+          [
+            "q: digital numbers on screen",
+            "cool"
+          ],
+          [
+            "q: rabbit silhouette field",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Liber Abaci 1202, rabbit problem (KNOWN). Earlier Indian work (Pingala, Virahanka, Hemachandra) (KNOWN). Leonardo learned numerals at Bugia (Bejaia), father a customs official (KNOWN). Florence Arte del Cambio 1299 statute against Arabic numerals in account books (KNOWN; forgery rationale commonly given, DEBATED detail).",
+    "ig_caption": "Florence literally banned the number zero in 1299 because people kept forging it. and we only got it because of a rabbit math book",
+    "tt_caption": "how Fibonacci brought our numbers to Europe #fibonacci #math"
+  },
+  {
+    "id": "P09-03",
+    "pillar": "Numbers, numerology & sacred geometry",
+    "sub": "History of numbers",
+    "style": "S9",
+    "status": "DEBATED",
+    "hook": "The 2,000-year journey|of *zero*",
+    "lines": [
+      {
+        "say": "Zero is the hardest number humans ever invented. It took about two thousand years. Here's the journey.",
+        "shots": [
+          [
+            "line art: 0 drawing itself",
+            "mono"
+          ],
+          [
+            "q: empty bowl top-down",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Babylon, around 300 BC: scribes start using two slanted wedges to mark an empty place in a number. A placeholder, not yet a number.",
+        "shots": [
+          [
+            "line art: cuneiform placeholder wedges",
+            "mono"
+          ],
+          [
+            "q: clay tablet macro",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Central America: the Maya develop their own zero, drawn as a shell, for their calendars. Completely independent.",
+        "shots": [
+          [
+            "archive: Maya shell zero glyph (public domain)",
+            "orange"
+          ],
+          [
+            "q: Maya pyramid Tikal || alt: Maya pyramid jungle pyramid",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "India, 628 AD: the astronomer Brahmagupta writes rules for zero as a number. Something plus zero stays the same. Something times zero is zero.",
+        "shots": [
+          [
+            "q: Indian temple astronomy observatory Jantar Mantar || alt: Indian temple astronomy observatory historic stone observatory",
+            "orange"
+          ],
+          [
+            "line art: a + 0 = a, a × 0 = 0",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "He even tried dividing by zero, and got it wrong. Mathematicians are still careful with that one.",
+        "shots": [
+          [
+            "line art: a ÷ 0 = ?",
+            "red"
+          ],
+          [
+            "q: chalkboard eraser",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "In 876, a temple wall in Gwalior, India, carries a zero that looks like ours: a small circle.",
+        "shots": [
+          [
+            "archive: Gwalior zero inscription (verify licence)",
+            "mono"
+          ],
+          [
+            "q: carved temple wall India",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "From India to Baghdad, then to Europe in 1202. Nothing turned out to be one of humanity's greatest discoveries.",
+        "shots": [
+          [
+            "line art: map route India -> Baghdad -> Pisa",
+            "mono"
+          ],
+          [
+            "q: binary code zeros and ones",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Babylonian placeholder c. 300 BC (KNOWN). Maya zero, independent (KNOWN; earliest dating DEBATED). Brahmagupta, Brahmasphutasiddhanta 628 AD, zero rules incl. flawed 0/0 = 0 (KNOWN). Gwalior Chaturbhuj temple inscription 876 AD (KNOWN). Bakhshali manuscript radiocarbon (contested) omitted. Fibonacci 1202 (KNOWN).",
+    "ig_caption": "it took humans about 2000 years to fully figure out how to write nothing",
+    "tt_caption": "the history of zero in under a minute #math #history"
+  },
+  {
+    "id": "P09-04",
+    "pillar": "Numbers, numerology & sacred geometry",
+    "sub": "Gematria",
+    "style": "S2",
+    "status": "DEBATED",
+    "hook": "The oldest copy says|it's not *666*",
+    "lines": [
+      {
+        "say": "Revelation, chapter thirteen. Let the one who has understanding calculate the number of the beast. It is six hundred and sixty-six.",
+        "shots": [
+          [
+            "archive: Revelation beast woodcut, Durer (public domain)",
+            "mono"
+          ],
+          [
+            "line art: 666 in Greek numerals χξϛ",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "In ancient Greek and Hebrew, letters doubled as numbers. So any name adds up to a number. This is called gematria.",
+        "shots": [
+          [
+            "line art: letters with number values",
+            "mono"
+          ],
+          [
+            "q: Hebrew letters carved",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Many scholars think the riddle points to the emperor Nero. Write Nero Caesar in Hebrew letters, add them up: six hundred and sixty-six.",
+        "shots": [
+          [
+            "archive: Nero bust (public domain photo)",
+            "mono"
+          ],
+          [
+            "line art: נרון קסר letters summing to 666",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "Now this. One of the oldest surviving fragments of Revelation, a papyrus from third-century Egypt, gives the number as six hundred and sixteen.",
+        "shots": [
+          [
+            "line art: redraw of papyrus fragment with 616 (licence of original unclear)",
+            "warm"
+          ],
+          [
+            "q: papyrus fragment macro",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "And here's the twist. Spell Nero the Latin way, without the final N, and the Hebrew letters add up to six hundred and sixteen.",
+        "shots": [
+          [
+            "line art: final letter removed, 666 -> 616",
+            "red"
+          ],
+          [
+            "q: Roman coin Nero",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "An early Christian writer named Irenaeus knew about the 616 version around 180 AD, and rejected it.",
+        "shots": [
+          [
+            "archive: Irenaeus icon (public domain)",
+            "mono"
+          ],
+          [
+            "q: ancient manuscript library",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Two numbers, two spellings, one emperor. That's a strong hint about who the riddle meant.",
+        "shots": [
+          [
+            "line art: 666 and 616 both pointing to Nero",
+            "mono"
+          ],
+          [
+            "q: Rome burning painting (public domain)",
+            "red"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Rev 13:18 (KNOWN). Gematria/isopsephy (KNOWN). Neron Qesar = 666 in Hebrew; Nero Qesar = 616 (KNOWN). P115 (P.Oxy. 4499), c. 225-275 AD, reads 616 (KNOWN; 'around the year 300' is approximate, say 'third century' if preferred). Irenaeus, Against Heresies 5.30 (KNOWN). Nero identification (DEBATED but majority view). P115 image licence unclear: redraw.",
+    "ig_caption": "the oldest copy we have says 616, not 666. and that ALSO points to Nero. this blew my mind",
+    "tt_caption": "666 vs 616, the number of the beast and Nero #revelation #666"
+  },
+  {
+    "id": "P09-05",
+    "pillar": "Numbers, numerology & sacred geometry",
+    "sub": "Numerology",
+    "style": "S8",
+    "status": "KNOWN",
+    "hook": "Your life path number|is *100 years* old",
+    "lines": [
+      {
+        "say": "Life path numbers. Add up your birth date until you get a single digit, and it tells you who you are. It's called Pythagorean numerology.",
+        "shots": [
+          [
+            "line art: birth date digits adding to one number",
+            "mono"
+          ],
+          [
+            "q: calendar date circled",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Pythagoras did believe numbers were the key to reality. His followers called one the source, saw ten as sacred, and linked numbers to music.",
+        "shots": [
+          [
+            "archive: Pythagoras bust (public domain photo)",
+            "warm"
+          ],
+          [
+            "line art: tetractys triangle of 10 dots",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "But there's no ancient source with a life path number, a birth date calculation, or a personality chart.",
+        "shots": [
+          [
+            "q: ancient Greek text fragments",
+            "mono"
+          ],
+          [
+            "line art: 'not in ancient sources' stamp",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "The modern system mostly traces back to an American woman named L. Dow Balliett, who published books on number vibrations in the early 1900s.",
+        "shots": [
+          [
+            "q: early 1900s book covers",
+            "warm"
+          ],
+          [
+            "q: Atlantic City old postcard || alt: seaside old postcard",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Later writers expanded it in the twentieth century. The Pythagorean label was attached to give it ancient prestige.",
+        "shots": [
+          [
+            "q: typewriter 1930s",
+            "mono"
+          ],
+          [
+            "q: old library shelf",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "So if your life path is seven, that's fine. Just know Pythagoras never calculated it. A writer in New Jersey did, around a hundred years ago.",
+        "shots": [
+          [
+            "line art: number 7 glowing",
+            "magenta"
+          ],
+          [
+            "q: New Jersey shore boardwalk",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Pythagorean number philosophy, tetractys (KNOWN). No ancient life-path system (KNOWN). L. Dow Balliett, 'The Philosophy of Numbers' (1908) and related books from c. 1903, Atlantic City NJ (KNOWN). Later: Juno Jordan and others (KNOWN).",
+    "ig_caption": "I'm a 7 apparently. also apparently Pythagoras never heard of life path numbers. the real origin is way more random",
+    "tt_caption": "where numerology life path numbers actually come from #numerology #lifepathnumber"
+  },
+  {
+    "id": "P09-06",
+    "pillar": "Numbers, numerology & sacred geometry",
+    "sub": "Sacred geometry",
+    "style": "S2",
+    "status": "DEBATED",
+    "hook": "The Flower of Life|in an *Egyptian temple*",
+    "lines": [
+      {
+        "say": "This pattern is called the Flower of Life. Overlapping circles, all the same size. You've seen it on posters, tattoos, yoga mats.",
+        "shots": [
+          [
+            "line art: Flower of Life drawing itself",
+            "magenta"
+          ],
+          [
+            "q: sacred geometry pattern gold",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Its most famous example is drawn on a granite pillar at Abydos in Egypt, in the Osireion, next to the temple of Seti the First.",
+        "shots": [
+          [
+            "archive: Abydos Osireion Flower of Life (Wikimedia CC, credit on image)",
+            "warm"
+          ],
+          [
+            "q: Osireion granite pillars water || alt: ancient flooded temple granite pillars water",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "People often say it's thousands of years old and holds ancient Egyptian secret knowledge.",
+        "shots": [
+          [
+            "q: hieroglyphs carved wall",
+            "warm"
+          ],
+          [
+            "line art: '3,000+ years old?'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Look closer. It isn't carved. It's drawn in red ochre, on the surface. Egyptian sacred designs were usually carved and painted as part of the building.",
+        "shots": [
+          [
+            "archive: Abydos flower close-up (Wikimedia CC)",
+            "red"
+          ],
+          [
+            "q: Egyptian carved relief close-up",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Researchers who've studied it think it was added much later, possibly over a thousand years after the building was made, by visitors during Greek or Roman times, alongside other graffiti on the site.",
+        "shots": [
+          [
+            "line art: timeline construction vs drawing",
+            "mono"
+          ],
+          [
+            "q: ancient graffiti on stone",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "The Flower of Life became a modern spiritual symbol in the 1990s, through New Age books.",
+        "shots": [
+          [
+            "q: 1990s book pages",
+            "warm"
+          ],
+          [
+            "q: flower of life pendant",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Still a beautiful pattern. Just younger, and less Egyptian, than its reputation.",
+        "shots": [
+          [
+            "line art: Flower of Life complete",
+            "magenta"
+          ],
+          [
+            "q: Abydos temple sunset || alt: Egyptian temple sunset",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Osireion at Abydos, Seti I era (c. 1290 BC) (KNOWN). Flower of Life drawn in red ochre, not carved (KNOWN). Date of drawing: later, possibly Ptolemaic/Roman or later (DEBATED; no secure date). Popularized by Drunvalo Melchizedek in 1990s (KNOWN). Use Wikimedia photo with CC credit on image.",
+    "ig_caption": "always heard the abydos flower of life was ancient egyptian. it's drawn in red ochre on top, probably centuries later",
+    "tt_caption": "the Flower of Life at Abydos, how old is it really? #sacredgeometry #flowersoflife"
+  },
+  {
+    "id": "P09-07",
+    "pillar": "Numbers, numerology & sacred geometry",
+    "sub": "Geometry of the cosmos",
+    "style": "S10",
+    "status": "KNOWN",
+    "hook": "The beautiful *wrong* idea|that took us to Mars",
+    "lines": [
+      {
+        "say": "In 1595, a young math teacher named Johannes Kepler was drawing on a chalkboard and had what he thought was God's blueprint for the solar system.",
+        "shots": [
+          [
+            "archive: Kepler portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: chalk on blackboard drawing",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "There are five perfect solids in geometry. Cube, tetrahedron, octahedron, and two more. And back then, there were six known planets.",
+        "shots": [
+          [
+            "line art: five Platonic solids rotating",
+            "magenta"
+          ],
+          [
+            "q: night sky planets",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Kepler nested the solids inside each other, with a sphere between each. Six spheres. Six planet orbits. Perfect.",
+        "shots": [
+          [
+            "archive: Kepler Mysterium Cosmographicum nested solids (public domain)",
+            "warm"
+          ],
+          [
+            "line art: nested solids animation",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "It was wrong. The fit wasn't exact, and there are more planets.",
+        "shots": [
+          [
+            "line art: 'wrong' stamp over model",
+            "red"
+          ],
+          [
+            "q: Uranus Neptune (NASA) || alt: outer planets (NASA)",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "But he wanted to prove it so badly that he went to work for the astronomer with the best data in the world, Tycho Brahe.",
+        "shots": [
+          [
+            "archive: Tycho Brahe portrait (public domain)",
+            "mono"
+          ],
+          [
+            "archive: Tycho's observatory engraving (public domain)",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Using Tycho's measurements, Kepler found that planets move in ellipses, not circles, and worked out the laws they follow.",
+        "shots": [
+          [
+            "line art: elliptical orbit drawing",
+            "mono"
+          ],
+          [
+            "q: planet orbit animation",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Those laws are still used to plan spacecraft orbits today. A sacred geometry dream, proven wrong, led to real physics.",
+        "shots": [
+          [
+            "archive: Mars rover or Mars orbit illustration (NASA)",
+            "orange"
+          ],
+          [
+            "q: rocket launch (NASA)",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Kepler's insight July 1595 in Graz; Mysterium Cosmographicum 1596 (KNOWN). Five Platonic solids, six known planets (KNOWN). Joined Tycho 1600 (KNOWN). Laws 1609 (Astronomia Nova) and 1619 (Harmonices Mundi) (KNOWN). Kepler's laws used in orbital mechanics (KNOWN).",
+    "ig_caption": "Kepler was wrong about God's geometry and that's exactly what led him to the laws we use to fly to Mars",
+    "tt_caption": "Kepler's Platonic solids and how a wrong idea led to real science #kepler #sacredgeometry"
+  },
+  {
+    "id": "P09-08",
+    "pillar": "Numbers, numerology & sacred geometry",
+    "sub": "Math in nature",
+    "style": "S3",
+    "status": "DEBATED",
+    "hook": "3 living things|that *do math*",
+    "lines": [
+      {
+        "say": "Three living things that use math they've never learned.",
+        "shots": [
+          [
+            "q: nature macro montage leaf",
+            "warm"
+          ],
+          [
+            "line art: numbers 1 2 3",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "One. Bees. A honeycomb uses hexagons. In 1999, mathematician Thomas Hales proved hexagons are the best way to divide a surface into equal cells using the least wall. Least wax, most honey.",
+        "shots": [
+          [
+            "q: honeycomb bees macro",
+            "orange"
+          ],
+          [
+            "line art: hexagon grid vs squares, perimeter compared",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Two. Cicadas. Some North American cicadas live underground for exactly thirteen or seventeen years, then emerge by the billions. Both prime numbers.",
+        "shots": [
+          [
+            "q: cicada emerging shell",
+            "warm"
+          ],
+          [
+            "line art: 13 and 17 highlighted as primes",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "One popular theory: a prime-numbered cycle rarely lines up with predators' shorter cycles. It's still debated.",
+        "shots": [
+          [
+            "line art: cycles 13 vs 2, 3, 4 rarely aligning",
+            "mono"
+          ],
+          [
+            "q: bird eating insect",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Three. Nautilus? No, that one's a myth. Its spiral isn't the golden ratio. The real champion is the sunflower, packing seeds at the golden angle.",
+        "shots": [
+          [
+            "q: nautilus shell",
+            "teal"
+          ],
+          [
+            "line art: 'not golden' stamp",
+            "red"
+          ],
+          [
+            "q: sunflower macro spirals",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "No brains needed. Just millions of years of whatever works best.",
+        "shots": [
+          [
+            "q: bee on flower slow motion",
+            "warm"
+          ],
+          [
+            "q: forest light rays",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Honeycomb conjecture proved by Thomas Hales 1999 (KNOWN). Magicicada 13/17-year cycles (KNOWN); prime-predator hypothesis (DEBATED). Nautilus ratio ~1.33 per quarter turn, not phi (KNOWN, measured). Sunflower golden angle (KNOWN).",
+    "ig_caption": "cicadas that only come out on prime-number years is one of the strangest things in nature",
+    "tt_caption": "bees, cicadas and sunflowers doing math #nature #math"
+  },
+  {
+    "id": "P09-09",
+    "pillar": "Numbers, numerology & sacred geometry",
+    "sub": "Sacred numbers",
+    "style": "S6",
+    "status": "SPECULATION",
+    "hook": "Why *108* is sacred|might be in the sky",
+    "lines": [
+      {
+        "say": "In Hinduism and Buddhism, one hundred and eight is sacred. Prayer beads have a hundred and eight beads. Mantras are repeated a hundred and eight times.",
+        "shots": [
+          [
+            "q: mala prayer beads",
+            "orange"
+          ],
+          [
+            "q: temple bells India",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Nobody knows exactly why. But look at this.",
+        "shots": [
+          [
+            "q: night sky moon",
+            "cool"
+          ],
+          [
+            "line art: 108 glowing",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "The distance from Earth to the Sun is about a hundred and eight times the Sun's width.",
+        "shots": [
+          [
+            "line art: sun widths lined up to Earth, 108",
+            "mono"
+          ],
+          [
+            "q: sun close-up (NASA)",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "And the distance to the Moon is about a hundred and ten times the Moon's width. Close to the same.",
+        "shots": [
+          [
+            "line art: moon widths lined up, ~110",
+            "mono"
+          ],
+          [
+            "q: full moon rising",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "That's not magic. It's why the Sun and Moon look the same size in the sky, about half a degree wide. Anyone who measures that angle carefully gets a number around a hundred and eight.",
+        "shots": [
+          [
+            "line art: half-degree angle from eye",
+            "mono"
+          ],
+          [
+            "q: total solar eclipse corona",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Ancient Indian astronomers were very good at measuring angles.",
+        "shots": [
+          [
+            "q: Jantar Mantar observatory Jaipur || alt: historic stone observatory Indian",
+            "orange"
+          ],
+          [
+            "q: sundial shadow",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "So what if the sacred number started as something people saw every day, written in the size of the sky? We can't prove it. But it fits.",
+        "shots": [
+          [
+            "q: sunrise over temple",
+            "warm"
+          ],
+          [
+            "q: moon over water",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "108 beads on malas, 108 repetitions (KNOWN). Earth-Sun distance / Sun diameter = 149.6M/1.39M = 107.5 (KNOWN). Earth-Moon / Moon diameter = 384,400/3,474 = 110.6 (KNOWN). Both ~0.53 deg (KNOWN); 1/tan(0.53 deg) ~ 108. Origin of 108's sacredness via astronomy: SPECULATION (one of several proposed origins).",
+    "ig_caption": "the sun is ~108 of its own widths away from us. so is the moon, roughly. might be why 108 is sacred. might not. still cool",
+    "tt_caption": "why 108 is a sacred number, an astronomy theory #108 #spirituality"
+  },
+  {
+    "id": "P09-10",
+    "pillar": "Numbers, numerology & sacred geometry",
+    "sub": "Pythagoreans",
+    "style": "S6",
+    "status": "DEBATED",
+    "hook": "The number that|*broke a religion*",
+    "lines": [
+      {
+        "say": "Imagine a brotherhood whose whole faith is this: everything in the universe can be described with whole numbers and their ratios.",
+        "shots": [
+          [
+            "archive: Pythagoreans at sunrise painting, Bronnikov (public domain)",
+            "warm"
+          ],
+          [
+            "line art: ratios 1:2 3:2 4:3",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Music works that way. Halve a string and you get an octave. It feels like proof that the cosmos is built from clean numbers.",
+        "shots": [
+          [
+            "q: lyre string plucked",
+            "warm"
+          ],
+          [
+            "line art: string halved octave",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "That was the Pythagoreans. Then one of them looked at a simple square.",
+        "shots": [
+          [
+            "line art: square with diagonal",
+            "mono"
+          ],
+          [
+            "q: marble floor tiles",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "The diagonal of a square with sides of one is the square root of two. And it can't be written as any ratio of whole numbers. Ever. Its decimals never end and never repeat.",
+        "shots": [
+          [
+            "line art: √2 = 1.41421356... endless",
+            "red"
+          ],
+          [
+            "q: endless corridor",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Legend says the man who revealed this, Hippasus, drowned at sea, as punishment from the gods or from his own brothers.",
+        "shots": [
+          [
+            "q: stormy sea waves dark",
+            "cool"
+          ],
+          [
+            "q: shipwreck at night painting (public domain)",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "That story comes from writers centuries later, and may be invented. But the crisis was real. Greek math had to rebuild itself around geometry.",
+        "shots": [
+          [
+            "line art: 'legend' stamp",
+            "mono"
+          ],
+          [
+            "archive: Euclid manuscript page (public domain)",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "A belief system cracked open by the diagonal of a square.",
+        "shots": [
+          [
+            "line art: square diagonal glowing",
+            "magenta"
+          ],
+          [
+            "q: Greek temple ruins sunset",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Pythagorean 'all is number' and musical ratios (KNOWN). Incommensurability of sqrt2 (KNOWN). Attribution to Hippasus and drowning legend from later sources (Iamblichus, Pappus) (DEBATED/legend). Shift of Greek math toward geometry (Eudoxus, Euclid) (KNOWN broad claim). Bronnikov painting 1869 PD.",
+    "ig_caption": "a guy might have been drowned for proving a number doesn't end. probably a legend. still the most metal math story ever",
+    "tt_caption": "Hippasus, the square root of 2 and the Pythagorean crisis #math #pythagoras"
+  }
+]

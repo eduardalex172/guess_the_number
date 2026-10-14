@@ -1,0 +1,114 @@
+{
+  "id": "P02-05",
+  "hook": "3 things people see|when their *heart stops*",
+  "speed": 1.05,
+  "musicVol": 0.3,
+  "outro": "*The Thread Beneath*",
+  "lines": [
+    {
+      "say": "In 2001, a Dutch cardiologist named Pim van Lommel published a study in The Lancet.",
+      "shots": [
+        [
+          "q: Netherlands hospital exterior",
+          "cool",
+          {}
+        ],
+        [
+          "q: medical journal pages",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "He followed three hundred and forty-four people who survived cardiac arrest. Sixty-two of them, about eighteen percent, reported a near-death experience.",
+      "shots": [
+        [
+          "line art: 344 dots, 62 highlighted",
+          "mono",
+          {}
+        ],
+        [
+          "q: heart rate monitor beeping",
+          "teal",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Certain features kept coming up. Here are three.",
+      "shots": [
+        [
+          "q: soft light through window dust",
+          "warm",
+          {}
+        ],
+        [
+          "line art: numbers 1 2 3",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "One. Overwhelming peace. Not fear. Many said it was the calmest they'd ever felt.",
+      "shots": [
+        [
+          "q: calm ocean horizon dawn",
+          "warm",
+          {}
+        ],
+        [
+          "q: still lake reflection",
+          "cool",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Two. Meeting people who had already died, often relatives.",
+      "shots": [
+        [
+          "archive: old family photographs faded (public domain)",
+          "orange",
+          {}
+        ],
+        [
+          "q: candle light warm dark",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Three. A life review. Their life replayed, sometimes through the eyes of the people they had affected.",
+      "shots": [
+        [
+          "q: film projector flicker",
+          "warm",
+          {}
+        ],
+        [
+          "q: old film strip frames",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Years later, those who'd had the experience had changed more: less fear of death, more empathy, than survivors who hadn't.",
+      "shots": [
+        [
+          "q: sunrise over hills time-lapse",
+          "orange",
+          {}
+        ],
+        [
+          "line art: two groups, 8 years later",
+          "mono",
+          {}
+        ]
+      ]
+    }
+  ]
+}

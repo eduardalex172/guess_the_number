@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "P05-01",
+    "pillar": "God, myths & sacred texts",
+    "sub": "First authors",
+    "style": "S5",
+    "status": "KNOWN",
+    "hook": "The first author in history|was a *woman*",
+    "lines": [
+      {
+        "say": "The first author in history whose name we know wasn't Homer. It was a woman named Enheduanna, about forty-three hundred years ago.",
+        "shots": [
+          [
+            "line art: Enheduanna disk redraw, slow push",
+            "warm"
+          ],
+          [
+            "q: Ur ziggurat sunrise || alt: Mesopotamian ziggurat sunrise",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "She was the daughter of Sargon of Akkad, the first emperor in history. He made her high priestess of the moon god at Ur.",
+        "shots": [
+          [
+            "archive: Sargon bronze head (public domain photo)",
+            "mono"
+          ],
+          [
+            "q: crescent moon over desert",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "She wrote hymns to the goddess Inanna, and she did something new. She signed them. She wrote in the first person.",
+        "shots": [
+          [
+            "q: cuneiform tablet close-up",
+            "warm"
+          ],
+          [
+            "line art: signature on tablet",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "In one poem, a rebel has thrown her out of the temple. She writes: he made me walk out. My honey-sweet mouth became foam.",
+        "shots": [
+          [
+            "q: abandoned temple doorway",
+            "teal"
+          ],
+          [
+            "line art: quote text fading in",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "She begs the goddess for help. In the end, she's restored.",
+        "shots": [
+          [
+            "q: sunlight through temple columns",
+            "warm"
+          ],
+          [
+            "q: Venus morning star",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Her hymns were copied by student scribes for centuries after she died.",
+        "shots": [
+          [
+            "q: clay tablets rows",
+            "orange"
+          ],
+          [
+            "q: reed stylus pressing clay",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "The first writer to say I in literature was a priestess complaining about being kicked out. Writers haven't changed much.",
+        "shots": [
+          [
+            "q: candle and old paper",
+            "orange"
+          ],
+          [
+            "q: night sky over Iraq",
+            "magenta"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Enheduanna, daughter of Sargon of Akkad, en-priestess of Nanna at Ur, c. 23rd c. BC (KNOWN). Hymns incl. Nin-me-sara to Inanna; first-person voice; expulsion by Lugal-Ane and restoration (KNOWN). Quote paraphrases ETCSL translation (KNOWN). Authorship attribution is DEBATED by some scholars. Disk at Penn Museum: check image licence, otherwise redraw. Different angle from TTB's Inanna reel.",
+    "ig_caption": "the first named author in history was a priestess, and one of her poems is basically her ranting about getting fired",
+    "tt_caption": "Enheduanna, the world's first known author #history #mesopotamia"
+  },
+  {
+    "id": "P05-02",
+    "pillar": "God, myths & sacred texts",
+    "sub": "Lost texts found",
+    "style": "S7",
+    "status": "KNOWN",
+    "hook": "A shepherd threw a stone|and found the *oldest Bible*",
+    "lines": [
+      {
+        "say": "Winter, 1946 to 47. Near the Dead Sea, a young Bedouin shepherd is looking for a lost goat.",
+        "shots": [
+          [
+            "q: Dead Sea cliffs desert || alt: desert salt lake cliffs desert",
+            "warm"
+          ],
+          [
+            "q: goats on rocky hills",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "He throws a stone into a cave in the cliffs, and hears something break. Pottery.",
+        "shots": [
+          [
+            "q: cave opening in cliff Qumran || alt: cave opening in cliff desert cliff",
+            "mono"
+          ],
+          [
+            "q: clay jar shards",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Inside are tall clay jars. Inside the jars, rolled leather scrolls.",
+        "shots": [
+          [
+            "q: ancient clay jars cave",
+            "orange"
+          ],
+          [
+            "q: rolled scroll macro",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Over the next decade, eleven caves give up around nine hundred manuscripts. We call them the Dead Sea Scrolls.",
+        "shots": [
+          [
+            "line art: map of 11 caves",
+            "mono"
+          ],
+          [
+            "q: Qumran ruins aerial || alt: desert cliff ruins aerial",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "One of them is a complete copy of the book of Isaiah, written over two thousand years ago.",
+        "shots": [
+          [
+            "archive: Great Isaiah Scroll (public domain photo)",
+            "warm"
+          ],
+          [
+            "q: Hebrew script on parchment",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Before that, the oldest full Hebrew copy we had was from around the year 1000. This one was about a thousand years older.",
+        "shots": [
+          [
+            "line art: timeline 1000 years gap",
+            "mono"
+          ],
+          [
+            "q: medieval Hebrew codex",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "And when scholars compared them, the text was remarkably close. A thousand years of copying by hand, with mostly small differences.",
+        "shots": [
+          [
+            "line art: two texts side by side, small differences highlighted",
+            "mono"
+          ],
+          [
+            "q: scribe quill ink",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Discovery 1946-47, Muhammed edh-Dhib (KNOWN). 11 caves, ~900 manuscripts (KNOWN). Great Isaiah Scroll 1QIsa-a, c. 125 BC (KNOWN). Previous oldest full Hebrew Bible MSS c. 10th-11th c. (Aleppo/Leningrad codices) (KNOWN). Close agreement with Masoretic text, variants mostly minor (KNOWN; extent of variants DEBATED among scholars).",
+    "ig_caption": "a kid looking for a goat threw a rock into a cave and found manuscripts a thousand years older than anything we had",
+    "tt_caption": "how the Dead Sea Scrolls were found #deadseascrolls #bible"
+  },
+  {
+    "id": "P05-03",
+    "pillar": "God, myths & sacred texts",
+    "sub": "Lost texts found",
+    "style": "S1",
+    "status": "KNOWN",
+    "hook": "The lost gospels|his mother *burned*",
+    "lines": [
+      {
+        "say": "December 1945, Upper Egypt. A farmer named Muhammad Ali al-Samman is digging for soft soil to use as fertilizer near the town of Nag Hammadi.",
+        "shots": [
+          [
+            "q: Upper Egypt cliffs Nile fields || alt: desert river valley cliffs Nile fields",
+            "warm"
+          ],
+          [
+            "q: digging soil desert",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "He hits a sealed jar. He hesitates. It might hold a jinn. Or gold.",
+        "shots": [
+          [
+            "q: sealed clay jar in sand",
+            "orange"
+          ],
+          [
+            "q: dust swirling sunlight",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "He smashes it. Inside: thirteen books bound in leather, written in Coptic.",
+        "shots": [
+          [
+            "archive: Nag Hammadi codex leather binding (public domain photo)",
+            "warm"
+          ],
+          [
+            "q: old leather book macro",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "By his own account, his mother used some of the loose pages to light the oven.",
+        "shots": [
+          [
+            "q: clay oven fire",
+            "red"
+          ],
+          [
+            "q: paper pages burning edge",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "What survived turned out to be early Christian texts that had been lost for over fifteen hundred years. Among them, the Gospel of Thomas.",
+        "shots": [
+          [
+            "q: Coptic manuscript page",
+            "warm"
+          ],
+          [
+            "line art: 'Gospel of Thomas' title",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "It has no birth, no crucifixion, no resurrection. Just a hundred and fourteen sayings attributed to Jesus.",
+        "shots": [
+          [
+            "line art: list of numbered sayings",
+            "mono"
+          ],
+          [
+            "q: lamp light on manuscript",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "One of them: split a piece of wood, and I am there. Lift up the stone, and you will find me there.",
+        "shots": [
+          [
+            "q: split wood grain macro",
+            "warm"
+          ],
+          [
+            "q: stone turned over in desert",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Discovery Dec 1945, Muhammad Ali al-Samman, digging for sabakh (KNOWN, his account via James Robinson). Fear of jinn, 13 codices, Coptic (KNOWN). Mother burned pages (KNOWN as his account). Gospel of Thomas, 114 sayings, saying 77 (KNOWN). Thomas date (1st-2nd c.) DEBATED.",
+    "ig_caption": "some of the lost gospels literally ended up as kindling. 'lift up the stone and you will find me there' lives in my head now",
+    "tt_caption": "the Nag Hammadi library and the Gospel of Thomas #gospelofthomas #lostgospels"
+  },
+  {
+    "id": "P05-04",
+    "pillar": "God, myths & sacred texts",
+    "sub": "Religious connections",
+    "style": "S10",
+    "status": "DEBATED",
+    "hook": "The religion behind|*heaven, hell* and the devil",
+    "lines": [
+      {
+        "say": "Heaven and hell. A final judgment. A savior at the end of time. The dead rising. Where did these ideas come from?",
+        "shots": [
+          [
+            "archive: Last Judgment painting (public domain)",
+            "warm"
+          ],
+          [
+            "q: dramatic sky clouds light",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Many scholars point to Persia, and a prophet called Zarathustra, or Zoroaster. His dates are uncertain, somewhere between three and a half and two and a half thousand years ago.",
+        "shots": [
+          [
+            "q: Persian mountains Iran",
+            "warm"
+          ],
+          [
+            "archive: Persepolis relief (public domain photo)",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "He taught one supreme good god, Ahura Mazda, at war with a destructive spirit. Every person chooses a side.",
+        "shots": [
+          [
+            "q: fire temple flame",
+            "orange"
+          ],
+          [
+            "line art: light vs dark split",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "After death, souls cross a bridge. For the good it's wide. For the wicked it narrows to a blade.",
+        "shots": [
+          [
+            "q: narrow bridge over abyss fog",
+            "cool"
+          ],
+          [
+            "line art: bridge narrowing",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "At the end of time, a savior comes, the dead are raised, and evil is destroyed.",
+        "shots": [
+          [
+            "q: sunrise over mountains",
+            "warm"
+          ],
+          [
+            "q: light rays from clouds",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "In 539 BC, the Persian king Cyrus freed the Jews from Babylon. Some of these ideas show up much more clearly in Jewish texts after that contact.",
+        "shots": [
+          [
+            "archive: Cyrus Cylinder replica (public domain photo, non-BM)",
+            "mono"
+          ],
+          [
+            "q: Babylon gate ruins || alt: ancient Mesopotamian gate ruins",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Borrowed, or developed in parallel? Scholars still argue. But the thread runs through Persia.",
+        "shots": [
+          [
+            "line art: thread connecting Persia -> Judea -> Rome",
+            "mono"
+          ],
+          [
+            "q: fire flame dark close-up",
+            "red"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Zoroastrian concepts: Ahura Mazda vs Angra Mainyu, Chinvat bridge, Saoshyant, resurrection, final judgment (KNOWN). Zoroaster's dates (DEBATED, c. 1500-500 BC). Cyrus 539 BC (KNOWN). Influence on Second Temple Judaism (DEBATED). Use non-BM Cyrus Cylinder images only.",
+    "ig_caption": "a lot of what we think of as 'heaven and hell' might trace back to one Persian prophet. the bridge that narrows to a blade is wild",
+    "tt_caption": "how Zoroastrianism may have shaped heaven and hell #zoroastrianism #religion"
+  },
+  {
+    "id": "P05-05",
+    "pillar": "God, myths & sacred texts",
+    "sub": "Ancient monotheism",
+    "style": "S1",
+    "status": "KNOWN",
+    "hook": "The pharaoh history|tried to *erase*",
+    "lines": [
+      {
+        "say": "Around 1350 BC, a pharaoh did something no pharaoh had done. He tried to replace Egypt's gods with one.",
+        "shots": [
+          [
+            "archive: Akhenaten statue (public domain photo)",
+            "mono"
+          ],
+          [
+            "q: Karnak temple columns || alt: Egyptian temple columns",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "His name was Amenhotep the Fourth. He renamed himself Akhenaten, devoted to the Aten, the disc of the sun.",
+        "shots": [
+          [
+            "archive: Amarna relief sun disc rays (public domain photo)",
+            "orange"
+          ],
+          [
+            "q: sun disc rising desert",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "He built a new capital in the desert, Amarna, and shut down the old temples. Even the art changed: stretched faces, and sun rays ending in little hands.",
+        "shots": [
+          [
+            "q: Amarna archaeological site || alt: desert archaeological site",
+            "warm"
+          ],
+          [
+            "line art: sun rays ending in hands",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "His hymn to the sun reads strikingly like Psalm 104 in the Bible. Whether one influenced the other is still debated.",
+        "shots": [
+          [
+            "line art: two texts side by side",
+            "mono"
+          ],
+          [
+            "q: papyrus text close-up",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "When he died, the old priests returned. His son, a boy king we know as Tutankhamun, brought back the old gods.",
+        "shots": [
+          [
+            "q: Tutankhamun mask replica || alt: gold Egyptian mask replica",
+            "orange"
+          ],
+          [
+            "q: temple doorway light",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Akhenaten's statues were smashed, his city abandoned, his name cut from the lists of kings.",
+        "shots": [
+          [
+            "q: broken statue fragments",
+            "mono"
+          ],
+          [
+            "q: chisel marks on stone",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "They almost succeeded. He was rediscovered only in the 1800s, from the ruins of the city he built.",
+        "shots": [
+          [
+            "q: desert ruins wind sand",
+            "warm"
+          ],
+          [
+            "q: archaeologist brush on relief",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Akhenaten reign c. 1353-1336 BC (KNOWN). Aten worship, Amarna, temple closures, Amarna art (KNOWN). Great Hymn to the Aten vs Psalm 104 similarity (KNOWN; influence DEBATED). Tutankhamun likely his son (DEBATED, DNA suggests so). Damnatio memoriae, omitted from king lists, 'the enemy/that criminal of Akhetaten' (KNOWN). Rediscovered 19th c. (KNOWN).",
+    "ig_caption": "first one-god experiment in history maybe, and Egypt spent the next decades trying to delete him",
+    "tt_caption": "Akhenaten, the pharaoh who invented one god #ancientegypt #akhenaten"
+  },
+  {
+    "id": "P05-06",
+    "pillar": "God, myths & sacred texts",
+    "sub": "Words & origins",
+    "style": "S10",
+    "status": "KNOWN",
+    "hook": "Lucifer is|a *planet*",
+    "lines": [
+      {
+        "say": "Before dawn, low in the east, there's sometimes a bright light. Brighter than any star. It's Venus, the morning star.",
+        "shots": [
+          [
+            "q: Venus morning star before dawn",
+            "cool"
+          ],
+          [
+            "q: pre-dawn horizon time-lapse",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "In Latin, the morning star was called Lucifer. Light-bringer.",
+        "shots": [
+          [
+            "line art: LUX + FERRE = LUCIFER",
+            "mono"
+          ],
+          [
+            "q: light flare in darkness",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "In the book of Isaiah, the prophet mocks a fallen king of Babylon: how you have fallen from heaven, shining one, son of the dawn.",
+        "shots": [
+          [
+            "q: Babylon ruins dawn || alt: ancient Mesopotamian ruins dawn",
+            "orange"
+          ],
+          [
+            "q: falling star streak",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "In Hebrew it says Helel ben Shachar. When Jerome translated the Bible into Latin around the year 400, he wrote: Lucifer.",
+        "shots": [
+          [
+            "q: Hebrew manuscript text",
+            "warm"
+          ],
+          [
+            "archive: Saint Jerome painting (public domain)",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Over time, Christian writers read that verse as the fall of Satan from heaven. And the planet's name became the devil's.",
+        "shots": [
+          [
+            "archive: Dore fall of Lucifer engraving (public domain)",
+            "mono"
+          ],
+          [
+            "line art: Venus -> Lucifer -> Satan",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The twist: the same Latin Bible also uses lucifer for the morning star rising in your heart, about Christ.",
+        "shots": [
+          [
+            "q: sunrise light heart of clouds",
+            "warm"
+          ],
+          [
+            "q: Venus close to crescent moon",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "So tomorrow before sunrise, look east. That bright point you see once had the devil's name.",
+        "shots": [
+          [
+            "q: eastern horizon dawn silhouette hills",
+            "orange"
+          ],
+          [
+            "q: Venus bright point zoom",
+            "teal"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Lucifer = Latin morning star (Venus) (KNOWN). Isaiah 14:12, Helel ben Shachar, taunt against king of Babylon (KNOWN). Vulgate rendering 'lucifer' (KNOWN). Later identification with Satan (Origen, Tertullian and others) (KNOWN). 2 Peter 1:19 Vulgate 'lucifer oriatur in cordibus vestris' (KNOWN). Venus visibility as morning star varies by period: TTB should post when Venus is a morning star or adjust last line.",
+    "ig_caption": "the devil's name started as the name of a planet. you can literally go outside before sunrise and see it",
+    "tt_caption": "Lucifer originally meant the planet Venus #lucifer #venus"
+  },
+  {
+    "id": "P05-07",
+    "pillar": "God, myths & sacred texts",
+    "sub": "Scientists and God",
+    "style": "S4",
+    "status": "KNOWN",
+    "hook": "Did Einstein|believe in *God*?",
+    "lines": [
+      {
+        "say": "Both atheists and believers love to quote Einstein. So what did he actually say about God?",
+        "shots": [
+          [
+            "archive: Einstein portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: chalkboard equations",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Famous line, from 1926: God does not play dice. But that was about quantum physics, not religion.",
+        "shots": [
+          [
+            "q: dice rolling slow motion",
+            "warm"
+          ],
+          [
+            "line art: quantum probability cloud",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "In 1929 a rabbi asked him by telegram if he believed in God. He answered: I believe in Spinoza's God, who reveals himself in the harmony of what exists, not in a God who concerns himself with the fates of human beings.",
+        "shots": [
+          [
+            "q: vintage telegram paper",
+            "warm"
+          ],
+          [
+            "archive: Spinoza portrait (public domain)",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "In 1954 he called the word God an expression of human weakness. That letter later sold for nearly three million dollars.",
+        "shots": [
+          [
+            "q: handwritten letter close-up",
+            "orange"
+          ],
+          [
+            "q: auction hammer",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "But he also refused to be called an atheist. He said he felt awe at the structure of the universe, and called that feeling religious.",
+        "shots": [
+          [
+            "q: galaxy spiral deep space",
+            "magenta"
+          ],
+          [
+            "q: starry night time-lapse",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "So: no personal God who answers prayers. But not no God at all. Something closer to the order of nature itself.",
+        "shots": [
+          [
+            "line art: two crossed-out options, middle highlighted",
+            "mono"
+          ],
+          [
+            "q: snowflake macro symmetry",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Letter to Max Born, 4 Dec 1926 (KNOWN, 'He does not throw dice'). Telegram reply to Rabbi Herbert Goldstein, April 1929 (KNOWN quote). Gutkind letter 1954, sold at Christie's Dec 2018 for ~$2.9M (KNOWN). Rejected 'atheist' label in several statements (KNOWN). Cosmic religious feeling (1930 essay) (KNOWN).",
+    "ig_caption": "neither side gets to fully claim Einstein. 'Spinoza's God' is the closest honest answer",
+    "tt_caption": "what Einstein actually believed about God #einstein #god"
+  },
+  {
+    "id": "P05-08",
+    "pillar": "God, myths & sacred texts",
+    "sub": "Viral religion myths",
+    "style": "S4",
+    "status": "DEBATED",
+    "hook": "Was Jesus copied|from *Mithras*?",
+    "lines": [
+      {
+        "say": "You've probably seen the meme. Mithras was born of a virgin on December 25th, had twelve disciples, died and rose again. Long before Jesus.",
+        "shots": [
+          [
+            "line art: meme-style text list, crossed out one by one later",
+            "mono"
+          ],
+          [
+            "archive: Mithras tauroctony relief (public domain photo)",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Mithras was real. A Roman cult god, worshipped in underground temples from about the first century AD.",
+        "shots": [
+          [
+            "q: Roman mithraeum underground temple",
+            "orange"
+          ],
+          [
+            "q: dark stone vault candle",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "But here's what the evidence says. Mithras wasn't born of a virgin. Roman art shows him bursting out of a rock, fully grown.",
+        "shots": [
+          [
+            "archive: Mithras rock birth relief (public domain photo)",
+            "mono"
+          ],
+          [
+            "q: cracked rock light",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "No ancient source gives him twelve disciples. And no source says he died and rose again.",
+        "shots": [
+          [
+            "line art: three claims, each stamped NO SOURCE",
+            "red"
+          ],
+          [
+            "q: ancient inscriptions wall",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "December 25th is more complicated. Rome celebrated the Unconquered Sun on that date, and Mithras was sometimes linked with the sun.",
+        "shots": [
+          [
+            "q: winter solstice sunrise",
+            "orange"
+          ],
+          [
+            "line art: calendar 25 December",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Why Christians picked December 25th is genuinely debated. Some historians say to replace the sun festival. Others say it came from calculations about the date of Jesus' conception.",
+        "shots": [
+          [
+            "q: candlelit church nativity",
+            "warm"
+          ],
+          [
+            "line art: two arrows, two theories",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "So: an interesting mystery cult. But most of the meme isn't in any ancient source.",
+        "shots": [
+          [
+            "q: mithraeum ruins Ostia || alt: mithraeum ruins Roman",
+            "warm"
+          ],
+          [
+            "q: torchlight on stone",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Roman Mithraism 1st-4th c. AD (KNOWN). Rock birth (petra genetrix) (KNOWN). No ancient evidence for virgin birth, 12 disciples, death/resurrection (KNOWN; claims trace to modern authors). Sol Invictus festival 25 Dec, Mithras-Sol association (KNOWN). Origin of Christmas date: history-of-religions vs calculation hypothesis (DEBATED).",
+    "ig_caption": "I fell for this meme in high school. went back and checked. most of it isn't in any ancient text",
+    "tt_caption": "Mithras vs Jesus, what the evidence actually says #mithras #christmas"
+  },
+  {
+    "id": "P05-09",
+    "pillar": "God, myths & sacred texts",
+    "sub": "Words & origins",
+    "style": "S3",
+    "status": "KNOWN",
+    "hook": "3 holy words with|*surprising* origins",
+    "lines": [
+      {
+        "say": "Three religious words that started out meaning something completely ordinary.",
+        "shots": [
+          [
+            "q: old dictionary pages flipping",
+            "warm"
+          ],
+          [
+            "line art: numbers 1 2 3",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "One. Bible. From the Greek for books, which came from the word for papyrus. And papyrus got its name from Byblos, a port in Lebanon where Greeks bought it.",
+        "shots": [
+          [
+            "q: Byblos Lebanon harbor ancient || alt: Mediterranean ancient harbor ancient",
+            "warm"
+          ],
+          [
+            "q: papyrus plant reeds",
+            "orange"
+          ],
+          [
+            "line art: Byblos -> biblia -> Bible",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Two. Satan. In Hebrew, ha-satan means the adversary, or the accuser. In the book of Job, he's not a ruler of hell. He's more like a prosecutor in God's court.",
+        "shots": [
+          [
+            "q: courtroom old wooden empty",
+            "mono"
+          ],
+          [
+            "archive: Blake Job illustration (public domain)",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Three. Paradise. From an old Persian word for a walled garden, pairidaeza.",
+        "shots": [
+          [
+            "q: Persian garden fountain Iran",
+            "teal"
+          ],
+          [
+            "line art: walled garden plan",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Greek writers used it for the parks of Persian kings. Then Greek translators of the Bible used it for the Garden of Eden.",
+        "shots": [
+          [
+            "q: royal garden cypress trees",
+            "warm"
+          ],
+          [
+            "archive: Garden of Eden painting (public domain)",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Books, an accuser, a garden. The holiest words were once just everyday ones.",
+        "shots": [
+          [
+            "q: book on garden bench",
+            "warm"
+          ],
+          [
+            "q: garden path light",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Bible < Greek biblia < byblos (papyrus) < Byblos/Gebal (KNOWN etymology). Satan < Hebrew ha-satan 'the adversary/accuser', Job 1-2 heavenly court (KNOWN). Paradise < Old Iranian pairi-daeza via Greek paradeisos (Xenophon), Septuagint for Eden (KNOWN).",
+    "ig_caption": "paradise literally meant a garden with a wall around it. honestly makes sense",
+    "tt_caption": "the surprising origins of Bible, Satan and paradise #etymology #religion"
+  },
+  {
+    "id": "P05-10",
+    "pillar": "God, myths & sacred texts",
+    "sub": "History of religion",
+    "style": "S9",
+    "status": "DEBATED",
+    "hook": "Every major religion|fits in the last *17 minutes*",
+    "lines": [
+      {
+        "say": "Imagine all of human history, three hundred thousand years, squeezed into one day.",
+        "shots": [
+          [
+            "line art: 24-hour clock",
+            "mono"
+          ],
+          [
+            "q: sunrise to sunset time-lapse",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Our species appears at midnight. For most of the day, we leave almost no trace of what we believed.",
+        "shots": [
+          [
+            "q: cave darkness entrance",
+            "mono"
+          ],
+          [
+            "q: campfire night",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Around four in the afternoon, roughly a hundred thousand years ago, some of the earliest known graves with objects placed beside the dead. Maybe the first hint of an afterlife.",
+        "shots": [
+          [
+            "line art: clock at 16:00",
+            "mono"
+          ],
+          [
+            "q: archaeology burial excavation",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "At about five past eleven at night, Göbekli Tepe, the first known temple.",
+        "shots": [
+          [
+            "line art: clock at 23:05",
+            "mono"
+          ],
+          [
+            "q: Gobekli Tepe pillar || alt: ancient megalithic stone ruins pillar",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Then everything we call religion today arrives in the last seventeen minutes. The Vedas. Zoroaster. The Hebrew Bible. Buddha. Jesus. Muhammad. Guru Nanak in the last two and a half.",
+        "shots": [
+          [
+            "line art: clock 23:43 -> 23:58 with names appearing",
+            "mono"
+          ],
+          [
+            "q: temples churches mosques montage",
+            "orange"
+          ],
+          [
+            "q: candles many flames",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Which means people were burying their dead with care for tens of thousands of years before any of the religions we know had a name.",
+        "shots": [
+          [
+            "q: stone circle at dusk",
+            "magenta"
+          ],
+          [
+            "q: starry sky over desert",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "The questions are much older than the answers.",
+        "shots": [
+          [
+            "q: night sky Milky Way",
+            "cool"
+          ],
+          [
+            "line art: clock hand reaching midnight",
+            "mono"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Scale: 300,000 years = 24 h (Homo sapiens, Jebel Irhoud, KNOWN). Earliest burials with grave goods ~100,000-120,000 years (Qafzeh/Skhul; interpretation DEBATED) -> ~16:00. Gobekli Tepe 11,500 yrs -> 23:05. Vedas ~1500 BC (date DEBATED) -> 23:43 = last ~17 min. Guru Nanak c. 1500 AD -> last ~2.5 min. Computed in tools, see commit.",
+    "ig_caption": "if all of human history was one day, every religion you can name shows up in the last 17 minutes. we were burying our dead with flowers long before that",
+    "tt_caption": "human history as one day, and when religion appears #history #religion"
+  }
+]

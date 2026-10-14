@@ -1,0 +1,114 @@
+{
+  "id": "P02-09",
+  "hook": "What if *this* is|the dream?",
+  "speed": 1.05,
+  "musicVol": 0.3,
+  "outro": "*The Thread Beneath*",
+  "lines": [
+    {
+      "say": "About twenty-three hundred years ago, the Chinese philosopher Zhuangzi wrote down a dream.",
+      "shots": [
+        [
+          "archive: Chinese ink painting scholar asleep (Met open access)",
+          "warm",
+          {}
+        ],
+        [
+          "q: misty Chinese mountains",
+          "cool",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "He dreamed he was a butterfly. Fluttering around, happy, with no idea he was Zhuangzi.",
+      "shots": [
+        [
+          "q: butterfly flying slow motion",
+          "orange",
+          {}
+        ],
+        [
+          "archive: butterfly ink painting (Met)",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Then he woke up. And there he was, solidly himself again.",
+      "shots": [
+        [
+          "q: morning light through paper window",
+          "warm",
+          {}
+        ],
+        [
+          "q: dew on leaf macro",
+          "cool",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "But he couldn't settle one question. Was he Zhuangzi, who had dreamed of being a butterfly? Or a butterfly, now dreaming of being Zhuangzi?",
+      "shots": [
+        [
+          "line art: butterfly mirrored into scholar outline",
+          "mono",
+          {}
+        ],
+        [
+          "q: reflection in still water",
+          "teal",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "He left it unanswered. He called it the transformation of things.",
+      "shots": [
+        [
+          "q: chrysalis butterfly emerging",
+          "orange",
+          {}
+        ],
+        [
+          "line art: circle arrows transformation",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Now apply that to death. Every morning, a whole dream world vanishes the second you wake.",
+      "shots": [
+        [
+          "q: stars dissolving time-lapse",
+          "magenta",
+          {}
+        ],
+        [
+          "q: sunrise through window",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "What if dying works the same way, and this life is what you wake up from? No one can prove it. No one can rule it out.",
+      "shots": [
+        [
+          "q: butterfly flying into light",
+          "orange",
+          {}
+        ],
+        [
+          "q: clouds parting light",
+          "warm",
+          {}
+        ]
+      ]
+    }
+  ]
+}

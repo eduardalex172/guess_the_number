@@ -1,0 +1,1076 @@
+[
+  {
+    "id": "P02-01",
+    "pillar": "Afterlife & near-death experiences",
+    "sub": "Clinical NDE cases",
+    "style": "S7",
+    "status": "DEBATED",
+    "hook": "Her brain was *drained*|and she still saw this",
+    "lines": [
+      {
+        "say": "Phoenix, 1991. Pam Reynolds has an aneurysm deep in her brain, too risky to operate on normally.",
+        "shots": [
+          [
+            "q: Phoenix Arizona night aerial || alt: desert city night aerial",
+            "cool"
+          ],
+          [
+            "q: hospital corridor empty night",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "So the surgeons do something extreme. They cool her body to about sixty degrees Fahrenheit, stop her heart, and drain the blood from her head.",
+        "shots": [
+          [
+            "q: operating room lights overhead empty",
+            "cool"
+          ],
+          [
+            "line art: thermometer dropping to 60F",
+            "mono"
+          ],
+          [
+            "q: heart monitor flatline",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "Her eyes are taped shut. Earplugs play loud clicks to monitor her brainstem.",
+        "shots": [
+          [
+            "line art: head outline, earplugs, click waves",
+            "mono"
+          ],
+          [
+            "q: audio click waveform",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Afterwards, she says she watched from above the surgeon's shoulder. She described the bone saw as looking like an electric toothbrush. It did. And she heard someone say her arteries were too small.",
+        "shots": [
+          [
+            "q: operating table top-down view empty",
+            "cool"
+          ],
+          [
+            "q: vintage surgical saw tool",
+            "orange"
+          ],
+          [
+            "line art: speech bubble 'arteries too small'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "So is this proof? Here's the catch.",
+        "shots": [
+          [
+            "line art: question mark",
+            "mono"
+          ],
+          [
+            "q: dark corridor light at end",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "The saw and that conversation came early, before her heart was stopped, while she was anesthetized but her brain still had blood.",
+        "shots": [
+          [
+            "line art: timeline, marker before 'standstill'",
+            "mono"
+          ],
+          [
+            "q: IV drip close-up",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Skeptics say she was briefly aware under anesthesia. Supporters say nobody could hear a room through those clicking earplugs. Both sides still cite her case.",
+        "shots": [
+          [
+            "line art: scale tipping left and right",
+            "mono"
+          ],
+          [
+            "q: brain scan colorful",
+            "magenta"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Barrow Neurological Institute, Spetzler, 1991 (KNOWN). ~60 F hypothermic arrest (KNOWN). Saw and 'arteries too small' (KNOWN, Sabom 1998). Timing and anesthesia-awareness critique (Woerlee, Augustine) (DEBATED). Ties to NDE ep. Thu 29 Oct.",
+    "ig_caption": "this is the NDE case everyone argues about. I tried to give both sides fairly, honestly can't decide",
+    "tt_caption": "Pam Reynolds near death experience, the case skeptics and believers both use #neardeathexperience #nde"
+  },
+  {
+    "id": "P02-02",
+    "pillar": "Afterlife & near-death experiences",
+    "sub": "Clinical NDE studies",
+    "style": "S4",
+    "status": "KNOWN",
+    "hook": "Scientists hid images|for the *dying* to find",
+    "lines": [
+      {
+        "say": "If people really float above their bodies when the heart stops, you could test it. So researchers did.",
+        "shots": [
+          [
+            "q: hospital ceiling view looking down",
+            "cool"
+          ],
+          [
+            "q: light fixture ceiling hospital",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "The AWARE studies, led by Sam Parnia, hid pictures in hospital rooms, visible only from near the ceiling.",
+        "shots": [
+          [
+            "line art: shelf near ceiling, hidden symbol",
+            "mono"
+          ],
+          [
+            "q: hospital room empty bed",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "The 2023 version went further. During resuscitation, a tablet above the patient flashed images, and headphones played the names of three fruits.",
+        "shots": [
+          [
+            "q: tablet screen glow dark room",
+            "teal"
+          ],
+          [
+            "q: headphones on table",
+            "mono"
+          ],
+          [
+            "q: banana pear apple on black",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Twenty-five hospitals. Five hundred and sixty-seven cardiac arrests. Only fifty-three survived.",
+        "shots": [
+          [
+            "line art: counter 567 -> 53",
+            "mono"
+          ],
+          [
+            "q: ambulance lights night",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "Some survivors did describe vivid, lucid experiences.",
+        "shots": [
+          [
+            "q: bright light through clouds",
+            "warm"
+          ],
+          [
+            "q: light rays forest",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "The result: nobody identified the hidden image. One person correctly named the three fruits.",
+        "shots": [
+          [
+            "line art: image icon X, fruit icon check",
+            "mono"
+          ],
+          [
+            "q: three fruits lit dramatically",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "And brain recordings showed near-normal activity coming back up to an hour into CPR. Not proof of a soul. But not a dark, empty brain either.",
+        "shots": [
+          [
+            "q: EEG lines on monitor",
+            "teal"
+          ],
+          [
+            "q: CPR mannequin training",
+            "cool"
+          ],
+          [
+            "q: neurons glowing abstract",
+            "magenta"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "AWARE II, Parnia et al., Resuscitation 2023 (KNOWN): 25 hospitals, 567 arrests, 53 survivors; no visual stimulus identified; one identified the auditory one; EEG near-normal up to 35-60 min into CPR. AWARE 2014 ceiling shelves (KNOWN). Ties to NDE ep.",
+    "ig_caption": "the most direct test of 'floating above your body' anyone has done. results are... not what either side wanted",
+    "tt_caption": "AWARE study results on near death experiences explained #nde #afterlife"
+  },
+  {
+    "id": "P02-03",
+    "pillar": "Afterlife & near-death experiences",
+    "sub": "Ancient texts on death",
+    "style": "S5",
+    "status": "KNOWN",
+    "hook": "What Egyptians had to say|to *get into* the afterlife",
+    "lines": [
+      {
+        "say": "Ancient Egyptians believed that after death you faced a trial. And you had to give a speech.",
+        "shots": [
+          [
+            "archive: Book of the Dead weighing scene (Met Museum open access)",
+            "warm"
+          ],
+          [
+            "q: Egyptian tomb corridor torchlight",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Your heart was set on a scale against a single feather, the feather of Ma'at: truth and order.",
+        "shots": [
+          [
+            "line art: balance scale heart vs feather",
+            "mono"
+          ],
+          [
+            "q: white feather floating black background",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Before the weighing, you recited what scholars call the negative confession. Lines like:",
+        "shots": [
+          [
+            "q: hieroglyphs carved wall close-up",
+            "warm"
+          ],
+          [
+            "archive: papyrus columns detail (Met)",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "I have not stolen. I have not killed. I have not made anyone weep. I have not caused anyone to go hungry.",
+        "shots": [
+          [
+            "line art: lines of confession appearing",
+            "mono"
+          ],
+          [
+            "q: bread loaf rustic",
+            "warm"
+          ],
+          [
+            "q: water droplet tear macro",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "The god Thoth recorded the result. If your heart was heavier, a creature called Ammit, part crocodile, part lion, part hippo, ate it. And you were gone for good.",
+        "shots": [
+          [
+            "q: ibis bird silhouette",
+            "teal"
+          ],
+          [
+            "line art: Ammit outline",
+            "mono"
+          ],
+          [
+            "q: crocodile eye surface water",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "If it balanced, you walked into the Field of Reeds. Basically Egypt, but forever and better.",
+        "shots": [
+          [
+            "q: reeds field golden hour Nile",
+            "warm"
+          ],
+          [
+            "q: Nile sunset palms",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "The ticket into paradise was having been decent.",
+        "shots": [
+          [
+            "q: feather slow motion falling",
+            "cool"
+          ],
+          [
+            "archive: Egyptian scale vignette close-up (Met)",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Book of the Dead spell 125: weighing of the heart, Ma'at, Thoth, Ammit, Field of Reeds (KNOWN). Lines paraphrase Faulkner's translation (KNOWN). Use Met Open Access papyri, NOT BM's Ani/Hunefer. Different angle from the '5 afterlives' carousel: full confession + trial.",
+    "ig_caption": "'I have not made anyone weep' was literally part of the Egyptian afterlife exam. kind of beautiful",
+    "tt_caption": "the Egyptian weighing of the heart ceremony explained #ancientegypt #afterlife"
+  },
+  {
+    "id": "P02-04",
+    "pillar": "Afterlife & near-death experiences",
+    "sub": "The dying brain",
+    "style": "S8",
+    "status": "DEBATED",
+    "hook": "The dying brain|*lights up*",
+    "lines": [
+      {
+        "say": "What does a brain do while it's dying? For a long time, we assumed it simply goes quiet.",
+        "shots": [
+          [
+            "q: brain illustration fading dark",
+            "mono"
+          ],
+          [
+            "q: city lights turning off time-lapse",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "In 2023, a University of Michigan team studied recordings from four patients in comas, as their ventilators were removed.",
+        "shots": [
+          [
+            "q: ICU monitors dim",
+            "teal"
+          ],
+          [
+            "q: ventilator machine close-up",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "In two of them, something unexpected happened. As oxygen dropped, the brain produced a surge of gamma waves.",
+        "shots": [
+          [
+            "line art: EEG line spiking",
+            "mono"
+          ],
+          [
+            "q: lightning in dark clouds",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Gamma is the fast rhythm linked to focus, memory and conscious perception.",
+        "shots": [
+          [
+            "q: neurons firing animation",
+            "magenta"
+          ],
+          [
+            "line art: slow wave vs fast gamma",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The burst was strongest toward the back of the brain, an area tied to awareness and, in some studies, to out-of-body sensations.",
+        "shots": [
+          [
+            "line art: brain map hot zone highlighted",
+            "red"
+          ],
+          [
+            "q: MRI brain slices",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "The researchers think this could be the biology behind near-death experiences.",
+        "shots": [
+          [
+            "q: abstract tunnel of light",
+            "warm"
+          ],
+          [
+            "q: light at end of tunnel",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "But it was only two people, and we can't ask them what they felt. It's a clue, not an answer.",
+        "shots": [
+          [
+            "line art: 2 of 4 figures highlighted",
+            "mono"
+          ],
+          [
+            "q: empty hospital window light",
+            "teal"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Xu, Borjigin et al., PNAS 2023 (KNOWN): 4 comatose patients, 2 with gamma surge, temporo-parieto-occipital junction. NDE link is hypothesis (DEBATED). Ties to NDE ep.",
+    "ig_caption": "two dying brains showed a burst of the same waves we have when we're most aware. it's only two people. still can't stop thinking about it",
+    "tt_caption": "what happens in the brain when we die #neuroscience #neardeathexperience"
+  },
+  {
+    "id": "P02-05",
+    "pillar": "Afterlife & near-death experiences",
+    "sub": "Clinical NDE studies",
+    "style": "S3",
+    "status": "KNOWN",
+    "hook": "3 things people see|when their *heart stops*",
+    "lines": [
+      {
+        "say": "In 2001, a Dutch cardiologist named Pim van Lommel published a study in The Lancet.",
+        "shots": [
+          [
+            "q: Netherlands hospital exterior",
+            "cool"
+          ],
+          [
+            "q: medical journal pages",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "He followed three hundred and forty-four people who survived cardiac arrest. Sixty-two of them, about eighteen percent, reported a near-death experience.",
+        "shots": [
+          [
+            "line art: 344 dots, 62 highlighted",
+            "mono"
+          ],
+          [
+            "q: heart rate monitor beeping",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Certain features kept coming up. Here are three.",
+        "shots": [
+          [
+            "q: soft light through window dust",
+            "warm"
+          ],
+          [
+            "line art: numbers 1 2 3",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "One. Overwhelming peace. Not fear. Many said it was the calmest they'd ever felt.",
+        "shots": [
+          [
+            "q: calm ocean horizon dawn",
+            "warm"
+          ],
+          [
+            "q: still lake reflection",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Two. Meeting people who had already died, often relatives.",
+        "shots": [
+          [
+            "archive: old family photographs faded (public domain)",
+            "orange"
+          ],
+          [
+            "q: candle light warm dark",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Three. A life review. Their life replayed, sometimes through the eyes of the people they had affected.",
+        "shots": [
+          [
+            "q: film projector flicker",
+            "warm"
+          ],
+          [
+            "q: old film strip frames",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Years later, those who'd had the experience had changed more: less fear of death, more empathy, than survivors who hadn't.",
+        "shots": [
+          [
+            "q: sunrise over hills time-lapse",
+            "orange"
+          ],
+          [
+            "line art: two groups, 8 years later",
+            "mono"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "van Lommel et al., Lancet 2001 (KNOWN): 344 patients, 62 (18%) NDE; peace, deceased relatives, life review; 2- and 8-year follow-up (KNOWN). Interpretation DEBATED. Ties to NDE ep.",
+    "ig_caption": "the life review part gets me every time. seeing your life through the eyes of people you affected",
+    "tt_caption": "what near death experiences have in common, from a Lancet study #nde #afterlife"
+  },
+  {
+    "id": "P02-06",
+    "pillar": "Afterlife & near-death experiences",
+    "sub": "Ancient texts on death",
+    "style": "S10",
+    "status": "KNOWN",
+    "hook": "The first near-death story|is *2,400 years old*",
+    "lines": [
+      {
+        "say": "At the end of Plato's Republic, written around 375 BC, there's a strange story.",
+        "shots": [
+          [
+            "archive: Plato bust (public domain photo)",
+            "warm"
+          ],
+          [
+            "q: Athens Acropolis dawn || alt: ancient Greek temple hill dawn",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "A soldier named Er is killed in battle. Ten days later his body is collected, and it hasn't decayed.",
+        "shots": [
+          [
+            "q: misty battlefield field morning",
+            "cool"
+          ],
+          [
+            "archive: ancient Greek hoplite vase painting (Met)",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "On the twelfth day, lying on his funeral pyre, he wakes up and tells everyone what he saw.",
+        "shots": [
+          [
+            "q: bonfire night embers",
+            "red"
+          ],
+          [
+            "q: sparks rising dark sky",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Souls being judged. Then souls choosing their next lives, as if from a table of options.",
+        "shots": [
+          [
+            "line art: tokens on table, souls choosing",
+            "mono"
+          ],
+          [
+            "q: dice and tokens antique",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Orpheus chooses to be a swan. Odysseus, tired of fame, looks for the quiet life of an ordinary man.",
+        "shots": [
+          [
+            "q: swan on dark lake",
+            "cool"
+          ],
+          [
+            "q: small stone house Greek island",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Then they drink from the River of Forgetfulness, and forget everything. Er isn't allowed to drink. That's why he remembers.",
+        "shots": [
+          [
+            "q: dark river flowing slow",
+            "teal"
+          ],
+          [
+            "q: hand-cupped water closeup ripple",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "A near-death experience and reincarnation, in one story, by one of the founders of Western philosophy.",
+        "shots": [
+          [
+            "line art: two threads joining",
+            "mono"
+          ],
+          [
+            "q: ancient scroll unrolling",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Myth of Er, Republic X (KNOWN): undecayed after 10 days, revives on the 12th on the pyre; Orpheus as swan; Odysseus chooses private life; River Ameles on the plain of Lethe (KNOWN). Republic c. 375 BC (approximate). Bridges NDE week to reincarnation week.",
+    "ig_caption": "Plato wrote an NDE + reincarnation story 2400 years ago and Odysseus just wants a quiet life. same honestly",
+    "tt_caption": "the Myth of Er, Plato's near death story #plato #reincarnation"
+  },
+  {
+    "id": "P02-07",
+    "pillar": "Afterlife & near-death experiences",
+    "sub": "NDEs across cultures",
+    "style": "S1",
+    "status": "DEBATED",
+    "hook": "In India, near-death stories|include a *clerical error*",
+    "lines": [
+      {
+        "say": "Near-death experiences in the West tend to sound alike. Tunnel, light, a loving presence.",
+        "shots": [
+          [
+            "q: tunnel light abstract",
+            "warm"
+          ],
+          [
+            "q: church window light rays",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "In the 1970s and 80s, researchers collected accounts in India. Many were completely different.",
+        "shots": [
+          [
+            "q: Varanasi ghats morning || alt: Indian river city ghats morning",
+            "orange"
+          ],
+          [
+            "q: India village road dusk",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "People described messengers who came to take them away, servants of Yama, the Hindu lord of death.",
+        "shots": [
+          [
+            "archive: Yama painting (public domain)",
+            "red"
+          ],
+          [
+            "q: smoke dark incense",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "They were brought before a figure keeping records, who checked a book and found a mistake. Wrong person. Same name, wrong village.",
+        "shots": [
+          [
+            "q: old ledger book pages",
+            "warm"
+          ],
+          [
+            "line art: name crossed out",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "And they were sent back.",
+        "shots": [
+          [
+            "q: door opening light",
+            "cool"
+          ],
+          [
+            "q: road leading back sunrise",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Some researchers say this shows NDEs are shaped by culture, built from what we already believe. Others say the core is the same, and only the interpretation changes.",
+        "shots": [
+          [
+            "line art: core circle with cultural rings",
+            "mono"
+          ],
+          [
+            "q: different temples montage",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Either way, death in one culture looks like a light. In another, like a paperwork mix-up.",
+        "shots": [
+          [
+            "q: stamp on paper closeup",
+            "orange"
+          ],
+          [
+            "q: candle in dark",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Osis & Haraldsson 'At the Hour of Death' (1977, deathbed observations in US and India) and Pasricha & Stevenson 1986 (Indian NDEs: Yamdoots, record-keeper, 'mistaken identity' sent back) (KNOWN as reported cases). Culture-shaping vs common-core interpretation (DEBATED).",
+    "ig_caption": "in some indian NDE accounts you get sent back because someone grabbed the wrong guy. same name, wrong village. I can't get over this",
+    "tt_caption": "near death experiences in India are completely different #nde #culture"
+  },
+  {
+    "id": "P02-08",
+    "pillar": "Afterlife & near-death experiences",
+    "sub": "The dying brain",
+    "style": "S1",
+    "status": "DEBATED",
+    "hook": "When people with dementia|suddenly *come back*",
+    "lines": [
+      {
+        "say": "There's something nurses and families describe that medicine still can't explain.",
+        "shots": [
+          [
+            "q: hospice room window soft light",
+            "warm"
+          ],
+          [
+            "q: empty chair beside bed",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "A person with severe dementia, who hasn't recognized anyone for months or years, suddenly becomes clear.",
+        "shots": [
+          [
+            "archive: old portrait photograph (public domain)",
+            "mono"
+          ],
+          [
+            "q: fog lifting over field time-lapse",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "They speak in full sentences. They remember names. They say goodbye.",
+        "shots": [
+          [
+            "q: old letters with handwriting",
+            "warm"
+          ],
+          [
+            "q: photo album pages turning",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Then, usually within hours or days, they die.",
+        "shots": [
+          [
+            "q: curtain moving breeze empty room",
+            "teal"
+          ],
+          [
+            "q: candle extinguished smoke",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Researchers call it terminal lucidity, or paradoxical lucidity. The term was coined in 2009.",
+        "shots": [
+          [
+            "line art: words 'terminal lucidity'",
+            "mono"
+          ],
+          [
+            "q: research papers desk lamp",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "It's puzzling because in advanced dementia the brain is badly damaged. So where do those memories come back from?",
+        "shots": [
+          [
+            "line art: brain with damaged areas",
+            "mono"
+          ],
+          [
+            "q: MRI scan comparison",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "In 2019 the US National Institute on Aging began funding research on it. So far: careful reports, and no explanation.",
+        "shots": [
+          [
+            "q: library archive shelves",
+            "warm"
+          ],
+          [
+            "line art: question mark fading",
+            "mono"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "'Terminal lucidity' coined by Nahm (with Greyson) 2009 (KNOWN). NIA-funded 'paradoxical lucidity' studies from 2019 (KNOWN). Mechanism unknown, frequency unknown: give no numbers (DEBATED).",
+    "ig_caption": "a nurse told me about this years ago and I thought it was just a sad story. turns out it's documented and nobody can explain it",
+    "tt_caption": "terminal lucidity: when dementia patients suddenly become clear before death #dementia #mystery"
+  },
+  {
+    "id": "P02-09",
+    "pillar": "Afterlife & near-death experiences",
+    "sub": "Philosophy of death",
+    "style": "S6",
+    "status": "SPECULATION",
+    "hook": "What if *this* is|the dream?",
+    "lines": [
+      {
+        "say": "About twenty-three hundred years ago, the Chinese philosopher Zhuangzi wrote down a dream.",
+        "shots": [
+          [
+            "archive: Chinese ink painting scholar asleep (Met open access)",
+            "warm"
+          ],
+          [
+            "q: misty Chinese mountains",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "He dreamed he was a butterfly. Fluttering around, happy, with no idea he was Zhuangzi.",
+        "shots": [
+          [
+            "q: butterfly flying slow motion",
+            "orange"
+          ],
+          [
+            "archive: butterfly ink painting (Met)",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Then he woke up. And there he was, solidly himself again.",
+        "shots": [
+          [
+            "q: morning light through paper window",
+            "warm"
+          ],
+          [
+            "q: dew on leaf macro",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "But he couldn't settle one question. Was he Zhuangzi, who had dreamed of being a butterfly? Or a butterfly, now dreaming of being Zhuangzi?",
+        "shots": [
+          [
+            "line art: butterfly mirrored into scholar outline",
+            "mono"
+          ],
+          [
+            "q: reflection in still water",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "He left it unanswered. He called it the transformation of things.",
+        "shots": [
+          [
+            "q: chrysalis butterfly emerging",
+            "orange"
+          ],
+          [
+            "line art: circle arrows transformation",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Now apply that to death. Every morning, a whole dream world vanishes the second you wake.",
+        "shots": [
+          [
+            "q: stars dissolving time-lapse",
+            "magenta"
+          ],
+          [
+            "q: sunrise through window",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "What if dying works the same way, and this life is what you wake up from? No one can prove it. No one can rule it out.",
+        "shots": [
+          [
+            "q: butterfly flying into light",
+            "orange"
+          ],
+          [
+            "q: clouds parting light",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Zhuangzi ch. 2, butterfly dream, wu hua 'transformation of things' (KNOWN). c. 4th c. BC (KNOWN). Death application is SPECULATION framed as thought experiment. Pilot-safe: public domain ink paintings + stock; optional AI version after 2 Nov (disclose).",
+    "ig_caption": "Zhuangzi asked this 2300 years ago and nobody has properly answered it since",
+    "tt_caption": "the butterfly dream, Zhuangzi's question about reality #philosophy #zhuangzi"
+  },
+  {
+    "id": "P02-10",
+    "pillar": "Afterlife & near-death experiences",
+    "sub": "The dying brain",
+    "style": "S9",
+    "status": "DEBATED",
+    "hook": "Your heart stops.|Here's the *next hour*",
+    "lines": [
+      {
+        "say": "Your heart stops. Here's what science says happens next.",
+        "shots": [
+          [
+            "q: ECG flatline monitor",
+            "red"
+          ],
+          [
+            "line art: clock at 0:00",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Ten to twenty seconds. Blood stops reaching the brain, you lose consciousness, and standard brain recordings go flat.",
+        "shots": [
+          [
+            "line art: timer 0:20, EEG flattening",
+            "mono"
+          ],
+          [
+            "q: lights dimming hallway",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "But flat on the surface doesn't mean nothing is happening. In some dying brains, short bursts of organized activity have been recorded.",
+        "shots": [
+          [
+            "line art: hidden spikes under flat line",
+            "mono"
+          ],
+          [
+            "q: embers glowing under ash",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Around four to six minutes without oxygen, brain cells start to suffer serious damage.",
+        "shots": [
+          [
+            "line art: timer 5:00, neurons dimming",
+            "mono"
+          ],
+          [
+            "q: neurons network dimming abstract",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Yet during CPR, a 2023 study found near-normal brain waves reappearing even up to an hour in.",
+        "shots": [
+          [
+            "q: CPR mannequin hands compressions",
+            "cool"
+          ],
+          [
+            "q: EEG waves monitor",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "And doctors have revived people after much longer, especially in freezing cold, where the brain needs less oxygen.",
+        "shots": [
+          [
+            "q: frozen lake ice cracks",
+            "cool"
+          ],
+          [
+            "q: snow storm night",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Death isn't a switch. It's a process. And where in that process a person stops being there, nobody can say yet.",
+        "shots": [
+          [
+            "q: candle flame going out slow motion",
+            "orange"
+          ],
+          [
+            "q: sunset fading to night time-lapse",
+            "magenta"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Unconsciousness ~10-20 s after circulatory arrest; EEG isoelectric ~10-40 s (KNOWN range). Damage from ~4-6 min at normal temperature (KNOWN approx). Gamma bursts in dying brains (DEBATED meaning). AWARE II EEG up to ~60 min CPR (KNOWN). Hypothermic survival cases (KNOWN). 'Death is a process' (Parnia) (KNOWN view).",
+    "ig_caption": "death isn't really a moment, it's more like a slope. the CPR part surprised me most",
+    "tt_caption": "what happens to the brain minute by minute after the heart stops #science #death"
+  }
+]

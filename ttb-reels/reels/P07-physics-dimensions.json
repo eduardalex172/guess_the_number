@@ -1,0 +1,1047 @@
+[
+  {
+    "id": "P07-01",
+    "pillar": "Other dimensions & the physics of reality",
+    "sub": "Quantum",
+    "style": "S8",
+    "status": "DEBATED",
+    "hook": "Does looking at reality|*change* it?",
+    "lines": [
+      {
+        "say": "Fire tiny particles, like electrons, one at a time at a wall with two narrow slits. Behind it, a screen records where each one lands.",
+        "shots": [
+          [
+            "line art: electron gun, two slits, screen",
+            "mono"
+          ],
+          [
+            "q: laser lab dark beam",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Each electron hits the screen as a single dot. But after thousands, the dots form stripes, an interference pattern. The kind waves make when they pass through both slits at once.",
+        "shots": [
+          [
+            "line art: dots accumulating into stripes",
+            "mono"
+          ],
+          [
+            "q: water ripples interfering two sources",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "In 1989, a team at Hitachi filmed exactly this, electron by electron.",
+        "shots": [
+          [
+            "line art: stripes building up time-lapse",
+            "mono"
+          ],
+          [
+            "q: electron microscope lab",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Now add a detector to see which slit each electron goes through. The stripes vanish. You get two plain bands, like particles.",
+        "shots": [
+          [
+            "line art: detector at slit, two bands",
+            "red"
+          ],
+          [
+            "q: sensor light blinking",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "This is where the internet says: consciousness changes reality. That's not what physicists mean by observing.",
+        "shots": [
+          [
+            "line art: eye icon crossed out",
+            "mono"
+          ],
+          [
+            "q: brain abstract light",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Observing means any interaction that records which path the particle took. A machine does it. No human needs to look.",
+        "shots": [
+          [
+            "line art: detector records path, no person",
+            "mono"
+          ],
+          [
+            "q: data recorder lights",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "What it really means for reality is still debated. But the experiment is real, and it's one of the strangest things we know.",
+        "shots": [
+          [
+            "line art: interference stripes glowing",
+            "magenta"
+          ],
+          [
+            "q: dark lab laser fade",
+            "teal"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Double-slit with single electrons, Tonomura et al., Hitachi 1989 (KNOWN). Which-path detection destroys interference (KNOWN). 'Observation' = measurement/decoherence, not consciousness (KNOWN mainstream; interpretations of QM DEBATED).",
+    "ig_caption": "the double slit is real and it's insane, but 'your mind changes reality' is not what it shows. took me years to get that",
+    "tt_caption": "the double slit experiment explained without the myths #quantumphysics #physics"
+  },
+  {
+    "id": "P07-02",
+    "pillar": "Other dimensions & the physics of reality",
+    "sub": "Higher dimensions",
+    "style": "S6",
+    "status": "SPECULATION",
+    "hook": "How you'd see a|*4th dimension*",
+    "lines": [
+      {
+        "say": "In 1884, a schoolteacher named Edwin Abbott published a novel about a world that's completely flat. It's called Flatland.",
+        "shots": [
+          [
+            "archive: Flatland 1884 title page (public domain)",
+            "mono"
+          ],
+          [
+            "line art: flat plane with shapes",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Its hero is a square. He can move forward, back, left and right. Up doesn't exist for him.",
+        "shots": [
+          [
+            "line art: square moving on plane",
+            "mono"
+          ],
+          [
+            "q: shadows on flat floor",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "One day a sphere passes through his world. What does the square see? A dot appears from nowhere, grows into a circle, shrinks, and vanishes.",
+        "shots": [
+          [
+            "line art: sphere passing through plane, circle growing / shrinking",
+            "orange"
+          ],
+          [
+            "q: ball descending into water surface",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "The sphere lifts him out, and he sees his whole world from above, even the insides of houses, and of people.",
+        "shots": [
+          [
+            "line art: plane seen from above, insides visible",
+            "mono"
+          ],
+          [
+            "q: architectural floor plan top-down",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Now apply that to us. If a four-dimensional being passed through our world, we'd see a 3D object appear from nowhere, change size and shape, and vanish.",
+        "shots": [
+          [
+            "line art: 3D blob appearing and changing",
+            "magenta"
+          ],
+          [
+            "q: tesseract rotating animation",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "It could see inside sealed rooms. Inside you. Without opening anything.",
+        "shots": [
+          [
+            "line art: closed box with contents visible",
+            "mono"
+          ],
+          [
+            "q: x-ray body scan",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "We have no evidence such beings exist. But mathematically, that's exactly what it would look like.",
+        "shots": [
+          [
+            "line art: 'speculation' stamp",
+            "red"
+          ],
+          [
+            "q: starfield with geometric overlay phi",
+            "magenta"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Edwin A. Abbott, 'Flatland: A Romance of Many Dimensions', 1884 (KNOWN). Sphere's cross-section analogy (KNOWN math). Existence of 4D beings is SPECULATION; the cross-section logic is standard geometry.",
+    "ig_caption": "this 1884 book about a square explains the 4th dimension better than anything I learned in school",
+    "tt_caption": "Flatland and what a 4th dimension would look like #4thdimension #physics"
+  },
+  {
+    "id": "P07-03",
+    "pillar": "Other dimensions & the physics of reality",
+    "sub": "Simulation",
+    "style": "S6",
+    "status": "SPECULATION",
+    "hook": "The argument that we're|in a *simulation*",
+    "lines": [
+      {
+        "say": "In 2003, an Oxford philosopher named Nick Bostrom published a short argument that still bothers people.",
+        "shots": [
+          [
+            "q: Oxford University spires || alt: old university spires",
+            "warm"
+          ],
+          [
+            "q: academic paper pages",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "He said: imagine a civilization that gets powerful enough to simulate whole worlds, with conscious minds inside.",
+        "shots": [
+          [
+            "q: server room lights",
+            "cool"
+          ],
+          [
+            "q: city simulation aerial abstract",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "If they do that even a little, simulated minds would vastly outnumber real ones.",
+        "shots": [
+          [
+            "line art: one real world, thousands of copies",
+            "mono"
+          ],
+          [
+            "q: mirrors infinite reflection",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "So one of three things must be true. One: almost every civilization dies before it gets that powerful.",
+        "shots": [
+          [
+            "line art: option 1",
+            "mono"
+          ],
+          [
+            "q: ruined city archive",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Two: the ones that make it aren't interested in running simulations of their past.",
+        "shots": [
+          [
+            "line art: option 2",
+            "mono"
+          ],
+          [
+            "q: switched off monitors",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Three: we are almost certainly living in one.",
+        "shots": [
+          [
+            "line art: option 3",
+            "red"
+          ],
+          [
+            "q: digital rain code abstract",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "He never said which one is true. But if you reject the third, you have to accept one of the first two. And neither is very comforting.",
+        "shots": [
+          [
+            "line art: three options, none chosen",
+            "mono"
+          ],
+          [
+            "q: night sky stars",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Bostrom, 'Are You Living in a Computer Simulation?', Philosophical Quarterly 2003 (KNOWN). Trilemma accurately stated (KNOWN). Bostrom doesn't claim we are in one (KNOWN). Conclusion is SPECULATION.",
+    "ig_caption": "it's not 'we're in a simulation'. it's 'pick one of these three'. and all three are uncomfortable",
+    "tt_caption": "Nick Bostrom's simulation argument explained #simulationtheory #philosophy"
+  },
+  {
+    "id": "P07-04",
+    "pillar": "Other dimensions & the physics of reality",
+    "sub": "Relativity",
+    "style": "S8",
+    "status": "KNOWN",
+    "hook": "Your phone uses|*time travel* math",
+    "lines": [
+      {
+        "say": "Every time your phone shows your location, it's correcting for Einstein's relativity. Here's how.",
+        "shots": [
+          [
+            "q: phone map GPS location dot",
+            "cool"
+          ],
+          [
+            "archive: Einstein portrait (public domain)",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "GPS satellites orbit about twenty thousand kilometers up, carrying very precise atomic clocks.",
+        "shots": [
+          [
+            "archive: GPS satellite illustration (public domain, US gov)",
+            "mono"
+          ],
+          [
+            "q: Earth orbit view",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Because they move fast, special relativity says their clocks run slow, by about seven millionths of a second a day.",
+        "shots": [
+          [
+            "line art: fast clock ticking slower",
+            "mono"
+          ],
+          [
+            "q: satellite moving across sky",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "But they're also farther from Earth's gravity, and general relativity says that makes clocks run faster, by about forty-five millionths a day.",
+        "shots": [
+          [
+            "line art: gravity well, clock higher ticks faster",
+            "mono"
+          ],
+          [
+            "q: Earth from orbit (NASA)",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Net result: they gain about thirty-eight microseconds every day.",
+        "shots": [
+          [
+            "line art: -7 + 45 = +38 µs",
+            "mono"
+          ],
+          [
+            "q: digital clock numbers",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Sounds tiny. But GPS works by timing signals at the speed of light. Left uncorrected, the error would grow by around ten kilometers a day.",
+        "shots": [
+          [
+            "line art: map location drifting away",
+            "red"
+          ],
+          [
+            "q: car navigation screen",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "So engineers tune the satellite clocks before launch. Time really does run differently up there, and your maps prove it every day.",
+        "shots": [
+          [
+            "q: rocket launch (NASA public domain)",
+            "orange"
+          ],
+          [
+            "q: phone map in hand at night",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "GPS altitude ~20,200 km (KNOWN). SR ~-7 us/day, GR ~+45 us/day, net ~+38 us/day (KNOWN). Uncorrected positional error ~10 km/day (KNOWN, commonly cited). Clock frequency offset set before launch (10.22999999543 MHz) (KNOWN).",
+    "ig_caption": "GPS literally wouldn't work without Einstein. satellites age faster than us, by 38 microseconds a day",
+    "tt_caption": "how GPS proves time dilation is real #relativity #physics"
+  },
+  {
+    "id": "P07-05",
+    "pillar": "Other dimensions & the physics of reality",
+    "sub": "Relativity",
+    "style": "S7",
+    "status": "KNOWN",
+    "hook": "They flew atomic clocks|*around the world*",
+    "lines": [
+      {
+        "say": "October 1971. Two scientists, Joseph Hafele and Richard Keating, buy plane tickets. Regular commercial flights. Around the world.",
+        "shots": [
+          [
+            "q: 1970s airport terminal archive",
+            "mono"
+          ],
+          [
+            "q: jet airliner taking off",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Their luggage: four atomic clocks, each one strapped into its own seat.",
+        "shots": [
+          [
+            "q: atomic clock lab equipment",
+            "teal"
+          ],
+          [
+            "line art: clock in airplane seat",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The question: does time pass differently if you move fast, or fly higher? Einstein said yes. Nobody had tested it with clocks on planes.",
+        "shots": [
+          [
+            "archive: Einstein portrait (public domain)",
+            "mono"
+          ],
+          [
+            "line art: clock on ground vs clock in air",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "They flew around the world eastward, then westward, and compared their clocks with the ones that stayed at the US Naval Observatory.",
+        "shots": [
+          [
+            "line art: globe with eastward and westward arrows",
+            "mono"
+          ],
+          [
+            "q: globe spinning",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Flying east, the clocks lost about sixty billionths of a second. Flying west, they gained about two hundred and seventy.",
+        "shots": [
+          [
+            "line art: -59 ns / +273 ns",
+            "red"
+          ],
+          [
+            "q: airplane window clouds",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Both results matched Einstein's predictions, within the experiment's margin of error.",
+        "shots": [
+          [
+            "line art: predicted vs measured bars match",
+            "mono"
+          ],
+          [
+            "q: Washington DC observatory || alt: capital observatory",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Time literally ran at different speeds for the clocks on board. Two physicists proved it in economy class.",
+        "shots": [
+          [
+            "q: airplane cabin seats",
+            "warm"
+          ],
+          [
+            "q: plane in sunset sky",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Hafele-Keating experiment, Oct 1971, four cesium clocks on commercial flights (KNOWN). East: -59 +/- 10 ns; West: +273 +/- 7 ns vs USNO (KNOWN). Agreement with predictions within error (KNOWN). Clocks occupied seats (KNOWN, bought seats as 'Mr. Clock').",
+    "ig_caption": "they bought plane seats for atomic clocks to test Einstein. and he was right",
+    "tt_caption": "the Hafele Keating experiment, time dilation on airplanes #physics #einstein"
+  },
+  {
+    "id": "P07-06",
+    "pillar": "Other dimensions & the physics of reality",
+    "sub": "Quantum",
+    "style": "S4",
+    "status": "KNOWN",
+    "hook": "Einstein called it|*spooky*. It's real.",
+    "lines": [
+      {
+        "say": "Quantum entanglement: two particles linked so that measuring one instantly tells you about the other, no matter how far apart they are.",
+        "shots": [
+          [
+            "line art: two particles linked by line",
+            "mono"
+          ],
+          [
+            "q: two lights far apart in dark",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Einstein hated it. He called it spooky action at a distance, and argued in 1935 that quantum theory must be missing something.",
+        "shots": [
+          [
+            "archive: Einstein portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: old physics paper typewritten",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "In 1964, John Bell found a way to test it. Then, starting in the 1970s, experiments by John Clauser, Alain Aspect and Anton Zeilinger did.",
+        "shots": [
+          [
+            "line art: Bell inequality symbol",
+            "mono"
+          ],
+          [
+            "q: optical table lasers lab",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Einstein lost. The correlations are real and stronger than any hidden local explanation allows. They won the Nobel Prize in 2022.",
+        "shots": [
+          [
+            "q: Nobel medal (public domain photo)",
+            "orange"
+          ],
+          [
+            "line art: results beyond limit line",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "Now the myth part. Entanglement does not let you send messages faster than light.",
+        "shots": [
+          [
+            "line art: message crossed out between particles",
+            "red"
+          ],
+          [
+            "q: phone no signal",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Each side alone just sees random results. You only see the link when you compare notes, and that comparison travels at normal speed.",
+        "shots": [
+          [
+            "line art: two lists compared later",
+            "mono"
+          ],
+          [
+            "q: coin flips slow motion",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "So the universe really is connected in ways Einstein found unbearable. It just won't let you cheat with it.",
+        "shots": [
+          [
+            "q: galaxy threads cosmic web",
+            "magenta"
+          ],
+          [
+            "line art: thread between two points glowing",
+            "mono"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "EPR 1935 (KNOWN). 'Spooky action at a distance', letter to Born 1947 (KNOWN). Bell 1964 (KNOWN). Clauser 1972, Aspect 1982, Zeilinger; Nobel 2022 (KNOWN). No-signaling theorem (KNOWN).",
+    "ig_caption": "the 'entanglement = instant communication' thing is everywhere and it's wrong. the real thing is weirder anyway",
+    "tt_caption": "quantum entanglement explained, and the big myth #quantum #einstein"
+  },
+  {
+    "id": "P07-07",
+    "pillar": "Other dimensions & the physics of reality",
+    "sub": "Nature of time",
+    "style": "S5",
+    "status": "KNOWN",
+    "hook": "What Einstein wrote|when his *friend died*",
+    "lines": [
+      {
+        "say": "Michele Besso was Einstein's closest friend. They met as students. Besso was the one person Einstein thanked in his 1905 paper on relativity.",
+        "shots": [
+          [
+            "archive: Michele Besso photo (public domain)",
+            "mono"
+          ],
+          [
+            "q: Zurich old town || alt: old European city old town",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "They argued about physics and life for fifty years.",
+        "shots": [
+          [
+            "q: old letters stack handwriting",
+            "warm"
+          ],
+          [
+            "q: Swiss lake dusk",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "In March 1955, Besso died. Einstein, seventy-six and ill himself, wrote to Besso's family.",
+        "shots": [
+          [
+            "q: fountain pen writing",
+            "warm"
+          ],
+          [
+            "q: Princeton winter trees || alt: old university winter trees",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Now he has departed from this strange world a little ahead of me. That means nothing.",
+        "shots": [
+          [
+            "line art: quote text appearing",
+            "mono"
+          ],
+          [
+            "q: empty chair by window",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "People like us, who believe in physics, know that the distinction between past, present and future is only a stubbornly persistent illusion.",
+        "shots": [
+          [
+            "line art: timeline with past / present / future fading",
+            "mono"
+          ],
+          [
+            "q: clock hands slow motion",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "In relativity, there's no single 'now' shared by the whole universe. Some physicists take that to mean all moments exist equally.",
+        "shots": [
+          [
+            "line art: block universe slices",
+            "magenta"
+          ],
+          [
+            "q: film strip frames all visible",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Einstein died about a month later. He had already told us how he thought about it.",
+        "shots": [
+          [
+            "archive: Einstein late portrait (public domain)",
+            "mono"
+          ],
+          [
+            "q: candle burning low",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Besso, acknowledged in 1905 SR paper (KNOWN). Besso died 15 March 1955; Einstein letter to the Besso family 21 March 1955 (KNOWN quote, standard translation). Einstein died 18 April 1955 (KNOWN). Relativity of simultaneity / block universe interpretation (KNOWN physics; metaphysical reading DEBATED).",
+    "ig_caption": "the most beautiful thing Einstein ever wrote was a condolence letter. 'that means nothing'",
+    "tt_caption": "Einstein's letter about time after his best friend died #einstein #time"
+  },
+  {
+    "id": "P07-08",
+    "pillar": "Other dimensions & the physics of reality",
+    "sub": "Parallel worlds",
+    "style": "S10",
+    "status": "SPECULATION",
+    "hook": "The physicist of parallel worlds|and the *rock star* son",
+    "lines": [
+      {
+        "say": "In 1957, a Princeton grad student named Hugh Everett proposed a wild solution to quantum physics.",
+        "shots": [
+          [
+            "q: Princeton University gothic campus || alt: old university gothic campus",
+            "warm"
+          ],
+          [
+            "q: 1950s typewriter thesis",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "In quantum theory, a particle can be in several possible states at once, until it's measured and seems to pick one. Everett said: what if it doesn't pick?",
+        "shots": [
+          [
+            "line art: particle in superposition splitting",
+            "mono"
+          ],
+          [
+            "q: crossroads in fog",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Every possible outcome happens. Reality branches, again and again, into separate worlds that can't see each other.",
+        "shots": [
+          [
+            "line art: tree branching infinitely",
+            "magenta"
+          ],
+          [
+            "q: river delta aerial branching",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Physicists mostly ignored it. Everett left academia, worked on defense computing, and died in 1982.",
+        "shots": [
+          [
+            "q: 1970s computer room archive",
+            "mono"
+          ],
+          [
+            "q: empty office desk",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Years later, the many-worlds idea became one of the most discussed interpretations of quantum physics, defended by some leading physicists today.",
+        "shots": [
+          [
+            "q: lecture hall chalkboard",
+            "cool"
+          ],
+          [
+            "line art: many worlds branches glowing",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "And his son became a musician: Mark Oliver Everett, frontman of the band Eels. He made a documentary trying to understand his father's physics.",
+        "shots": [
+          [
+            "q: concert stage lights empty",
+            "red"
+          ],
+          [
+            "q: guitar amp close-up",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "If his father was right, there's a branch where Hugh Everett got to see the idea take off.",
+        "shots": [
+          [
+            "line art: one branch highlighted",
+            "mono"
+          ],
+          [
+            "q: tree silhouette sunset",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Everett's relative-state formulation, 1957 (KNOWN). Initially neglected; worked at Pentagon WSEG / defense analysis (KNOWN). Died 1982 (KNOWN). Many-worlds now widely discussed (Deutsch, Carroll) (KNOWN). Son Mark Oliver Everett ('E') of Eels; BBC doc 'Parallel Worlds, Parallel Lives' 2007 (KNOWN). Many-worlds truth is SPECULATION/interpretation. Avoid other family details.",
+    "ig_caption": "the guy who came up with parallel universes was ignored his whole life, and his son is the singer of Eels. didn't know this until last night",
+    "tt_caption": "Hugh Everett, many worlds theory and his son from Eels #multiverse #quantum"
+  },
+  {
+    "id": "P07-09",
+    "pillar": "Other dimensions & the physics of reality",
+    "sub": "Extra dimensions",
+    "style": "S9",
+    "status": "SPECULATION",
+    "hook": "Zoom in until|*space breaks*",
+    "lines": [
+      {
+        "say": "Let's zoom in. You, about a meter and a half.",
+        "shots": [
+          [
+            "q: hand palm macro skin",
+            "warm"
+          ],
+          [
+            "line art: scale bar 1 m",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "A skin cell: a hundred thousand times smaller. Inside it, DNA. Then atoms, about a ten-billionth of a meter.",
+        "shots": [
+          [
+            "q: skin cells microscope",
+            "teal"
+          ],
+          [
+            "q: DNA helix animation",
+            "magenta"
+          ],
+          [
+            "line art: atom model",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The nucleus of an atom: a hundred thousand times smaller again. If the atom were a stadium, the nucleus would be a pea in the middle.",
+        "shots": [
+          [
+            "q: empty stadium aerial",
+            "cool"
+          ],
+          [
+            "line art: pea at center of stadium",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Keep going. Twenty more steps of ten. You reach the Planck length, about point zero zero zero... thirty-four zeros, and then a one six, of a meter.",
+        "shots": [
+          [
+            "line art: zeros counting across screen",
+            "mono"
+          ],
+          [
+            "q: abstract quantum foam",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "If an atom were blown up to the size of the observable universe, the Planck length would be roughly the height of a tree.",
+        "shots": [
+          [
+            "q: deep field galaxies (NASA)",
+            "cool"
+          ],
+          [
+            "q: lone tall tree",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Below this scale, our physics stops making sense. And in string theory, this is where extra dimensions could hide, curled up too small to ever notice.",
+        "shots": [
+          [
+            "line art: curled up dimension tubes",
+            "mono"
+          ],
+          [
+            "q: Calabi-Yau shape animation || alt: abstract folded geometry shape animation",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Unproven, maybe untestable. But there may be more directions in space than the three you can point to.",
+        "shots": [
+          [
+            "line art: 3 axes + faint extra axes",
+            "mono"
+          ],
+          [
+            "q: night sky Milky Way",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Scales: cell ~10-30 um, atom ~1e-10 m, nucleus ~1e-15 m (KNOWN). Planck length 1.616e-35 m (KNOWN). Atom-to-universe comparison: 8.8e26/1e-10 = 8.8e36 x 1.6e-35 = ~14 m (computed; 'height of a tree'). String theory requires 10/11 dimensions, compactified (KNOWN theory; physical reality SPECULATION). 'Twenty more steps of ten' from 1e-15 to ~1e-35 (KNOWN).",
+    "ig_caption": "if an atom were the size of the universe, the smallest possible length would be about as tall as a tree. my brain hurts",
+    "tt_caption": "zooming down to the Planck length and hidden dimensions #physics #stringtheory"
+  },
+  {
+    "id": "P07-10",
+    "pillar": "Other dimensions & the physics of reality",
+    "sub": "Nature of time",
+    "style": "S3",
+    "status": "KNOWN",
+    "hook": "3 proofs time isn't|*what you think*",
+    "lines": [
+      {
+        "say": "Three experiments that show time doesn't work the way it feels.",
+        "shots": [
+          [
+            "q: hourglass sand dark",
+            "warm"
+          ],
+          [
+            "line art: numbers 1 2 3",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "One. Your head is aging faster than your feet. Gravity slows time. In 2010, physicists at NIST raised one atomic clock about a foot higher than another, and measured it ticking faster.",
+        "shots": [
+          [
+            "line art: two clocks, one 33 cm higher",
+            "mono"
+          ],
+          [
+            "q: atomic clock lab NIST style || alt: atomic clock lab physics lab style",
+            "teal"
+          ],
+          [
+            "q: staircase steps",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Two. Speed slows time. Cosmic rays create particles called muons high in the atmosphere. They should decay long before reaching the ground.",
+        "shots": [
+          [
+            "q: cosmic rays atmosphere animation",
+            "magenta"
+          ],
+          [
+            "line art: muon decay timer running out",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "They reach it anyway, in huge numbers. Moving at nearly the speed of light, their clocks run slow.",
+        "shots": [
+          [
+            "line art: muon path to ground with slow clock",
+            "mono"
+          ],
+          [
+            "q: particle detector lab",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Three. There's no universal now. Two events that happen at the same time for one observer can happen at different times for another, moving differently.",
+        "shots": [
+          [
+            "line art: two observers, two flashes, different order",
+            "mono"
+          ],
+          [
+            "q: lightning bolts two places",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Not one of these is a theory waiting for proof. They are measured, again and again.",
+        "shots": [
+          [
+            "q: measurement instruments lab",
+            "teal"
+          ],
+          [
+            "q: clock gears macro",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Chou et al., Science 2010, NIST optical clocks, 33 cm height difference (KNOWN). Muon survival via time dilation (KNOWN, Rossi-Hall 1941; Frisch-Smith 1963). Relativity of simultaneity (KNOWN; follows from SR, consistent with all tests).",
+    "ig_caption": "your head is technically older than your feet. by a ridiculously small amount, but still",
+    "tt_caption": "3 experiments that prove time is relative #time #physics"
+  }
+]

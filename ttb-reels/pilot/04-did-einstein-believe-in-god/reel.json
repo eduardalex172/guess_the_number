@@ -1,0 +1,99 @@
+{
+  "id": "P05-07",
+  "hook": "Did Einstein|believe in *God*?",
+  "speed": 1.05,
+  "musicVol": 0.3,
+  "outro": "*The Thread Beneath*",
+  "lines": [
+    {
+      "say": "Both atheists and believers love to quote Einstein. So what did he actually say about God?",
+      "shots": [
+        [
+          "archive: Einstein portrait (public domain)",
+          "mono",
+          {}
+        ],
+        [
+          "q: chalkboard equations",
+          "cool",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Famous line, from 1926: God does not play dice. But that was about quantum physics, not religion.",
+      "shots": [
+        [
+          "q: dice rolling slow motion",
+          "warm",
+          {}
+        ],
+        [
+          "line art: quantum probability cloud",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "In 1929 a rabbi asked him by telegram if he believed in God. He answered: I believe in Spinoza's God, who reveals himself in the harmony of what exists, not in a God who concerns himself with the fates of human beings.",
+      "shots": [
+        [
+          "q: vintage telegram paper",
+          "warm",
+          {}
+        ],
+        [
+          "archive: Spinoza portrait (public domain)",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "In 1954 he called the word God an expression of human weakness. That letter later sold for nearly three million dollars.",
+      "shots": [
+        [
+          "q: handwritten letter close-up",
+          "orange",
+          {}
+        ],
+        [
+          "q: auction hammer",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "But he also refused to be called an atheist. He said he felt awe at the structure of the universe, and called that feeling religious.",
+      "shots": [
+        [
+          "q: galaxy spiral deep space",
+          "magenta",
+          {}
+        ],
+        [
+          "q: starry night time-lapse",
+          "cool",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "So: no personal God who answers prayers. But not no God at all. Something closer to the order of nature itself.",
+      "shots": [
+        [
+          "line art: two crossed-out options, middle highlighted",
+          "mono",
+          {}
+        ],
+        [
+          "q: snowflake macro symmetry",
+          "cool",
+          {}
+        ]
+      ]
+    }
+  ]
+}

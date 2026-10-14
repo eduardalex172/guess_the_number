@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "P03-01",
+    "pillar": "Reincarnation & past lives",
+    "sub": "Children's cases",
+    "style": "S7",
+    "status": "DEBATED",
+    "hook": "A 2-year-old named|a *dead pilot*",
+    "lines": [
+      {
+        "say": "Louisiana, around 2000. A two-year-old boy named James Leininger starts having nightmares. Screaming: airplane crash, on fire, can't get out.",
+        "shots": [
+          [
+            "q: Louisiana bayou night || alt: swamp bayou night",
+            "cool"
+          ],
+          [
+            "q: vintage toy airplane on floor",
+            "warm"
+          ],
+          [
+            "q: fire flames dark",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "He talks about flying a Corsair, a World War Two fighter, from a ship called the Natoma.",
+        "shots": [
+          [
+            "archive: F4U Corsair WWII photo (US Navy, public domain)",
+            "mono"
+          ],
+          [
+            "archive: USS Natoma Bay escort carrier (public domain)",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "He says he had a friend there named Jack Larsen. And he says the pilot was named James, like him.",
+        "shots": [
+          [
+            "line art: names 'Natoma' 'Jack Larsen' 'James'",
+            "mono"
+          ],
+          [
+            "q: old navy logbook pages",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "His father, a skeptic, starts researching to prove him wrong.",
+        "shots": [
+          [
+            "q: microfilm archive reader",
+            "cool"
+          ],
+          [
+            "q: stack of WWII books",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "He finds the USS Natoma Bay. A pilot named Jack Larsen served on it. And one pilot from it was killed near Iwo Jima in 1945: James Huston Junior.",
+        "shots": [
+          [
+            "archive: Iwo Jima 1945 aerial (public domain)",
+            "mono"
+          ],
+          [
+            "archive: Natoma Bay squadron photo (public domain)",
+            "mono"
+          ],
+          [
+            "line art: name James M. Huston Jr. typed",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "Skeptics point out the family visited an aviation museum before the nightmares, and that details sharpened as the parents researched.",
+        "shots": [
+          [
+            "q: aviation museum hangar",
+            "cool"
+          ],
+          [
+            "line art: timeline showing museum visit",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Researchers at the University of Virginia call it one of their strongest American cases. Both readings are still on the table.",
+        "shots": [
+          [
+            "q: University of Virginia rotunda || alt: old American university rotunda",
+            "warm"
+          ],
+          [
+            "q: vintage airplane silhouette sunset",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "James Leininger case, Lafayette, Louisiana (KNOWN as reported: Leininger 'Soul Survivor' 2009; Tucker 'Return to Life' 2013). Corsair, Natoma Bay, Jack Larsen, James M. Huston Jr. killed 3 Mar 1945 near Iwo Jima/Chichi Jima (KNOWN). Huston was flying an FM-2 Wildcat when killed (note: James said Corsair; Huston had flown Corsairs earlier) (DEBATED detail). Critiques (KNOWN). Tie-in to 'Have You Lived Before?' Mon 26 Oct.",
+    "ig_caption": "the dad was trying to disprove it. this is the case that made a lot of skeptics at least pause",
+    "tt_caption": "James Leininger, the boy who remembered being a WWII pilot #reincarnation #pastlife",
+    "render": {
+      "status": "done",
+      "seconds": 57.3,
+      "drive": "TTB Postari/Reels pilot/07 - Leininger",
+      "date": "2026-10-14",
+      "notes": "Script unchanged. Shots hand-mapped to ep. 2 assets: PD US Navy Corsair VF-17 1944, Natoma Bay underway / Tulagi 1944, Iwo Jima strike 1945, TBM takeoff from Natoma 1945, plus bedroom, typewriter, projector, library clips. Labels: 'Natoma / Jack Larsen / James', 'James M. Huston Jr. · killed 3 March 1945', 'aviation museum visit · before the nightmares'."
+    }
+  },
+  {
+    "id": "P03-02",
+    "pillar": "Reincarnation & past lives",
+    "sub": "UVA research",
+    "style": "S1",
+    "status": "DEBATED",
+    "hook": "Birthmarks that match|*someone else's* wounds",
+    "lines": [
+      {
+        "say": "Ian Stevenson was a psychiatrist at the University of Virginia. For forty years he collected cases of children who said they remembered a past life.",
+        "shots": [
+          [
+            "q: University of Virginia campus autumn || alt: old American university campus autumn",
+            "warm"
+          ],
+          [
+            "q: archive filing cabinets",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Some of those children had something physical. Birthmarks, or birth defects, in unusual places.",
+        "shots": [
+          [
+            "line art: body outline with marks",
+            "mono"
+          ],
+          [
+            "q: skin texture macro",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "And the child would say: that's where I was shot. Or stabbed. In the life before.",
+        "shots": [
+          [
+            "line art: speech bubble 'that's where I was shot'",
+            "mono"
+          ],
+          [
+            "q: old revolver on table",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "In 1993 he published a paper on two hundred and ten of these cases.",
+        "shots": [
+          [
+            "q: journal paper pages",
+            "cool"
+          ],
+          [
+            "line art: counter 210",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Where he could find autopsy reports or medical records for the person the child named, he said the wounds matched the marks in most of them.",
+        "shots": [
+          [
+            "q: old medical documents typewriter",
+            "warm"
+          ],
+          [
+            "line art: two outlines, marks aligned",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "Critics answer that the families often knew each other first, and that matching a story to a mark after the fact is easy.",
+        "shots": [
+          [
+            "line art: arrows connecting two villages",
+            "mono"
+          ],
+          [
+            "q: village road Sri Lanka || alt: village road tropical",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "It's still the most physical evidence anyone has offered for reincarnation, and it's still argued about.",
+        "shots": [
+          [
+            "q: magnifying glass on documents",
+            "warm"
+          ],
+          [
+            "q: dusk over Blue Ridge mountains || alt: dusk over forested mountains",
+            "magenta"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Stevenson, 'Birthmarks and Birth Defects Corresponding to Wounds on Deceased Persons', J. Scientific Exploration 1993: 210 cases; in 43 of 49 cases with medical documents, correspondence confirmed (KNOWN as reported; say 'most'). Critiques: prior family contact, retrofitting (Edwards, Angel) (DEBATED). Tie-in to Mon 26 ep.",
+    "ig_caption": "this is the part of the reincarnation research that surprised me most. physical marks, not just stories",
+    "tt_caption": "Ian Stevenson's birthmark cases, the strangest reincarnation evidence #reincarnation #ianstevenson"
+  },
+  {
+    "id": "P03-03",
+    "pillar": "Reincarnation & past lives",
+    "sub": "Ancient beliefs",
+    "style": "S5",
+    "status": "KNOWN",
+    "hook": "Pythagoras heard his dead friend|in a *puppy*",
+    "lines": [
+      {
+        "say": "Pythagoras is the triangle guy. He was also one of the first people in Greece to teach that souls are reborn.",
+        "shots": [
+          [
+            "archive: Pythagoras bust (public domain photo)",
+            "warm"
+          ],
+          [
+            "line art: right triangle fading to circle",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "And the oldest story about him isn't about math. It's about a dog.",
+        "shots": [
+          [
+            "q: puppy in dark doorway",
+            "warm"
+          ],
+          [
+            "q: Greek village street stones",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "A poet named Xenophanes, who lived at the same time, wrote it down.",
+        "shots": [
+          [
+            "q: ancient Greek manuscript page",
+            "mono"
+          ],
+          [
+            "q: olive trees wind",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Pythagoras walks past a man beating a puppy. He stops him and says:",
+        "shots": [
+          [
+            "line art: two outlines and a small dog",
+            "mono"
+          ],
+          [
+            "q: dust on stone road",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Stop, don't hit it. It's the soul of a friend of mine. I recognized his voice when I heard it cry.",
+        "shots": [
+          [
+            "line art: quote text appearing",
+            "mono"
+          ],
+          [
+            "q: dog eyes close-up",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Xenophanes probably meant it as a joke. But it tells us that Pythagoras really did teach rebirth, even into animals. That's why his followers reportedly avoided eating meat.",
+        "shots": [
+          [
+            "q: vegetables on wooden table rustic",
+            "warm"
+          ],
+          [
+            "line art: circle soul -> animal -> human",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Two and a half thousand years ago, the father of Western math believed you might come back with four legs.",
+        "shots": [
+          [
+            "q: stray dog sunset Greece",
+            "orange"
+          ],
+          [
+            "q: stars over Aegean",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Xenophanes fr. 7 (Diogenes Laertius 8.36) (KNOWN). Satirical intent (KNOWN interpretation). Pythagorean metempsychosis (KNOWN). Pythagorean dietary restrictions (KNOWN in tradition; extent DEBATED).",
+    "ig_caption": "the oldest story we have about Pythagoras is him telling a guy to stop hitting a puppy because it's his reincarnated friend",
+    "tt_caption": "Pythagoras believed in reincarnation #pythagoras #reincarnation"
+  },
+  {
+    "id": "P03-04",
+    "pillar": "Reincarnation & past lives",
+    "sub": "Skeptical view",
+    "style": "S4",
+    "status": "DEBATED",
+    "hook": "The past life that came from|*across the street*",
+    "lines": [
+      {
+        "say": "In 1952, in Colorado, a businessman hypnotized a housewife named Virginia Tighe.",
+        "shots": [
+          [
+            "q: 1950s Colorado town archive || alt: 1950s American mountain town archive",
+            "mono"
+          ],
+          [
+            "q: pocket watch swinging",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Under hypnosis, she started speaking in an Irish accent. She said she was Bridey Murphy, born in Cork in 1798.",
+        "shots": [
+          [
+            "q: Cork Ireland old street || alt: old European old street",
+            "cool"
+          ],
+          [
+            "q: reel-to-reel tape recorder",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "The tapes became a bestselling book, The Search for Bridey Murphy. America went crazy for past lives.",
+        "shots": [
+          [
+            "q: vintage book cover stack",
+            "orange"
+          ],
+          [
+            "q: 1950s newspaper headlines",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Then newspapers went digging. No birth record of a Bridey Murphy in Cork was ever found.",
+        "shots": [
+          [
+            "q: archive birth register pages",
+            "mono"
+          ],
+          [
+            "line art: search with no result",
+            "red"
+          ]
+        ]
+      },
+      {
+        "say": "And one paper reported that across the street from where Virginia grew up in Chicago lived an Irish immigrant named Bridie Murphy Corkell.",
+        "shots": [
+          [
+            "q: Chicago 1930s street archive || alt: American city 1930s street archive",
+            "mono"
+          ],
+          [
+            "line art: two houses facing each other",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Psychologists have a word for this: cryptomnesia. Memories you've forgotten coming back, feeling like they were never yours.",
+        "shots": [
+          [
+            "q: old photographs scattered",
+            "warm"
+          ],
+          [
+            "line art: memory box opening",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "That's why most researchers distrust hypnosis for past lives. It doesn't just recover memories. It can build them.",
+        "shots": [
+          [
+            "q: spiral pattern hypnotic",
+            "magenta"
+          ],
+          [
+            "q: brain neurons lights",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Morey Bernstein hypnotized Virginia Tighe, Pueblo CO, 1952 (KNOWN). Book 1956 (KNOWN). Chicago American reports on Bridie Murphy Corkell (KNOWN; neighbor claim DEBATED, contested by supporters). Cryptomnesia (KNOWN term). Hypnosis can create false memories (KNOWN, Loftus et al.).",
+    "ig_caption": "1950s America lost its mind over this tape. then the newspapers found the neighbor",
+    "tt_caption": "Bridey Murphy, the famous past life regression that unraveled #pastliferegression #hypnosis"
+  },
+  {
+    "id": "P03-05",
+    "pillar": "Reincarnation & past lives",
+    "sub": "Living traditions",
+    "style": "S1",
+    "status": "KNOWN",
+    "hook": "Where reincarnation|is *instant*",
+    "lines": [
+      {
+        "say": "In the mountains of Lebanon, Syria and Israel live the Druze, a religious community of about a million people.",
+        "shots": [
+          [
+            "q: Mount Lebanon villages aerial || alt: Mediterranean mountain villages aerial",
+            "warm"
+          ],
+          [
+            "q: Golan heights landscape || alt: dry highland heights landscape",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Their belief about death is unusual even among religions that accept reincarnation.",
+        "shots": [
+          [
+            "q: stone village houses dusk",
+            "orange"
+          ],
+          [
+            "q: cypress trees mountain",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "There's no waiting. No heaven in between. The moment a person dies, their soul enters a baby being born.",
+        "shots": [
+          [
+            "line art: two clocks, same second",
+            "mono"
+          ],
+          [
+            "q: dawn breaking over hills time-lapse",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Always a human. Never an animal.",
+        "shots": [
+          [
+            "line art: human outline only",
+            "mono"
+          ],
+          [
+            "q: mountain path",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "So when a small child starts talking about another family, another name, another village, Druze families don't panic. They have a word for it, nutq: the speech.",
+        "shots": [
+          [
+            "q: children's shoes doorstep",
+            "warm"
+          ],
+          [
+            "line art: word 'nutq'",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Sometimes the families visit each other. And the child gets two families instead of one.",
+        "shots": [
+          [
+            "q: two houses across valley",
+            "orange"
+          ],
+          [
+            "q: tea glasses on table",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Researchers have recorded some of the most detailed child cases among them.",
+        "shots": [
+          [
+            "q: notebook handwriting interviews",
+            "mono"
+          ],
+          [
+            "q: Lebanese mountains sunset || alt: Mediterranean mountains sunset",
+            "magenta"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Druze belief in immediate transmigration (taqamus) into a human (KNOWN). Population ~1 million (KNOWN approx). 'Nutq' for children's past-life speech (KNOWN). Stevenson and others studied Druze cases (KNOWN). Avoid naming specific children (privacy).",
+    "ig_caption": "for the Druze there's no gap at all. you die and you're born in the same moment",
+    "tt_caption": "the Druze belief in instant reincarnation #reincarnation #druze"
+  },
+  {
+    "id": "P03-06",
+    "pillar": "Reincarnation & past lives",
+    "sub": "Buddhism",
+    "style": "S5",
+    "status": "KNOWN",
+    "hook": "Rebirth with|*no soul*",
+    "lines": [
+      {
+        "say": "Buddhism teaches rebirth. It also teaches there's no permanent soul. So what exactly gets reborn?",
+        "shots": [
+          [
+            "q: Buddha statue serene temple",
+            "warm"
+          ],
+          [
+            "line art: question mark between two circles",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Around two thousand years ago, a Greek king in India asked a monk that exact question.",
+        "shots": [
+          [
+            "archive: Menander I coin (public domain)",
+            "mono"
+          ],
+          [
+            "q: ancient Indian stupa",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "The king was Menander. The monk was Nagasena. Their conversation was written down as The Questions of King Milinda.",
+        "shots": [
+          [
+            "q: palm leaf manuscript",
+            "warm"
+          ],
+          [
+            "q: monk robes saffron hanging",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "The king asks: is the one who is reborn the same person, or someone else? Nagasena says: neither the same, nor another.",
+        "shots": [
+          [
+            "line art: dialogue lines",
+            "mono"
+          ],
+          [
+            "q: temple courtyard shadows",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Then he gives an example. Light a lamp in the evening. Is the flame at midnight the same flame? At dawn?",
+        "shots": [
+          [
+            "q: oil lamp flame close-up",
+            "orange"
+          ],
+          [
+            "q: candle burning time-lapse",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Not quite the same, not a different one either. One flame passed along, unbroken.",
+        "shots": [
+          [
+            "q: candle lighting another candle",
+            "orange"
+          ],
+          [
+            "line art: flame passing along a line",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "In Buddhism, that's you. Not a thing that travels. A process that continues.",
+        "shots": [
+          [
+            "q: row of butter lamps",
+            "warm"
+          ],
+          [
+            "q: river flowing aerial",
+            "cool"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Milindapanha, dialogue of Menander I (Indo-Greek king, 2nd c. BC) and Nagasena (KNOWN). 'Neither the same nor another' and lamp-through-the-night simile (KNOWN). Text compiled over time (KNOWN).",
+    "ig_caption": "a Greek king asked a Buddhist monk how rebirth works without a soul. the candle answer is the best thing I've read this week",
+    "tt_caption": "how Buddhist rebirth works without a soul, explained with a flame #buddhism #rebirth"
+  },
+  {
+    "id": "P03-07",
+    "pillar": "Reincarnation & past lives",
+    "sub": "Tibetan tradition",
+    "style": "S7",
+    "status": "KNOWN",
+    "hook": "How they found|the *Dalai Lama*",
+    "lines": [
+      {
+        "say": "When the 13th Dalai Lama died in 1933, Tibet had to find his next incarnation. A child.",
+        "shots": [
+          [
+            "archive: 13th Dalai Lama photo (public domain)",
+            "mono"
+          ],
+          [
+            "q: Potala Palace Lhasa || alt: Himalayan palace",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "The regent went to a sacred lake and reported seeing a vision on the water: three Tibetan letters, a monastery, and a house with turquoise roof tiles.",
+        "shots": [
+          [
+            "q: Tibetan sacred lake high altitude",
+            "cool"
+          ],
+          [
+            "line art: three Tibetan letters Ah Ka Ma",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Search parties went out. One reached a village in the northeast, Taktser, and found a house that matched.",
+        "shots": [
+          [
+            "q: Tibetan village mountains Amdo || alt: Tibetan village mountains high plateau",
+            "warm"
+          ],
+          [
+            "q: turquoise tiles roof",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "The lama leading the search disguised himself as a servant. A two-year-old boy came straight to him and asked for the rosary he wore. It had belonged to the 13th Dalai Lama.",
+        "shots": [
+          [
+            "q: prayer beads mala close-up",
+            "orange"
+          ],
+          [
+            "q: wooden door Tibetan house",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Later, the boy was shown pairs of objects: walking sticks, drums, rosaries. Each time, according to the searchers, he picked the one that had been his predecessor's.",
+        "shots": [
+          [
+            "line art: two objects, one chosen",
+            "mono"
+          ],
+          [
+            "q: Tibetan drum damaru",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "That boy, Lhamo Thondup, became Tenzin Gyatso, the 14th Dalai Lama.",
+        "shots": [
+          [
+            "archive: 14th Dalai Lama as a child (public domain)",
+            "mono"
+          ],
+          [
+            "q: prayer flags wind sky",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Believers see recognition. Skeptics see a search that knew what it wanted to find.",
+        "shots": [
+          [
+            "q: mountain pass clouds moving",
+            "cool"
+          ],
+          [
+            "q: butter lamps flickering",
+            "orange"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "13th Dalai Lama d. 1933 (KNOWN). Regent Reting's vision at Lhamo La-tso, letters Ah Ka Ma, house with turquoise tiles (KNOWN traditional account, Dalai Lama's autobiography). Kewtsang Rinpoche disguised as servant, rosary, object tests (KNOWN as account). Born 1935 Taktser (KNOWN). Check licence of child photo (1930s-40s photos; use only confirmed PD).",
+    "ig_caption": "the rosary moment gives me chills every time, whatever you think about it",
+    "tt_caption": "how the 14th Dalai Lama was found as a child #dalailama #tibet"
+  },
+  {
+    "id": "P03-08",
+    "pillar": "Reincarnation & past lives",
+    "sub": "UVA research",
+    "style": "S3",
+    "status": "DEBATED",
+    "hook": "3 patterns in kids who|*remember past lives*",
+    "lines": [
+      {
+        "say": "The University of Virginia has studied over two thousand five hundred children who say they remember a previous life. A few patterns keep showing up.",
+        "shots": [
+          [
+            "q: archive drawers index cards",
+            "mono"
+          ],
+          [
+            "q: University of Virginia lawn || alt: old American university lawn",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "One. Timing. They usually start talking about it between two and three years old, and they mostly stop by six or seven.",
+        "shots": [
+          [
+            "line art: timeline age 2 -> 7, fading",
+            "mono"
+          ],
+          [
+            "q: children's crayon drawing",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Two. The past life often ended suddenly. A large share of these children describe a violent or unnatural death: accidents, drowning, war.",
+        "shots": [
+          [
+            "q: stormy sea waves dark",
+            "cool"
+          ],
+          [
+            "q: car wreck old archive",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "Three. The gap is short. In the cases where a previous person was identified, the time between that death and the child's birth is usually a year or two, not centuries.",
+        "shots": [
+          [
+            "line art: two dates close together",
+            "mono"
+          ],
+          [
+            "q: hourglass sand running",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "Some kids also show matching fears or habits, like fear of water when the previous person drowned.",
+        "shots": [
+          [
+            "q: still lake dark water",
+            "teal"
+          ],
+          [
+            "q: rain on window",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Skeptics say these patterns come from how cases get reported and filtered. Researchers say that alone doesn't explain the details.",
+        "shots": [
+          [
+            "line art: funnel filtering dots",
+            "mono"
+          ],
+          [
+            "q: magnifying glass on notes",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "UVA Division of Perceptual Studies: 2,500+ cases (KNOWN). Onset ~2-3, fade by ~6-7 (KNOWN, Tucker). ~70% report violent/unnatural death (Tucker) (KNOWN as reported; 'large share'). Median interval ~16 months (Tucker) (KNOWN as reported; 'a year or two'). Phobias related to mode of death (KNOWN as reported). Sampling-bias critique (DEBATED).",
+    "ig_caption": "the 'they stop talking about it around 6 or 7' part is what makes parents go quiet",
+    "tt_caption": "what children who remember past lives have in common #reincarnation #pastlives"
+  },
+  {
+    "id": "P03-09",
+    "pillar": "Reincarnation & past lives",
+    "sub": "Big questions",
+    "style": "S6",
+    "status": "SPECULATION",
+    "hook": "If we're reborn, where do|*new souls* come from?",
+    "lines": [
+      {
+        "say": "Here's the question that always comes up. In 1800 there were about one billion people. Now there are over eight billion. If everyone is reborn, where did the extra souls come from?",
+        "shots": [
+          [
+            "line art: population graph 1 billion -> 8 billion",
+            "mono"
+          ],
+          [
+            "q: crowded city aerial time-lapse",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Different traditions answer it differently.",
+        "shots": [
+          [
+            "q: temple bells",
+            "warm"
+          ],
+          [
+            "q: ancient manuscript stack",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Hindu and Buddhist thought say rebirth isn't only human. Animals, insects, other realms. Humans are a tiny fraction of all living beings, so the pool is huge.",
+        "shots": [
+          [
+            "q: ant colony macro",
+            "warm"
+          ],
+          [
+            "q: bird flock murmuration",
+            "cool"
+          ],
+          [
+            "q: fish school underwater",
+            "teal"
+          ]
+        ]
+      },
+      {
+        "say": "Some modern believers say new souls are created all the time, and some people are on their first life.",
+        "shots": [
+          [
+            "q: new leaves sprouting time-lapse",
+            "warm"
+          ],
+          [
+            "q: stars forming nebula",
+            "magenta"
+          ]
+        ]
+      },
+      {
+        "say": "Others suggest souls aren't countable at all, more like waves in one ocean than separate coins.",
+        "shots": [
+          [
+            "q: ocean waves aerial",
+            "teal"
+          ],
+          [
+            "line art: waves rising from one line",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "None of these can be tested. But the math problem only works if you assume souls are like individual items. Most traditions never did.",
+        "shots": [
+          [
+            "q: coins counted on table",
+            "orange"
+          ],
+          [
+            "q: ocean horizon sunset",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "World population ~1 billion c. 1800, >8 billion 2022 (KNOWN). Hindu/Buddhist rebirth across species and realms (KNOWN). Other answers are SPECULATION; presented as positions, no endorsement.",
+    "ig_caption": "my friend hit me with this question at dinner and I went down a rabbit hole. turns out most traditions saw it coming",
+    "tt_caption": "the population problem with reincarnation #reincarnation #philosophy"
+  },
+  {
+    "id": "P03-10",
+    "pillar": "Reincarnation & past lives",
+    "sub": "Christianity myths",
+    "style": "S4",
+    "status": "DEBATED",
+    "hook": "Was reincarnation *removed*|from the Bible?",
+    "lines": [
+      {
+        "say": "There's a popular claim: early Christians believed in reincarnation, until a church council deleted it in 553.",
+        "shots": [
+          [
+            "q: Hagia Sophia interior || alt: Byzantine church interior",
+            "warm"
+          ],
+          [
+            "q: old Bible pages",
+            "orange"
+          ]
+        ]
+      },
+      {
+        "say": "Here's what actually happened. In 553, the Second Council of Constantinople did condemn ideas linked to an early theologian named Origen.",
+        "shots": [
+          [
+            "archive: Byzantine council icon (public domain)",
+            "mono"
+          ],
+          [
+            "q: Istanbul skyline Bosphorus || alt: old city skyline strait",
+            "cool"
+          ]
+        ]
+      },
+      {
+        "say": "Origen taught that souls existed before birth. That part is real, and it was condemned.",
+        "shots": [
+          [
+            "line art: soul before birth, crossed",
+            "red"
+          ],
+          [
+            "q: candle in stone chapel",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "But Origen himself rejected reincarnation. He wrote against souls moving into new bodies.",
+        "shots": [
+          [
+            "q: manuscript Greek text",
+            "mono"
+          ],
+          [
+            "line art: arrow body -> body crossed",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "And no Bible passages were removed at that council. The New Testament was settled long before.",
+        "shots": [
+          [
+            "q: ancient codex pages turning",
+            "warm"
+          ],
+          [
+            "line art: timeline canon vs 553",
+            "mono"
+          ]
+        ]
+      },
+      {
+        "say": "The verse people point to is Jesus saying John the Baptist was Elijah. Christians have long read that as a role, not a rebirth. Others disagree.",
+        "shots": [
+          [
+            "q: river Jordan landscape",
+            "orange"
+          ],
+          [
+            "archive: John the Baptist painting (public domain)",
+            "warm"
+          ]
+        ]
+      },
+      {
+        "say": "So: pre-existence of souls, condemned. Reincarnation deleted from the Bible: no evidence.",
+        "shots": [
+          [
+            "line art: two stamps DEBATED / NO EVIDENCE",
+            "mono"
+          ],
+          [
+            "q: dust in church light beam",
+            "warm"
+          ]
+        ]
+      }
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Second Council of Constantinople 553 and anathemas against Origenism incl. pre-existence (KNOWN; whether anathemas were formally conciliar is DEBATED). Origen rejected metensomatosis (Contra Celsum, Commentary on Matthew) (KNOWN). NT canon broadly settled by late 4th c. (KNOWN). Matthew 11:14 / 17:12 Elijah readings (KNOWN, interpretation DEBATED).",
+    "ig_caption": "I believed this one for years. the real story is weirder and way more specific",
+    "tt_caption": "was reincarnation removed from the Bible in 553? #christianity #reincarnation"
+  }
+]
