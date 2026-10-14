@@ -1,0 +1,114 @@
+{
+  "id": "P02-10",
+  "hook": "Your heart stops.|Here's the *next hour*",
+  "speed": 1.05,
+  "musicVol": 0.3,
+  "outro": "*The Thread Beneath*",
+  "lines": [
+    {
+      "say": "Your heart stops. Here's what science says happens next.",
+      "shots": [
+        [
+          "q: ECG flatline monitor",
+          "red",
+          {}
+        ],
+        [
+          "line art: clock at 0:00",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Ten to twenty seconds. Blood stops reaching the brain, you lose consciousness, and standard brain recordings go flat.",
+      "shots": [
+        [
+          "line art: timer 0:20, EEG flattening",
+          "mono",
+          {}
+        ],
+        [
+          "q: lights dimming hallway",
+          "cool",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "But flat on the surface doesn't mean nothing is happening. In some dying brains, short bursts of organized activity have been recorded.",
+      "shots": [
+        [
+          "line art: hidden spikes under flat line",
+          "mono",
+          {}
+        ],
+        [
+          "q: embers glowing under ash",
+          "orange",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Around four to six minutes without oxygen, brain cells start to suffer serious damage.",
+      "shots": [
+        [
+          "line art: timer 5:00, neurons dimming",
+          "mono",
+          {}
+        ],
+        [
+          "q: neurons network dimming abstract",
+          "magenta",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Yet during CPR, a 2023 study found near-normal brain waves reappearing even up to an hour in.",
+      "shots": [
+        [
+          "q: CPR mannequin hands compressions",
+          "cool",
+          {}
+        ],
+        [
+          "q: EEG waves monitor",
+          "teal",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "And doctors have revived people after much longer, especially in freezing cold, where the brain needs less oxygen.",
+      "shots": [
+        [
+          "q: frozen lake ice cracks",
+          "cool",
+          {}
+        ],
+        [
+          "q: snow storm night",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Death isn't a switch. It's a process. And where in that process a person stops being there, nobody can say yet.",
+      "shots": [
+        [
+          "q: candle flame going out slow motion",
+          "orange",
+          {}
+        ],
+        [
+          "q: sunset fading to night time-lapse",
+          "magenta",
+          {}
+        ]
+      ]
+    }
+  ]
+}

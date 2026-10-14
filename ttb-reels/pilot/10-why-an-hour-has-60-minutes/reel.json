@@ -1,0 +1,114 @@
+{
+  "id": "P01-06",
+  "hook": "Why an hour has|*60* minutes",
+  "speed": 1.05,
+  "musicVol": 0.3,
+  "outro": "*The Thread Beneath*",
+  "lines": [
+    {
+      "say": "Sixty seconds, sixty minutes. Why sixty, when we count everything else in tens?",
+      "shots": [
+        [
+          "q: clock second hand macro",
+          "cool",
+          {}
+        ],
+        [
+          "q: vintage pocket watch face",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Blame Mesopotamia. Over four thousand years ago, Sumerian and later Babylonian scribes counted in base sixty.",
+      "shots": [
+        [
+          "q: cuneiform numbers tablet close-up",
+          "warm",
+          {}
+        ],
+        [
+          "q: Euphrates river reeds",
+          "orange",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Sixty is great for trade. It divides cleanly by two, three, four, five, six, ten, twelve, fifteen, twenty and thirty.",
+      "shots": [
+        [
+          "line art: 60 splitting into equal slices",
+          "mono",
+          {}
+        ],
+        [
+          "q: grain pouring into bowl",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Babylonian astronomers used it to track the sky. Greek astronomers like Ptolemy copied their system.",
+      "shots": [
+        [
+          "q: astrolabe antique brass",
+          "warm",
+          {}
+        ],
+        [
+          "q: star trails night sky",
+          "cool",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "So when the hour was later cut into smaller pieces, it was cut the Babylonian way.",
+      "shots": [
+        [
+          "q: medieval clockwork gears",
+          "orange",
+          {}
+        ],
+        [
+          "line art: hour circle divided into 60",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Same with the circle. Three hundred and sixty degrees. Six times sixty.",
+      "shots": [
+        [
+          "line art: circle with 360 degree marks, phi overlay",
+          "teal",
+          {}
+        ],
+        [
+          "q: compass rose antique map",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Every time you check the time, you're using math invented by people who wrote on clay.",
+      "shots": [
+        [
+          "q: digital clock numbers changing",
+          "cool",
+          {}
+        ],
+        [
+          "q: reed stylus pressing clay",
+          "warm",
+          {}
+        ]
+      ]
+    }
+  ]
+}

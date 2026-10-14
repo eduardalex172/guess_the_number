@@ -1,0 +1,172 @@
+[
+  {
+    "id": "P04-01", "pillar": "Spirits, ghosts & apparitions", "sub": "Science of hauntings", "style": "S8", "status": "DEBATED",
+    "hook": "The sound that makes you|*see ghosts*",
+    "lines": [
+      {"say": "In the 1980s, an engineer named Vic Tandy worked in a lab in England that people said was haunted.", "shots": [["q: old industrial lab building England night", "cool"], ["q: flickering fluorescent light corridor", "teal"]]},
+      {"say": "One night, he felt cold, uneasy, and saw a grey shape at the edge of his vision. When he turned to look, it was gone.", "shots": [["q: blurred shadow corner dark room", "mono"], ["q: peripheral vision blur abstract", "cool"]]},
+      {"say": "The next day he was fixing a fencing sword in a vise, and the blade started vibrating on its own.", "shots": [["q: fencing foil blade close-up", "warm"], ["q: metal vise workbench", "orange"]]},
+      {"say": "He traced it to a new extractor fan. It was producing sound at nineteen cycles a second. Too low for humans to hear.", "shots": [["q: industrial extractor fan spinning", "teal"], ["line art: sound wave 19 Hz below hearing line", "mono"]]},
+      {"say": "When the fan was fixed, the feeling, and the ghost, disappeared.", "shots": [["q: fan blades stopping", "cool"], ["q: empty lab bright light", "warm"]]},
+      {"say": "Low sound like this, called infrasound, has been linked in some experiments to anxiety, chills and a sense of presence, and may even make the eyeball vibrate slightly.", "shots": [["line art: eye outline with vibration lines", "mono"], ["q: organ pipes low notes", "orange"]]},
+      {"say": "Not every haunting is a fan. But some of them might be.", "shots": [["q: old house dark window", "teal"], ["q: ventilation duct dark", "mono"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Tandy & Lawrence, 'The Ghost in the Machine', J. Society for Psychical Research 1998 (KNOWN). 18.98 Hz fan, fencing foil (KNOWN). Eyeball resonance ~18 Hz claim from NASA-era studies (DEBATED). 2003 concert infrasound experiment (Wiseman/Lord) found more unusual feelings (KNOWN, small study).",
+    "ig_caption": "a guy saw a ghost in his lab and it turned out to be a fan. a literal fan. still one of my favorite stories",
+    "tt_caption": "infrasound, the 19 Hz frequency linked to ghost sightings #ghosts #science"
+  },
+  {
+    "id": "P04-02", "pillar": "Spirits, ghosts & apparitions", "sub": "Science of hauntings", "style": "S7", "status": "KNOWN",
+    "hook": "The haunted house|that was *poisoning* them",
+    "lines": [
+      {"say": "In 1921, an eye doctor published a strange case in the American Journal of Ophthalmology.", "shots": [["q: vintage medical journal pages", "mono"], ["q: 1920s doctor office archive", "warm"]]},
+      {"say": "A family, called only Mr. and Mrs. H, had moved into an old house. And things started happening.", "shots": [["q: old Victorian house exterior dusk", "teal"], ["q: creaky staircase dark", "mono"]]},
+      {"say": "They heard bells ringing at night. Footsteps. Furniture moving. They felt invisible hands. They saw figures in the rooms.", "shots": [["q: old brass bell close-up", "warm"], ["q: dark hallway open door", "cool"], ["q: chair in empty room shadow", "mono"]]},
+      {"say": "They also had constant headaches. They felt weak. The plants in the house were dying.", "shots": [["q: wilted houseplant", "warm"], ["q: dim lamp bedroom", "orange"]]},
+      {"say": "Then they found the cause. The furnace was broken, and it was leaking carbon monoxide.", "shots": [["q: old coal furnace basement", "red"], ["line art: CO molecule spreading", "mono"]]},
+      {"say": "Carbon monoxide has no smell and no color. In low doses it can cause headaches, confusion, and hallucinations.", "shots": [["q: invisible gas haze light beam", "teal"], ["line art: brain with fog", "mono"]]},
+      {"say": "Once the furnace was fixed, the ghosts left. If your house feels haunted, check your detector first.", "shots": [["q: carbon monoxide detector beeping", "red"], ["q: sunlight in old house window", "warm"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "W. H. Wilmer, 'Effects of carbon monoxide upon the eye', American Journal of Ophthalmology 1921, case of 'Mr. and Mrs. H' (KNOWN). Symptoms incl. bells, footsteps, figures, headaches, dying plants (KNOWN as reported). CO causes hallucinations in some cases (KNOWN).",
+    "ig_caption": "bells, footsteps, figures... and a broken furnace. please check your CO detector lol",
+    "tt_caption": "the 1921 haunted house that was carbon monoxide poisoning #haunted #creepyhistory"
+  },
+  {
+    "id": "P04-03", "pillar": "Spirits, ghosts & apparitions", "sub": "History of spiritualism", "style": "S4", "status": "KNOWN",
+    "hook": "The two girls who|*started* talking to the dead",
+    "lines": [
+      {"say": "March 1848. Hydesville, New York. Two sisters, Maggie and Kate Fox, say they're hearing knocks in their house at night.", "shots": [["q: farmhouse night 1800s snow", "cool"], ["line art: knocking sound waves on wall", "mono"]]},
+      {"say": "They start asking the knocks questions. The knocks answer. One knock for yes. Silence for no.", "shots": [["q: wooden wall close-up", "warm"], ["q: candle on table dark", "orange"]]},
+      {"say": "The story explodes. Within a few years, a whole movement called Spiritualism has grown across America and Britain, with mediums and séances everywhere.", "shots": [["archive: 19th c. séance illustration (public domain)", "mono"], ["q: crowd 1800s archive", "mono"]]},
+      {"say": "Then in 1888, forty years later, Maggie stands on a stage in New York and confesses.", "shots": [["q: old theater stage spotlight", "warm"], ["archive: Fox sisters photo (public domain)", "mono"]]},
+      {"say": "The knocks were made by cracking the joints of her toes. She demonstrated it in front of the audience.", "shots": [["line art: foot outline, joint highlighted", "mono"], ["q: wooden floorboards creak", "warm"]]},
+      {"say": "A year later, she took the confession back. By then it didn't matter. Spiritualism no longer needed the Fox sisters.", "shots": [["q: old newspaper headline 1888", "mono"], ["q: empty farmhouse ruin", "teal"]]},
+      {"say": "A movement with millions of followers may have started with two girls playing a trick that got out of hand.", "shots": [["q: two candles burning down", "orange"], ["q: farmhouse door closing", "cool"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Hydesville, 31 March 1848 (KNOWN). Spiritualism spread rapidly (KNOWN). Margaret's public confession and toe-joint demonstration, New York Academy of Music, Oct 1888 (KNOWN). Recantation 1889 (KNOWN). Whether all phenomena were trickery is the DEBATED part.",
+    "ig_caption": "a whole religious movement may have started with two kids cracking their toes. and she showed everyone how on stage",
+    "tt_caption": "the Fox sisters and the birth of Spiritualism #spiritualism #ghosthistory"
+  },
+  {
+    "id": "P04-04", "pillar": "Spirits, ghosts & apparitions", "sub": "Famous photos", "style": "S2", "status": "KNOWN",
+    "hook": "Mary Lincoln paid for|this *photo*",
+    "lines": [
+      {"say": "This is Mary Todd Lincoln, years after her husband was assassinated.", "shots": [["archive: Mumler photo Mary Todd Lincoln (public domain), full", "mono"], ["archive: same photo slow push on face", "mono"]]},
+      {"say": "Behind her, with his hands on her shoulders, is a pale figure that looks a lot like Abraham Lincoln.", "shots": [["archive: same photo, push on hands", "mono"], ["line art: outline tracing the figure", "red"]]},
+      {"say": "It was taken by William Mumler, a Boston engraver who became famous in the 1860s for spirit photography.", "shots": [["archive: Mumler spirit photographs collage (public domain)", "mono"], ["q: antique bellows camera", "warm"]]},
+      {"say": "A few years earlier he'd been put on trial in New York for fraud. Some of his ghosts were recognized as living people from Boston.", "shots": [["q: 1860s courthouse archive", "mono"], ["q: old glass plate negatives", "warm"]]},
+      {"say": "P.T. Barnum, the showman, testified against him. Mumler was acquitted anyway, for lack of proof of how he did it.", "shots": [["archive: P.T. Barnum portrait (public domain)", "mono"], ["q: gavel wood", "warm"]]},
+      {"say": "Today we know the method: a double exposure, two images on one glass plate.", "shots": [["line art: two plates overlapping", "mono"], ["q: darkroom red light", "red"]]},
+      {"say": "Mary may have known, or not. She wanted to see him one more time. That's what she paid for.", "shots": [["archive: Mumler photo crop on her face", "mono"], ["q: candle in window night", "warm"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Mumler photo of Mary Todd Lincoln c. 1872 (KNOWN, public domain). Mumler first spirit photo 1861-62 Boston (KNOWN). 1869 New York fraud trial, Barnum testified, acquitted (KNOWN). Living 'ghosts' recognized (KNOWN as reported). Double exposure method (KNOWN consensus).",
+    "ig_caption": "I can't look at this photo without feeling sad. whatever it was, she wanted to see him again",
+    "tt_caption": "the ghost of Abraham Lincoln photo, and the man who faked it #lincoln #spiritphotography"
+  },
+  {
+    "id": "P04-05", "pillar": "Spirits, ghosts & apparitions", "sub": "Famous photos", "style": "S2", "status": "DEBATED",
+    "hook": "The most famous|ghost *photo* ever",
+    "lines": [
+      {"say": "September 1936. Two photographers are shooting a magazine story at Raynham Hall, an old English country house.", "shots": [["q: English country house Norfolk exterior", "cool"], ["q: 1930s camera vintage", "warm"]]},
+      {"say": "One of them suddenly shouts: there's something on the staircase. The other takes the shot.", "shots": [["q: grand wooden staircase dark", "mono"], ["line art: flash burst", "mono"]]},
+      {"say": "When the negative was developed, there was a pale, veiled figure coming down the stairs.", "shots": [["line art: redraw of staircase with veiled figure (check licence of original)", "mono"], ["q: darkroom developing tray", "red"]]},
+      {"say": "Locals said it was the Brown Lady, the ghost of Lady Dorothy Walpole, who died in that house in 1726.", "shots": [["archive: 18th c. portrait of a lady (public domain)", "warm"], ["q: old portrait hallway", "orange"]]},
+      {"say": "The magazine Country Life published it in December 1936, and it has been reprinted ever since.", "shots": [["q: vintage magazine pages", "mono"], ["q: dust in light old library", "warm"]]},
+      {"say": "Skeptics point to a double exposure, or a smudge on the lens, or a figure placed on the stairs. Experts who examined the negative at the time found no sign of tampering.", "shots": [["line art: magnifier over figure", "mono"], ["q: film negative lightbox", "cool"]]},
+      {"say": "Nearly ninety years later, nobody has proven how it was made.", "shots": [["q: staircase moonlight", "teal"], ["q: candle on banister", "orange"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Photographed by Capt. Hubert Provand and Indre Shira, Sept 1936; published Country Life 26 Dec 1936 (KNOWN). Brown Lady identified with Lady Dorothy Walpole d. 1726 (KNOWN legend). Explanations (DEBATED). LICENCE: 1936 UK photo may still be in copyright; use a line-art redraw unless TTB confirms PD.",
+    "ig_caption": "this photo is almost 90 years old and people still fight about it. I zoomed in way too long",
+    "tt_caption": "the Brown Lady of Raynham Hall, the most famous ghost photo #ghostphoto #paranormal"
+  },
+  {
+    "id": "P04-06", "pillar": "Spirits, ghosts & apparitions", "sub": "Science of hauntings", "style": "S2", "status": "KNOWN",
+    "hook": "This painting shows|what *millions* experience",
+    "lines": [
+      {"say": "This painting is called The Nightmare. Henry Fuseli, 1781.", "shots": [["archive: Fuseli The Nightmare 1781 (public domain), full", "mono"], ["archive: same, slow push", "red"]]},
+      {"say": "A woman lies asleep, twisted across the bed. On her chest sits a demon, staring straight at us.", "shots": [["archive: Nightmare crop on figure", "mono"], ["archive: Nightmare crop on demon", "red"]]},
+      {"say": "For centuries people described exactly this. Waking up, unable to move, with something heavy sitting on your chest, and a presence in the room.", "shots": [["q: bedroom dark ceiling", "teal"], ["line art: weight pressing down", "mono"]]},
+      {"say": "In Newfoundland they called it the Old Hag. In other places, a witch, a jinn, a spirit.", "shots": [["q: Newfoundland coast night", "cool"], ["q: dark forest moonlight", "mono"]]},
+      {"say": "Science calls it sleep paralysis. Your brain wakes up while your body is still locked in dream sleep, and the dream bleeds into the room.", "shots": [["line art: brain awake, body asleep", "mono"], ["q: dream blur abstract", "magenta"]]},
+      {"say": "Studies suggest something like one person in twelve has it at least once.", "shots": [["line art: 12 figures, 1 highlighted", "mono"], ["q: city windows at night", "cool"]]},
+      {"say": "So that demon on her chest? People really saw it. It just came from inside their own heads.", "shots": [["archive: Nightmare crop on demon eyes", "red"], ["q: dawn light through curtains", "warm"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Fuseli 'The Nightmare' 1781, Detroit Institute of Arts (KNOWN, PD). Old Hag (Newfoundland) and other cultural names (KNOWN). REM atonia intrusion into wakefulness (KNOWN). Lifetime prevalence ~7.6% general population (Sharpless & Barber 2011) (KNOWN; 'one in twelve').",
+    "ig_caption": "had sleep paralysis twice in my life and this painting is EXACTLY it",
+    "tt_caption": "sleep paralysis and the demon on your chest #sleepparalysis #fuseli"
+  },
+  {
+    "id": "P04-07", "pillar": "Spirits, ghosts & apparitions", "sub": "Ancient ghost stories", "style": "S5", "status": "KNOWN",
+    "hook": "A Roman ghost story|that *ends* with bones",
+    "lines": [
+      {"say": "Almost two thousand years ago, a Roman writer named Pliny the Younger wrote a letter asking a friend: do ghosts exist?", "shots": [["archive: Pliny the Younger statue Como (public domain photo)", "warm"], ["q: Roman letter wax tablet stylus", "orange"]]},
+      {"say": "Then he tells a story. In Athens there was a big house nobody would live in.", "shots": [["q: Athens old ruins night", "cool"], ["q: abandoned stone courtyard", "mono"]]},
+      {"say": "At night you'd hear chains. Then an old man would appear, thin, filthy, with chains on his legs and wrists, rattling them.", "shots": [["q: rusted iron chains dragging", "mono"], ["q: shadow on stone wall", "teal"]]},
+      {"say": "A philosopher named Athenodorus rented it anyway, because it was cheap. He sat up writing. The ghost came. It beckoned. He followed it into the courtyard, where it vanished.", "shots": [["q: oil lamp writing desk night", "orange"], ["q: dark courtyard moonlight", "cool"]]},
+      {"say": "He marked the spot with leaves. The next day he had it dug up.", "shots": [["q: leaves on ground marker", "warm"], ["q: digging earth shovel", "orange"]]},
+      {"say": "They found bones, tangled in chains. They gave them a proper burial. And the haunting stopped.", "shots": [["q: old bones in soil archaeology", "mono"], ["q: funeral flowers on stone", "warm"]]},
+      {"say": "The chained ghost, the unburied body, the haunting that ends with a burial. Ghost stories have barely changed since.", "shots": [["q: chains on stone floor", "mono"], ["q: candle in stone room", "orange"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Pliny the Younger, Letters 7.27 to Licinius Sura (KNOWN), c. AD 100. Athenodorus, chained ghost, leaves as marker, bones in chains, burial ends haunting (KNOWN).",
+    "ig_caption": "this is basically every haunted house movie, written down around the year 100",
+    "tt_caption": "the oldest haunted house story, from ancient Rome #ghoststory #ancientrome"
+  },
+  {
+    "id": "P04-08", "pillar": "Spirits, ghosts & apparitions", "sub": "History of spiritualism", "style": "S7", "status": "KNOWN",
+    "hook": "Houdini's *secret code*|from beyond the grave",
+    "lines": [
+      {"say": "Harry Houdini spent his last years exposing fake mediums. He knew every trick because he did them on stage.", "shots": [["archive: Houdini portrait (public domain)", "mono"], ["archive: Houdini in chains (public domain)", "mono"]]},
+      {"say": "But he never said contact with the dead was impossible. So he made a deal with his wife, Bess.", "shots": [["archive: Harry and Bess Houdini photo (public domain)", "mono"], ["q: two rings on table", "warm"]]},
+      {"say": "Whoever died first would try to send back a secret message. A code only the two of them knew.", "shots": [["line art: sealed envelope", "mono"], ["q: wax seal envelope", "red"]]},
+      {"say": "Houdini died on Halloween, 1926. For ten years, Bess held a séance every Halloween.", "shots": [["q: Halloween night candles", "orange"], ["line art: 1926 -> 1936 counter", "mono"]]},
+      {"say": "Mediums claimed to have the message. None convinced her for good.", "shots": [["q: séance table dark", "teal"], ["q: crystal ball dark", "magenta"]]},
+      {"say": "The last official séance was on Halloween 1936, on a hotel rooftop in Hollywood, broadcast on the radio. Nothing came through.", "shots": [["q: Hollywood night 1930s archive", "mono"], ["q: vintage radio microphone", "warm"]]},
+      {"say": "Bess turned off the candle and said: ten years is long enough to wait for any man. The code, published later, was Rosabelle, believe.", "shots": [["q: candle snuffed out smoke", "mono"], ["line art: words 'Rosabelle, believe'", "red"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Houdini's anti-medium campaign, A Magician Among the Spirits 1924 (KNOWN). Died 31 Oct 1926 (KNOWN). Code pact with Bess; 'Rosabelle, believe' (KNOWN). Arthur Ford 1929 claim (DEBATED, not mentioned in detail). Final séance 31 Oct 1936, Knickerbocker Hotel roof, radio broadcast, 'Ten years is long enough to wait for any man' (KNOWN).",
+    "ig_caption": "'ten years is long enough to wait for any man'. Bess Houdini is the main character of this story honestly",
+    "tt_caption": "Houdini's secret code to prove the afterlife #houdini #afterlife"
+  },
+  {
+    "id": "P04-09", "pillar": "Spirits, ghosts & apparitions", "sub": "History of ghosts", "style": "S9", "status": "KNOWN",
+    "hook": "How ghosts changed|over *2,000 years*",
+    "lines": [
+      {"say": "Ghosts change with the times. Watch.", "shots": [["q: candle flame fast time-lapse", "orange"], ["line art: timeline arrow", "mono"]]},
+      {"say": "Around the year 100, Roman ghosts were thin old men in chains, asking for a proper burial.", "shots": [["q: iron chains on stone", "mono"], ["q: Roman ruins night", "cool"]]},
+      {"say": "Medieval England had revenants: not see-through spirits, but actual corpses walking out of graves. Chroniclers wrote of villagers digging them up and burning them.", "shots": [["q: medieval graveyard fog", "teal"], ["archive: medieval manuscript illumination death (public domain)", "warm"]]},
+      {"say": "Around 1600, Shakespeare's ghosts want justice. Hamlet's father comes back to demand revenge.", "shots": [["archive: Hamlet ghost engraving (public domain)", "mono"], ["q: castle battlements night", "cool"]]},
+      {"say": "Victorian ghosts rap on tables and speak through mediums in dark parlors.", "shots": [["archive: Victorian séance photograph (public domain)", "mono"], ["q: dark parlor velvet curtains", "red"]]},
+      {"say": "Twentieth-century ghosts show up on film. And now, they're orbs on night-vision cameras and voices in static.", "shots": [["q: night vision camera footage dust orbs", "mono"], ["q: TV static noise", "cool"]]},
+      {"say": "Every era's ghosts look like that era's fears and technology. That doesn't prove they're not real. But it's a pattern worth noticing.", "shots": [["line art: ghost outlines changing shape", "mono"], ["q: old house window night", "teal"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Pliny 7.27 (KNOWN). Medieval revenants, William of Newburgh 12th c. (KNOWN). Hamlet c. 1600 (KNOWN). Victorian séance culture (KNOWN). Orbs explained as flash backscatter from dust (KNOWN). Interpretation of pattern (DEBATED).",
+    "ig_caption": "roman ghosts wore chains, medieval ghosts were literal corpses, victorian ghosts knocked on tables, ours are dust orbs. we get the ghosts we expect",
+    "tt_caption": "how ghosts have changed through history #ghosts #history"
+  },
+  {
+    "id": "P04-10", "pillar": "Spirits, ghosts & apparitions", "sub": "Theories of hauntings", "style": "S6", "status": "SPECULATION",
+    "hook": "What if ghosts are|*recordings*?",
+    "lines": [
+      {"say": "Here's a strange idea about ghosts. What if they aren't spirits at all? What if they're replays?", "shots": [["q: old film projector beam dust", "warm"], ["q: empty corridor stone", "mono"]]},
+      {"say": "Many hauntings look like loops. The same figure, the same staircase, the same time of night. It doesn't notice you. It just repeats.", "shots": [["q: staircase repeating loop", "teal"], ["line art: loop arrow", "mono"]]},
+      {"say": "In the 1960s, a British writer named Tom Lethbridge suggested that places might soak up strong emotions and play them back.", "shots": [["q: English countryside fog", "cool"], ["q: old typewriter page", "warm"]]},
+      {"say": "In 1972, the BBC made it a TV drama called The Stone Tape. Ever since, people call it the Stone Tape theory.", "shots": [["q: old CRT television static", "mono"], ["q: stone wall texture macro", "warm"]]},
+      {"say": "The idea is that stone, like magnetic tape, records something from an event, and certain people can sense the playback.", "shots": [["q: reel to reel tape spinning", "orange"], ["line art: wall with sound waves inside", "mono"]]},
+      {"say": "To be clear: no physics we know of allows stone to record a person. Nobody has measured it.", "shots": [["line art: 'no known mechanism' stamp", "red"], ["q: lab instruments dark", "cool"]]},
+      {"say": "But it would explain why so many ghosts act less like someone visiting, and more like a scene stuck on repeat.", "shots": [["q: ghostly double exposure corridor", "mono"], ["q: rewind tape VHS", "teal"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "T. C. Lethbridge, 'Ghost and Ghoul' 1961, place-memory idea (KNOWN). Nigel Kneale's 'The Stone Tape', BBC, 1972 (KNOWN). Theory has no physical mechanism (KNOWN). Theory itself is SPECULATION.",
+    "ig_caption": "not saying I believe it. but the 'ghost on repeat' thing always bugged me and this is the only idea that explains it",
+    "tt_caption": "the Stone Tape theory, are ghosts just recordings? #ghosts #paranormal"
+  }
+]

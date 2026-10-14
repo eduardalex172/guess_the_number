@@ -1,0 +1,114 @@
+{
+  "id": "P04-07",
+  "hook": "A Roman ghost story|that *ends* with bones",
+  "speed": 1.05,
+  "musicVol": 0.3,
+  "outro": "*The Thread Beneath*",
+  "lines": [
+    {
+      "say": "Almost two thousand years ago, a Roman writer named Pliny the Younger wrote a letter asking a friend: do ghosts exist?",
+      "shots": [
+        [
+          "archive: Pliny the Younger statue Como (public domain photo)",
+          "warm",
+          {}
+        ],
+        [
+          "q: Roman letter wax tablet stylus",
+          "orange",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Then he tells a story. In Athens there was a big house nobody would live in.",
+      "shots": [
+        [
+          "q: Athens old ruins night",
+          "cool",
+          {}
+        ],
+        [
+          "q: abandoned stone courtyard",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "At night you'd hear chains. Then an old man would appear, thin, filthy, with chains on his legs and wrists, rattling them.",
+      "shots": [
+        [
+          "q: rusted iron chains dragging",
+          "mono",
+          {}
+        ],
+        [
+          "q: shadow on stone wall",
+          "teal",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "A philosopher named Athenodorus rented it anyway, because it was cheap. He sat up writing. The ghost came. It beckoned. He followed it into the courtyard, where it vanished.",
+      "shots": [
+        [
+          "q: oil lamp writing desk night",
+          "orange",
+          {}
+        ],
+        [
+          "q: dark courtyard moonlight",
+          "cool",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "He marked the spot with leaves. The next day he had it dug up.",
+      "shots": [
+        [
+          "q: leaves on ground marker",
+          "warm",
+          {}
+        ],
+        [
+          "q: digging earth shovel",
+          "orange",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "They found bones, tangled in chains. They gave them a proper burial. And the haunting stopped.",
+      "shots": [
+        [
+          "q: old bones in soil archaeology",
+          "mono",
+          {}
+        ],
+        [
+          "q: funeral flowers on stone",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "The chained ghost, the unburied body, the haunting that ends with a burial. Ghost stories have barely changed since.",
+      "shots": [
+        [
+          "q: chains on stone floor",
+          "mono",
+          {}
+        ],
+        [
+          "q: candle in stone room",
+          "orange",
+          {}
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "P04-01",
+  "hook": "The sound that makes you|*see ghosts*",
+  "speed": 1.05,
+  "musicVol": 0.3,
+  "outro": "*The Thread Beneath*",
+  "lines": [
+    {
+      "say": "In the 1980s, an engineer named Vic Tandy worked in a lab in England that people said was haunted.",
+      "shots": [
+        [
+          "q: old industrial lab building England night",
+          "cool",
+          {}
+        ],
+        [
+          "q: flickering fluorescent light corridor",
+          "teal",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "One night, he felt cold, uneasy, and saw a grey shape at the edge of his vision. When he turned to look, it was gone.",
+      "shots": [
+        [
+          "q: blurred shadow corner dark room",
+          "mono",
+          {}
+        ],
+        [
+          "q: peripheral vision blur abstract",
+          "cool",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "The next day he was fixing a fencing sword in a vise, and the blade started vibrating on its own.",
+      "shots": [
+        [
+          "q: fencing foil blade close-up",
+          "warm",
+          {}
+        ],
+        [
+          "q: metal vise workbench",
+          "orange",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "He traced it to a new extractor fan. It was producing sound at nineteen cycles a second. Too low for humans to hear.",
+      "shots": [
+        [
+          "q: industrial extractor fan spinning",
+          "teal",
+          {}
+        ],
+        [
+          "line art: sound wave 19 Hz below hearing line",
+          "mono",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "When the fan was fixed, the feeling, and the ghost, disappeared.",
+      "shots": [
+        [
+          "q: fan blades stopping",
+          "cool",
+          {}
+        ],
+        [
+          "q: empty lab bright light",
+          "warm",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Low sound like this, called infrasound, has been linked in some experiments to anxiety, chills and a sense of presence, and may even make the eyeball vibrate slightly.",
+      "shots": [
+        [
+          "line art: eye outline with vibration lines",
+          "mono",
+          {}
+        ],
+        [
+          "q: organ pipes low notes",
+          "orange",
+          {}
+        ]
+      ]
+    },
+    {
+      "say": "Not every haunting is a fan. But some of them might be.",
+      "shots": [
+        [
+          "q: old house dark window",
+          "teal",
+          {}
+        ],
+        [
+          "q: ventilation duct dark",
+          "mono",
+          {}
+        ]
+      ]
+    }
+  ]
+}
