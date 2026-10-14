@@ -1,0 +1,171 @@
+[
+  {
+    "id": "P01-01", "pillar": "Ancient history & lost civilizations", "sub": "Megaliths", "style": "S1", "status": "KNOWN",
+    "hook": "Built before|*farming* existed",
+    "lines": [
+      {"say": "This temple in southern Turkey is around eleven and a half thousand years old.", "shots": [["q: Gobekli Tepe aerial drone", "warm"], ["q: Gobekli Tepe enclosure circle stones", "orange"]]},
+      {"say": "That's older than Stonehenge by six thousand years. Older than the pyramids by seven.", "shots": [["q: Stonehenge wide dusk", "cool"], ["q: Giza pyramids wide", "warm"], ["line art: timeline 9500 BC / 3000 BC / 2560 BC", "mono"]]},
+      {"say": "But the strange part isn't the age. It's who built it.", "shots": [["q: Gobekli Tepe T-shaped pillar close-up", "warm"], ["q: carved fox relief stone", "orange"]]},
+      {"say": "No pottery. No farms. No metal tools. The people who carved these five-meter pillars were hunter-gatherers.", "shots": [["q: flint tools macro", "mono"], ["q: wild steppe grassland wind", "warm"], ["q: pillar carved boar and birds relief", "orange"]]},
+      {"say": "Archaeologists used to think you needed farming first, then cities, then temples.", "shots": [["line art: arrow farming -> city -> temple", "mono"], ["q: ancient wheat field", "warm"]]},
+      {"say": "Göbekli Tepe flipped that. The temple came first. Some researchers think feeding the builders helped push people toward farming.", "shots": [["line art: arrows reverse, temple -> farming", "mono"], ["q: wild einkorn wheat close-up", "warm"], ["q: Karacadag mountains Turkey", "cool"]]},
+      {"say": "Religion may not have followed civilization. It may have started it.", "shots": [["q: stone pillar silhouette night stars", "teal"], ["q: torch fire light on stone texture", "orange"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "c. 9500 BC (KNOWN, radiocarbon). Pre-pottery hunter-gatherer builders (KNOWN). 'Temple first, then farming' is Klaus Schmidt's interpretation (DEBATED; newer digs found domestic structures). Pillars up to ~5.5 m.",
+    "ig_caption": "11,500 years old. no farms, no pottery, no metal. hunter-gatherers carved this. the textbook order (farms, then cities, then temples) might be backwards",
+    "tt_caption": "Gobekli Tepe is older than Stonehenge AND the pyramids and it was built by hunter-gatherers #gobeklitepe #ancienthistory"
+  },
+  {
+    "id": "P01-02", "pillar": "Ancient history & lost civilizations", "sub": "Ancient technology", "style": "S1", "status": "KNOWN",
+    "hook": "A 2,000-year-old|*computer*",
+    "lines": [
+      {"say": "In 1901, sponge divers off a Greek island pulled up a lump of corroded bronze from a Roman-era shipwreck.", "shots": [["q: underwater Mediterranean shipwreck amphora", "teal"], ["q: Antikythera island coast aerial", "cool"], ["archive: Antikythera mechanism main fragment (Wikimedia, credit)", "warm"]]},
+      {"say": "For decades nobody understood it. Then X-rays and CT scans looked inside.", "shots": [["q: x-ray scan rotating metal object", "mono"], ["q: CT scanner lab", "cool"]]},
+      {"say": "There were gears. At least thirty of them, with triangular teeth cut by hand.", "shots": [["line art: interlocking gears animation", "orange"], ["q: bronze gear macro corroded", "warm"]]},
+      {"say": "Turn a crank, and it showed where the Sun and Moon were in the sky, the Moon's phase, and when eclipses would happen, years in advance.", "shots": [["q: Antikythera reconstruction model crank turning", "warm"], ["q: moon phases time-lapse", "cool"], ["q: lunar eclipse red moon", "red"]]},
+      {"say": "It even tracked the four-year cycle of the Olympic Games.", "shots": [["q: ancient Olympia stadium ruins", "warm"], ["line art: dial with four sectors", "mono"]]},
+      {"say": "Nothing with gearing this complex shows up again for over a thousand years, until medieval astronomical clocks.", "shots": [["q: Prague astronomical clock close-up", "orange"], ["q: medieval clock mechanism gears", "warm"]]},
+      {"say": "The Greeks didn't just watch the sky. They built a machine to hold it.", "shots": [["q: night sky over Aegean sea", "teal"], ["q: Milky Way time-lapse", "cool"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Found 1901 (KNOWN). Wreck c. 70-60 BC; device 2nd-1st c. BC (DEBATED range). ~30 surviving gears (KNOWN). Eclipses, lunar phase, Olympiad dial (KNOWN, Freeth et al. 2006/2021).",
+    "ig_caption": "a crank, thirty hand-cut gears, and it predicted eclipses. pulled off a shipwreck in 1901 and nobody got it for decades",
+    "tt_caption": "the Antikythera mechanism is the oldest known analog computer #antikythera #ancientgreece"
+  },
+  {
+    "id": "P01-03", "pillar": "Ancient history & lost civilizations", "sub": "Ancient technology", "style": "S2", "status": "KNOWN",
+    "hook": "Roman glass that|*changes color*",
+    "lines": [
+      {"say": "This is the Lycurgus Cup, made in Rome around sixteen hundred years ago.", "shots": [["archive: Lycurgus Cup green, front light (Wikimedia, credit)", "warm"], ["q: Roman glassware museum", "mono"]]},
+      {"say": "Light it from the front, and it's a dull jade green.", "shots": [["archive: Lycurgus Cup green detail", "cool"], ["line art: arrow light from front", "mono"]]},
+      {"say": "Put a light inside it, and it glows blood red.", "shots": [["archive: Lycurgus Cup red, lit from inside (Wikimedia, credit)", "red"], ["q: glowing red glass light", "red"]]},
+      {"say": "For centuries nobody knew why. In 1990, scientists looked at the glass under an electron microscope.", "shots": [["q: electron microscope lab", "cool"], ["q: microscope eyepiece dark lab", "teal"]]},
+      {"say": "They found particles of gold and silver, about fifty to a hundred nanometers wide, a thousand times thinner than a hair.", "shots": [["line art: hair vs nanoparticle scale", "mono"], ["q: gold particles macro shimmer", "orange"]]},
+      {"say": "Those particles scatter light one way and let it through another. Today we call that nanotechnology.", "shots": [["line art: light wave hitting particles, splitting green / red", "magenta"], ["q: laser beam through glass", "teal"]]},
+      {"say": "The Romans almost certainly didn't understand it. But they made it work, probably by accident, and kept the recipe.", "shots": [["q: glassblowing furnace molten glass", "orange"], ["q: ancient Roman workshop ruins", "warm"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Lycurgus Cup, 4th c. AD Roman (KNOWN). Dichroic: green reflected, red transmitted (KNOWN). Gold-silver nanoparticles ~50-100 nm, TEM study Barber & Freestone 1990 (KNOWN). Whether deliberate is DEBATED. Cup is in the British Museum: use Wikimedia photos ONLY if licence allows commercial use and not BM-owned images; else redraw.",
+    "ig_caption": "same cup, same glass. green from the outside, red when lit from inside. romans pulled off nanotech by accident",
+    "tt_caption": "the Lycurgus Cup, Roman nanotechnology from 1600 years ago #romanempire #ancienttech"
+  },
+  {
+    "id": "P01-04", "pillar": "Ancient history & lost civilizations", "sub": "Ancient tech myths", "style": "S4", "status": "DEBATED",
+    "hook": "The ancient battery|that *isn't*",
+    "lines": [
+      {"say": "You've probably seen it. The Baghdad Battery, proof that ancient people had electricity.", "shots": [["q: clay jar replica copper cylinder", "orange"], ["q: electric spark dark", "cool"]]},
+      {"say": "Here's what it actually is. A clay jar, a copper cylinder, an iron rod. Found near Baghdad and described in 1938.", "shots": [["line art: cross-section jar, copper, iron rod labeled", "mono"], ["q: Baghdad old city aerial", "warm"]]},
+      {"say": "Fill it with vinegar, and yes, you get about half a volt. People have tested it.", "shots": [["q: vinegar pouring glass", "warm"], ["q: multimeter reading low voltage", "teal"]]},
+      {"say": "But nothing else fits. No wires were ever found. No other battery parts. Nothing it could have powered.", "shots": [["q: empty museum display case", "mono"], ["line art: crossed-out wire icon", "red"]]},
+      {"say": "And the iron rod was sealed inside with asphalt, which makes it hard to connect to anything.", "shots": [["q: bitumen tar close-up", "orange"], ["line art: seal on top of jar", "mono"]]},
+      {"say": "Most archaeologists think it held rolled scrolls, like similar jars from the region, and the metal simply corroded.", "shots": [["q: ancient scroll rolled papyrus", "warm"], ["q: corroded copper patina macro", "teal"]]},
+      {"say": "It can make electricity. There's just no sign anyone ever used it that way.", "shots": [["q: clay jar silhouette dark background", "mono"], ["q: dust particles in light beam", "warm"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Described by Wilhelm Koenig 1938 (KNOWN). Parthian or Sasanian date (DEBATED). Replicas give ~0.5-2 V (KNOWN). Scroll-storage interpretation (DEBATED, mainstream). No conductors found (KNOWN).",
+    "ig_caption": "I used to believe the Baghdad battery thing. turns out it can make half a volt with vinegar... and that's about all we can say for sure",
+    "tt_caption": "Baghdad battery: what the evidence actually shows #ancientmysteries #mythbusting"
+  },
+  {
+    "id": "P01-05", "pillar": "Ancient history & lost civilizations", "sub": "Lost libraries", "style": "S7", "status": "KNOWN",
+    "hook": "The fire that|*saved* a library",
+    "lines": [
+      {"say": "In 612 BC, the city of Nineveh was sacked and burned.", "shots": [["archive: 19th c. engraving fall of Nineveh (public domain)", "orange"], ["q: fire flames dark slow motion", "red"]]},
+      {"say": "Inside the palace was the library of King Ashurbanipal. Tens of thousands of clay tablets.", "shots": [["archive: Ashurbanipal relief (Wikimedia, non-BM)", "warm"], ["q: stacked clay tablets", "orange"]]},
+      {"say": "Paper burns. Parchment burns. But clay does something else in a fire. It bakes.", "shots": [["q: paper burning macro", "red"], ["q: pottery kiln fire", "orange"]]},
+      {"say": "The blaze that destroyed the city hardened the tablets and kept them under the rubble for two and a half thousand years.", "shots": [["q: archaeological dig soil layers", "warm"], ["q: Nineveh ruins Mosul aerial", "mono"]]},
+      {"say": "In the 1850s they were dug up and shipped to London. Among them was the Epic of Gilgamesh.", "shots": [["archive: Layard excavation engraving 1850s (public domain)", "mono"], ["q: steamship 19th century archive", "cool"]]},
+      {"say": "In 1872, a young scholar named George Smith read one tablet and found a flood story: a boat, and birds sent out to find land.", "shots": [["archive: George Smith portrait (public domain)", "mono"], ["line art: boat on waves, dove", "teal"]]},
+      {"say": "Burning the library is the reason we can still read it.", "shots": [["q: cuneiform clay fragment macro", "warm"], ["q: embers glowing dark", "orange"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Nineveh fell 612 BC (KNOWN). ~30,000 tablets/fragments (KNOWN). Fire-hardening helped preservation (KNOWN, commonly stated). Layard/Rassam excavations 1849-1850s (KNOWN). George Smith 1872 (KNOWN). Ties to ep. 1 (Utnapishtim) without repeating it. No BM photos.",
+    "ig_caption": "the fire that burned Nineveh basically baked its library into stone. that's why we can read Gilgamesh today",
+    "tt_caption": "how a fire preserved the Library of Ashurbanipal #gilgamesh #ancienthistory"
+  },
+  {
+    "id": "P01-06", "pillar": "Ancient history & lost civilizations", "sub": "Sumer & Mesopotamia", "style": "S10", "status": "KNOWN",
+    "hook": "Why an hour has|*60* minutes",
+    "lines": [
+      {"say": "Sixty seconds, sixty minutes. Why sixty, when we count everything else in tens?", "shots": [["q: clock second hand macro", "cool"], ["q: vintage pocket watch face", "warm"]]},
+      {"say": "Blame Mesopotamia. Over four thousand years ago, Sumerian and later Babylonian scribes counted in base sixty.", "shots": [["q: cuneiform numbers tablet close-up", "warm"], ["q: Euphrates river reeds", "orange"]]},
+      {"say": "Sixty is great for trade. It divides cleanly by two, three, four, five, six, ten, twelve, fifteen, twenty and thirty.", "shots": [["line art: 60 splitting into equal slices", "mono"], ["q: grain pouring into bowl", "warm"]]},
+      {"say": "Babylonian astronomers used it to track the sky. Greek astronomers like Ptolemy copied their system.", "shots": [["q: astrolabe antique brass", "warm"], ["q: star trails night sky", "cool"]]},
+      {"say": "So when the hour was later cut into smaller pieces, it was cut the Babylonian way.", "shots": [["q: medieval clockwork gears", "orange"], ["line art: hour circle divided into 60", "mono"]]},
+      {"say": "Same with the circle. Three hundred and sixty degrees. Six times sixty.", "shots": [["line art: circle with 360 degree marks, phi overlay", "teal"], ["q: compass rose antique map", "warm"]]},
+      {"say": "Every time you check the time, you're using math invented by people who wrote on clay.", "shots": [["q: digital clock numbers changing", "cool"], ["q: reed stylus pressing clay", "warm"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Sexagesimal from Sumer, developed by Babylonians (KNOWN). Greek astronomers used sexagesimal fractions (KNOWN). Hour subdivision into 60 came later through astronomy (KNOWN). 360 degrees tied to Babylonian astronomy (KNOWN; exact origin DEBATED).",
+    "ig_caption": "never thought about why an hour is 60 minutes until today. it's Babylonian math. we're still counting like it's 2000 BC",
+    "tt_caption": "why time is counted in 60s #history #sumer"
+  },
+  {
+    "id": "P01-07", "pillar": "Ancient history & lost civilizations", "sub": "Egypt", "style": "S5", "status": "KNOWN",
+    "hook": "The diary of a man who|built the *Great Pyramid*",
+    "lines": [
+      {"say": "In 2013, on Egypt's Red Sea coast, archaeologists found the oldest inscribed papyri ever discovered.", "shots": [["q: Red Sea coast Egypt desert aerial", "warm"], ["q: papyrus fragments close-up", "orange"]]},
+      {"say": "They were the logbook of an official named Merer, written about forty-five hundred years ago.", "shots": [["line art: hieratic script on papyrus", "mono"], ["q: ancient Egyptian writing ink", "warm"]]},
+      {"say": "Merer ran a crew of about forty men. Their job: carry limestone by boat from the quarries at Tura, along the Nile, to Giza.", "shots": [["q: limestone quarry cliff", "warm"], ["line art: map Tura -> Giza along Nile", "teal"], ["q: Nile river felucca sunrise", "orange"]]},
+      {"say": "For King Khufu. The pyramid we call the Great Pyramid.", "shots": [["q: Great Pyramid of Giza low angle", "orange"], ["archive: Khufu ivory statuette (public domain)", "mono"]]},
+      {"say": "He writes it like a work schedule. Loaded stones. Sailed. Spent the night. Sailed again.", "shots": [["line art: day-by-day log entries", "mono"], ["q: river at night moonlight", "cool"]]},
+      {"say": "No aliens. No lost technology. A shipping crew, a canal, and a guy keeping careful notes.", "shots": [["q: pyramid casing limestone blocks close", "warm"], ["q: canal water desert", "teal"]]},
+      {"say": "And somehow that's more impressive.", "shots": [["q: pyramid apex sun flare", "orange"], ["q: Giza dusk silhouette", "magenta"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Wadi al-Jarf papyri, found 2013 by Pierre Tallet (KNOWN). Merer's diary, Khufu's reign c. 2560 BC (KNOWN). ~40-man crew, Tura limestone to Giza (KNOWN). Oldest inscribed papyri known (KNOWN).",
+    "ig_caption": "the guy who shipped limestone for the Great Pyramid kept a work diary. we found it in 2013. it reads like a delivery log",
+    "tt_caption": "Diary of Merer, the oldest papyrus ever found, is about building the Great Pyramid #egypt #pyramids"
+  },
+  {
+    "id": "P01-08", "pillar": "Ancient history & lost civilizations", "sub": "Ancient mathematics", "style": "S2", "status": "DEBATED",
+    "hook": "Pythagoras was|*1,000 years late*",
+    "lines": [
+      {"say": "This is a clay tablet called Plimpton 322. It's about thirty-eight hundred years old.", "shots": [["line art: Plimpton 322 grid redraw, slow push", "warm"], ["q: clay tablet macro texture", "orange"]]},
+      {"say": "It's a table. Four columns, fifteen rows, numbers in base sixty.", "shots": [["line art: columns highlight one by one", "mono"], ["line art: rows counting 1-15", "mono"]]},
+      {"say": "In 1945, scholars worked out what the numbers were. Sets of whole numbers that make right triangles.", "shots": [["line art: right triangle sides labeled", "teal"], ["q: old library books desk lamp", "warm"]]},
+      {"say": "Like three, four, five. Except these get huge. One row has twelve thousand seven hundred and nine, and eighteen thousand five hundred and forty-one.", "shots": [["line art: 3-4-5 triangle", "mono"], ["line art: numbers 12709 and 18541 typing", "teal"]]},
+      {"say": "That's the Pythagorean theorem at work, more than a thousand years before Pythagoras was born.", "shots": [["archive: Pythagoras bust (public domain photo)", "warm"], ["line art: a² + b² = c²", "orange"]]},
+      {"say": "What it was for is still argued. A teacher's list of problems, or something like a trigonometry table.", "shots": [["line art: question mark over tablet", "mono"], ["q: chalkboard geometry", "cool"]]},
+      {"say": "Either way, someone in Babylon knew this rule very well.", "shots": [["q: Babylon ruins Iraq sunset", "orange"], ["q: Ishtar gate reconstruction blue", "teal"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Plimpton 322, Columbia University, c. 1800 BC (KNOWN). Triples identified by Neugebauer & Sachs 1945 (KNOWN). 12709/18541 is row 4 (KNOWN). Purpose DEBATED (Robson; Mansfield & Wildberger 2017). Use redraw unless free licence confirmed.",
+    "ig_caption": "a Babylonian tablet full of Pythagorean triples. a thousand years before Pythagoras. what it was FOR is still a fight",
+    "tt_caption": "Plimpton 322 shows Babylonians knew the Pythagorean theorem #math #babylon"
+  },
+  {
+    "id": "P01-09", "pillar": "Ancient history & lost civilizations", "sub": "Ancient technology", "style": "S8", "status": "KNOWN",
+    "hook": "Roman concrete|*heals itself*",
+    "lines": [
+      {"say": "Modern concrete cracks within decades. Roman harbors have stood in seawater for two thousand years.", "shots": [["q: cracked modern concrete", "mono"], ["q: Roman harbor ruins waves", "teal"]]},
+      {"say": "For a long time the answer was volcanic ash. That's part of it.", "shots": [["q: volcanic ash landscape Vesuvius", "orange"], ["q: ash powder macro", "mono"]]},
+      {"say": "But in 2023, an MIT team found something else. Tiny white chunks of lime scattered through the concrete.", "shots": [["q: concrete cross-section microscope", "cool"], ["line art: circles around white clasts", "mono"]]},
+      {"say": "Everyone assumed those were mistakes, bad mixing. They weren't.", "shots": [["q: ancient mortar wall texture", "warm"], ["line art: 'mistake' crossed out", "red"]]},
+      {"say": "The Romans likely mixed in hot quicklime. When a crack forms and water gets in, those lime chunks dissolve and refill the crack with fresh mineral.", "shots": [["q: quicklime reacting water steam", "orange"], ["line art: crack forms, water enters, crack seals", "teal"]]},
+      {"say": "The team made their own version, cracked it, ran water through, and in two weeks the cracks had sealed.", "shots": [["q: water trickling over stone", "cool"], ["line art: day 0 -> day 14 crack closing", "mono"]]},
+      {"say": "The Pantheon's dome is still the largest unreinforced concrete dome on Earth.", "shots": [["q: Pantheon dome interior oculus", "warm"], ["q: Pantheon Rome exterior", "orange"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Seger, Masic et al., Science Advances, Jan 2023 (KNOWN): hot mixing, lime clasts self-heal; samples sealed in ~2 weeks. Pozzolanic ash (KNOWN). Pantheon largest unreinforced concrete dome (KNOWN).",
+    "ig_caption": "the 'mistakes' in Roman concrete were actually the reason it lasts 2000 years. little lime chunks that patch cracks when water gets in",
+    "tt_caption": "why Roman concrete lasts thousands of years #romanempire #engineering"
+  },
+  {
+    "id": "P01-10", "pillar": "Ancient history & lost civilizations", "sub": "Sumer & Mesopotamia", "style": "S3", "status": "KNOWN",
+    "hook": "3 Sumerian inventions|you *used today*",
+    "lines": [
+      {"say": "Three things you used today that started in ancient Mesopotamia.", "shots": [["q: Mesopotamian marshes reeds Iraq", "warm"], ["q: Ur ziggurat wide", "orange"]]},
+      {"say": "One. Writing. Around 3200 BC in Uruk, scribes pressed reeds into clay to track grain and beer. The first written words were basically receipts.", "shots": [["q: reed stylus clay writing", "warm"], ["q: barley grain macro", "orange"], ["line art: proto-cuneiform beer sign", "mono"]]},
+      {"say": "Two. The wheel. Some of the earliest known wheels appear in Mesopotamia around then, first for pottery, then for carts.", "shots": [["q: potter's wheel spinning clay", "warm"], ["q: ancient solid wooden wheel", "orange"]]},
+      {"say": "Three. The week. Mesopotamian astronomers gave special weight to seven, the seven lights that wander across the sky: the Sun, the Moon, and five planets.", "shots": [["q: planets visible night sky", "cool"], ["line art: seven circles in a row", "mono"], ["q: moon rising time-lapse", "teal"]]},
+      {"say": "Those seven still sit inside the names of our days. Sunday. Monday. Saturday, for Saturn.", "shots": [["line art: weekday names with planet symbols", "mono"], ["q: Saturn telescope view", "cool"]]},
+      {"say": "Writing, wheels, weeks. Five thousand years old, and still running your life.", "shots": [["q: wall calendar pages flipping", "warm"], ["q: cuneiform tablet final close-up", "orange"]]}
+    ],
+    "outro": "*The Thread Beneath*",
+    "fact_note": "Proto-cuneiform at Uruk c. 3200 BC, administrative (KNOWN). Wheel: Mesopotamia c. 3500 BC among earliest, Ljubljana wheel comparably old (DEBATED origin; wording 'some of the earliest'). Seven-day week via Babylonian sevens and Hellenistic planet-days (KNOWN chain, exact origin DEBATED).",
+    "ig_caption": "writing started as beer receipts. not even joking",
+    "tt_caption": "3 Sumerian inventions you still use every day #sumer #history"
+  }
+]
